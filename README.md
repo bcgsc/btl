@@ -1,2 +1,3 @@
-# btl
-Bioinformatics Technology Lab of the Genome Sciences Centre
+# Bioinformations Technology Lab of the Genome Sciences Centre
+
+See the content of the website at https://bcgsc.github.io/btl/
