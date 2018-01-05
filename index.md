@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home - BTL 
+title: Home
 ---
 
 Welcome to the Bioinformatics Technology Lab 
