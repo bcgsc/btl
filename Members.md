@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Members - BTL
+title: Members
 ---
 
 Principal Investigator: Dr. Inanc Birol (link to page with publications)
