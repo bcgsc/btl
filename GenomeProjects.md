@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Genome Projects
+title: Active Projects
 ---
 
 Spruce
