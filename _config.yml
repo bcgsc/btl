@@ -1,16 +1,14 @@
 title: Bioinformatics Technology Lab
-#author: bcgsc
-#email: your-email@domain.com
 description: Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre. Creates software for de novo genome assembly. 
 
+#author: bcgsc
+#email: your-email@domain.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
 minima:
   date_format: "%b %-d, %Y"
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
 header_pages:
  - members.md
  - projects.md
