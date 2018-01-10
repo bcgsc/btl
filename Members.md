@@ -3,8 +3,8 @@ layout: default
 title: Members
 ---
 
-Dr. Inanc Birol, Principal Investigator
-Rene Warren, Group Leader
+Inanc Birol, Principal Investigator  
+Rene Warren, Group Leader  
 Sinead Aherne, Project Manager
 
 ### Clinical Bioinformatics
