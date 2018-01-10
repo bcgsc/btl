@@ -1,8 +1,7 @@
 title: Bioinformatics Technology Lab
-author: bcgsc
+#author: bcgsc
 #email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre. Creates software for de novo genome assembly. 
+description: Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre. Creates software for de novo genome assembly. 
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
@@ -13,10 +12,9 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - index.md
  - members.md
  - projects.md
- - software.md
+ - software.html
  - news.md
 
 # Build settings
