@@ -4,7 +4,7 @@ description: Bioinformatics Technology Lab at Canada's Michael Smith Genome Scie
 #author: bcgsc
 #email: your-email@domain.com
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username: bcgsc
 
 minima:
   date_format: "%b %-d, %Y"
