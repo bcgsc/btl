@@ -3,11 +3,11 @@ layout: default
 title: Members
 ---
 
-Inanc Birol, Principal Investigator  
-Rene Warren, Group Leader  
-Sinead Aherne, Project Manager
+**Inanc Birol, Principal Investigator**  
+**Rene Warren, Group Leader**  
+**Sinead Aherne, Project Manager**
 
-### Clinical Bioinformatics
+### **Clinical Bioinformatics**
 Readman Chiu, staff  
 S. Austin Hammond, staff/computational biologist  
 Zhuyi Xue, staff/computational biologist  
@@ -17,10 +17,10 @@ Ka Ming Nip, graduate student
 Jessica Ma, coop student 
 Emre Erhan, TBD
 
-### Artificial Intelligence/Natural Language Processing
+### **Artificial Intelligence/Natural Language Processing**
 Golnar Sheikhshab
 
-### High Performance Computing
+### **High Performance Computing**
 Ben Vandervalk, staff/programmer  
 Lauren Coombe, staff/computational biologist  
 Hamid Mohamadi, PDF  
@@ -31,7 +31,7 @@ Saber Hafezqorani, graduate student
 Chenkai Li, graduate student  
 Jeffrey Tse, coop student
 
-### Alumni
+### **Alumni**
 Jessica Zhang, intern  
 Ewan Gibb, staff scientist  
 Hamza Khan, graduate student  
