@@ -28,14 +28,16 @@ def cleanAuthors(authors):
 
 def cleanJournal(journal):
         if type(journal) = None: return ''
-	j = journal.strip('None')
-	j = journal.strip('Detail:')
-	return j
+	else:
+                j = journal.strip('None')
+                j = journal.strip('Detail:')
+                return j
 
 #end helpers
 
 my_file = open("../publications.md", "w")
 
+# I'm using a downloaded html file at the moment because I was blocked. 
 url='https://scholar.google.ca/citations?hl=en&user=Svk1wjsAAAAJ&view_op=list_works&sortby=pubdate'
 #soup=BeautifulSoup(urllib.urlopen(url).read(),"lxml")
 soup=BeautifulSoup(open("inanc.html").read(),"lxml")
