@@ -27,14 +27,17 @@ def cleanAuthors(authors):
 	return a
 
 def cleanJournal(journal):
-	j = journal.strip('None')
-	j = journal.strip('Detail:')
-	return j
+        if type(journal) = None: return ''
+	else:
+                j = journal.strip('None')
+                j = journal.strip('Detail:')
+                return j
 
 #end helpers
 
 my_file = open("../publications.md", "w")
 
+# I'm using a downloaded html file at the moment because I was blocked. 
 url='https://scholar.google.ca/citations?hl=en&user=Svk1wjsAAAAJ&view_op=list_works&sortby=pubdate'
 #soup=BeautifulSoup(urllib.urlopen(url).read(),"lxml")
 soup=BeautifulSoup(open("inanc.html").read(),"lxml")
@@ -62,10 +65,6 @@ for td in soup.findAll('td', {"class":"gsc_a_t"}):
 	#journal name	
 	[x.extract() for x in info[1].findAll('span')]
 	journal = cleanJournal(info[1].string)
-	try: journal = cleanJournal(info[1].string)
-	except: 
-		journal = '' 
-		pass	
 
 	citation = authors + '. ' + name + '. ' + date + '. _' + journal + '_  \n\n' 
 	my_file.write(citation.encode('utf-8'))
