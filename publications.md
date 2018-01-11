@@ -163,5 +163,3 @@ Cancer Genome Atlas Network. Comprehensive molecular characterization of human c
 SP Shah, A Roth, R Goya, A Oloumi, G Ha, Y Zhao, G Turashvili, J Ding. The clonal and mutational evolution spectrum of primary triple-negative breast cancers. 2012 Jun 21. _Nature 486 (7403), 395-399_  
 
 A Hadj Khodabakhshi, RD Morin, AP Fejes, AJ Mungall, KL Mungall. Recurrent targets of aberrant somatic hypermutation in lymphoma. 2012 Jun 11. _Oncotarget 3 (11)_  
-
-D Yorukoglu, F Hach, L Swanson, CC Collins, **

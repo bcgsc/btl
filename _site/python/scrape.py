@@ -16,6 +16,9 @@ def convertDate(date):
 	elif re.match('\d{4}\/\d{1,2}\/\d{1,2}',date):
 		newdate=datetime.strptime(date,'%Y/%m/%d').strftime('%Y %b %d')
 		return newdate
+	elif re.match('\d{4}\/\d{1,2}',date):
+		newdate=datetime.strptime(date,'%Y/%m').strftime('%Y %b')
+		return newdate
 	else: 		
 		return ''
 
