@@ -27,6 +27,7 @@ def cleanAuthors(authors):
 	return a
 
 def cleanJournal(journal):
+        if type(journal) = None: return ''
 	j = journal.strip('None')
 	j = journal.strip('Detail:')
 	return j
@@ -62,10 +63,6 @@ for td in soup.findAll('td', {"class":"gsc_a_t"}):
 	#journal name	
 	[x.extract() for x in info[1].findAll('span')]
 	journal = cleanJournal(info[1].string)
-	try: journal = cleanJournal(info[1].string)
-	except: 
-		journal = '' 
-		pass	
 
 	citation = authors + '. ' + name + '. ' + date + '. _' + journal + '_  \n\n' 
 	my_file.write(citation.encode('utf-8'))
