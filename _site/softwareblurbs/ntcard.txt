@@ -1,0 +1,5 @@
+ntcard
+
+https://github.com/bcgsc/ntCard
+ntCard
+Estimating k-mer coverage histogram of genomics data

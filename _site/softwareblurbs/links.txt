@@ -1,0 +1,5 @@
+links
+http://www.bcgsc.ca/platform/bioinfo/software/links/logo
+https://github.com/bcgsc/LINKS
+LINKS
+Long Interval Nucleotide K-mer Scaffolder
