@@ -14,7 +14,7 @@ Zhuyi Xue, staff/computational biologist
 Daniel MacMillan, staff/computational biologist  
 Chen Yang, graduate student  
 Ka Ming Nip, graduate student  
-Jessica Ma, coop student 
+Jessica Ma, coop student  
 Emre Erhan, TBD
 
 ### **Artificial Intelligence/Natural Language Processing**
