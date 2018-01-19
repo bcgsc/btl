@@ -1,6 +1,6 @@
 import glob, os
 
-yml_frontmatter = '---\nlayout: default\ntitle: Software\n---\n'
+yml_frontmatter = '---\nlayout: page\ntitle: Software\n---\n'
 os.chdir("../softwareblurbs")
 
 software = open("../software.html", "w+")
