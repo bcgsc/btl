@@ -12,11 +12,11 @@ layout: default
 
 			{% if paginator.posts %}
 				{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-				<h1>{{ collectiondata.title }}</h1>
+				<h2>{{ collectiondata.title }}</h2>
 				{{ collectiondata.description | markdownify }}
 
 			{% else %}
-				<h1>{{ page.title }}</h1>
+				<h2>{{ page.title }}</h2>
 				{{ content }}
 				
 			{% endif %}
@@ -24,7 +24,6 @@ layout: default
     </article>
 
     {% include post-list.html %}
-
   </div>
 
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}

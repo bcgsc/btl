@@ -22,19 +22,19 @@ body {
 // Links.
 a {
   color: $linkColour;
-  text-decoration: none;
+  text-decoration: none!important;
   transition: color .1s, background-color .1s;
 
   &:hover, &:active, &:focus {
     color: $hoverColour;
-    text-decoration: none;
+    text-decoration: none!important;
   }
 }
 
 // Styles for typeset text.
 .typeset {
 
-  // Nice underlines for text links.
+  /* Nice underlines for text links.
   p a, li a {
     background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
     background-position: 0 93%;
@@ -48,7 +48,7 @@ a {
     &:hover, &:active, &:focus {
       background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$hoverColour 50%);
     }
-  }
+  } */
 
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
