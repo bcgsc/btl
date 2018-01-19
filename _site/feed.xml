@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-18T17:14:37-08:00</updated><id>http://localhost:4000/</id><title type="html">Bioinformatics Technology Lab</title><subtitle>Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre. Primarily interested in de novo genome assembly. More description.</subtitle><entry><title type="html">ABySS 2.0 released</title><link href="http://localhost:4000/software/2016/08/27/example-post-one.html" rel="alternate" type="text/html" title="ABySS 2.0 released" /><published>2016-08-27T00:00:00-07:00</published><updated>2016-08-27T00:00:00-07:00</updated><id>http://localhost:4000/software/2016/08/27/example-post-one</id><content type="html" xml:base="http://localhost:4000/software/2016/08/27/example-post-one.html">&lt;p&gt;ABySS 2.0 is a something something after this sentence we will break the preview and&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-01-19T10:48:02-08:00</updated><id>http://localhost:4000/</id><title type="html">Bioinformatics Technology Lab</title><subtitle>Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre. Primarily interested in de novo genome assembly. More description.</subtitle><entry><title type="html">Tweeting is not publishing!</title><link href="http://localhost:4000/editorial/2018/01/02/interesting-facts.html" rel="alternate" type="text/html" title="Tweeting is not publishing!" /><published>2018-01-02T00:00:00-08:00</published><updated>2018-01-02T00:00:00-08:00</updated><id>http://localhost:4000/editorial/2018/01/02/interesting%20facts</id><content type="html" xml:base="http://localhost:4000/editorial/2018/01/02/interesting-facts.html">&lt;p&gt;Things that are publishing:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;publishing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;Things that are not publishing:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;tweeting&lt;/li&gt;
+  &lt;li&gt;presenting at AGBT&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="editorial" /><summary type="html">Things that are publishing: publishing</summary></entry><entry><title type="html">Simon and garFUNKel</title><link href="http://localhost:4000/blog/2017/09/23/simon.html" rel="alternate" type="text/html" title="Simon and garFUNKel" /><published>2017-09-23T00:00:00-07:00</published><updated>2017-09-23T00:00:00-07:00</updated><id>http://localhost:4000/blog/2017/09/23/simon</id><content type="html" xml:base="http://localhost:4000/blog/2017/09/23/simon.html">&lt;p&gt;Hello darkness my old friend, I’ve come to talk with you again. Because a vision softly creeping left its seeds while I was sleeping.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I am just a poor boy though my story seldom told. I squandered my resistance on a pocket full of mumbles such are promises. All lies and jests, still the man hears what he wants to hear and disregards the rest.&lt;/p&gt;
+
+&lt;p&gt;When I left my home and my family I was no more than a boy&lt;/p&gt;</content><author><name></name></author><category term="blog" /><summary type="html">Hello darkness my old friend, I’ve come to talk with you again. Because a vision softly creeping left its seeds while I was sleeping.</summary></entry><entry><title type="html">ABySS 2.0 released</title><link href="http://localhost:4000/software/2016/08/27/example-post-one.html" rel="alternate" type="text/html" title="ABySS 2.0 released" /><published>2016-08-27T00:00:00-07:00</published><updated>2016-08-27T00:00:00-07:00</updated><id>http://localhost:4000/software/2016/08/27/example-post-one</id><content type="html" xml:base="http://localhost:4000/software/2016/08/27/example-post-one.html">&lt;p&gt;ABySS 2.0 is a something something after this sentence we will break the preview and&lt;/p&gt;
 
 &lt;!-- more --&gt;
 
