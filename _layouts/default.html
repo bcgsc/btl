@@ -1,23 +1,33 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<html lang="{{ site.lang | default: "en-US" }}">
+	<head>
+		<!-- General meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {% include head.html %}
+		{% if page.indexing == false %}
+			<meta name="robots" content="noindex">
+		{% endif %}
 
-  <body>
-	<img style="display:block; margin-left: auto; margin-right:auto; width:100%" src="images/btlheader.png">
+		{% if page.collectionpage %}
+			{% seo title=false %}
 
-    {% include header.html %}
+			{% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+			<title>{{ collectiondata.title }} - {{ site.title }}</title>
+			<meta property="og:title" content="{{ collectiondata.title }}">
+			<meta name="description" content="{{ collectiondata.description }}">
+			<meta property="og:description" content="{{ collectiondata.description }}">
+		{% else %}
+			{% seo %}
+		{% endif %}
 
+    <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
 
+		{% if site.avatarurl %}{% include site-favicons.html %}{% endif %}
+	</head>
+	<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
+		{% include site-icons.svg %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
+		{{ content }}
 
-    {% include footer.html %}
-
-  </body>
-
+	</body>
 </html>

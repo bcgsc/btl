@@ -1,0 +1,45 @@
+// Background colours
+$backgroundColour: #ffffff;
+$codeBackgroundColour: #f4f4f4;
+$featureBackgroundColour: #eeeeee;
+$accentColour: #0CBFD3;
+
+// Text colours
+$headingColour: #555555;
+$bodyColour: #757575;
+$featureColour: #ffffff;
+$linkColour: #0CBFD3;
+$hoverColour: #915AA4;
+$focusColour: #fa407a;
+$captionColour: #aaaaaa;
+$white: #ffffff;
+
+// Typography
+$bodytype: (
+  font-family: '"Roboto Condensed", sans-serif',
+  regular: 100,
+  bold: 300,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: '"Roboto Condensed", sans-serif',
+  cap-height: 0.75
+);
+
+$monospacetype: (
+  font-family: 'Menlo, monospace',
+  cap-height: 0.68ee
+);
+
+// Font import, if you're using a non-standard web font
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+
+$spacing-unit:     30px !default;
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+$table-text-align: left !default;
+$text-color:       #111 !default;
+

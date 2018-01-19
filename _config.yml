@@ -1,23 +1,47 @@
 title: Bioinformatics Technology Lab
-description: Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre. Creates software for de novo genome assembly. 
+description: Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre. Primarily interested in de novo genome assembly. More description. 
+logo: "/assets/logo.png"
 
-#author: bcgsc
-#email: your-email@domain.com
-#twitter_username: jekyllrb
-github_username: bcgsc
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
 
-minima:
-  date_format: "%b %-d, %Y"
+remote_theme: daviddarnes/alembic
 
-header_pages:
- - members.md
- - projects.md
- - software.html
- - news.md
+navigation_header:
+  Home: /
+  Members: /members/
+  Projects: /projects/
+  Software: /software/
+  News: /news/
+  
+navigation_footer: 
+    Alembic by David Darnes: "https://github.com/daviddarnes/alembic"
 
 # Build settings
 markdown: kramdown
-theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+sass:
+    style: compressed # Style compression
+    permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+    excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+    
+collections:
+  posts: 
+    title: News
+    output: true
+    description: Recent publications, presentations
+    
+  softwareposts:
+    title: Software
+    output: true
+    description: Our software

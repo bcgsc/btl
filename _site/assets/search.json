@@ -1,0 +1,64 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "ABySS 2.0 released",
+        "excerpt": "ABySS 2.0 is a something something after this sentence we will break the preview and\n\n",
+        "content": "ABySS 2.0 is a something something after this sentence we will break the preview and\n\n\n\nMore information lalalala\n",
+        "url": "/software/2016/08/27/example-post-one.html"
+      },
+    
+  
+    
+    
+  
+  
+  
+  {
+    "title": "News",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/news/"
+  },
+  
+  {
+    "title": "Home",
+    "excerpt": "\n",
+    "content": "\n  \n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n\n      \n\n      \n        News\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n  \n\n\n\n\n\n\n\n\t\n\n\n    \n    Software\n     Could have some icons, some text, definitely a link to Github and BCGSC software maybe\n    \n\n    \n    Active Projects\n     Could have a list of ongoing projects or recent publications\n    \n\n  \n\n\t\n\n  \n    \n      Hello!\n      Hello this is what's going to be in the aside block. You can see our recent publications here:  Publications List      \n    \n\n  \n\n\n\n\n\n\n\n  \n    \n      &copy; Bioinformatics Technology Lab 2018\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Alembic by David Darnes\n      \n    \n  \n\n\n\n  \n\n\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Members",
+    "excerpt": "\n",
+    "content": "Inanc Birol, Principal Investigator\nRene Warren, Group Leader\nSinead Aherne, Project Manager\n\nClinical Bioinformatics\nReadman Chiu, staff\nS. Austin Hammond, staff/computational biologist\nZhuyi Xue, staff/computational biologist\nDaniel MacMillan, staff/computational biologist\nChen Yang, graduate student\nKa Ming Nip, graduate student\nJessica Ma, coop student\nEmre Erhan, TBD\n\nArtificial Intelligence/Natural Language Processing\nGolnar Sheikhshab\n\nHigh Performance Computing\nBen Vandervalk, staff/programmer\nLauren Coombe, staff/computational biologist\nHamid Mohamadi, PDF\nShaun Jackman, graduate student\nKristina Gagalova, graduate student\nYee Fay Lim, graduate student\nSaber Hafezqorani, graduate student\nChenkai Li, graduate student\nJeffrey Tse, coop student\n\nAlumni\nJessica Zhang, intern\nEwan Gibb, staff scientist\nHamza Khan, graduate student\nErdi Kucuk, graduate student\nSarah Yeo, UBC honor’s project student / intern / directed studies student\nDjallel Bouneffouf, PDF\nAbdur Rahman Basher, UBC graduate student\nVictoria Stuart, staff/computational biologist\nJessica Pilsworth, graduate student\nBahar Behsaz, staff/computational biologist\nYi-Ming Sun, UVic coop student\nNathan Nastilli, SFU coop student\nAlex Purdy, UVic coop student\nGolnaz Jahesh, graduate student\nKarthika Raghavan, PDF\nTony Raymond, staff/programmer\nAlbert Lagman, UBC eng. coop student\nDaniel Paulino, SFU coop student\nMimi Ko, UBC coop student\n",
+    "url": "/members.html"
+  },
+  
+  {
+    "title": "Active Projects",
+    "excerpt": "\n",
+    "content": "Spruce\nBeluga whale\nBullfrog\n",
+    "url": "/projects.html"
+  },
+  
+  {
+    "title": "Publications",
+    "excerpt": "\n",
+    "content": "H Khan, H Mohamadi, BP Vandervalk, RL Warren, J Chu, I Birol. ChopStitch: exon annotation and splice graph construction using transcriptome assembly and whole genome sequencing data. 2017 Dec 29. Bioinformatics\n\nSJ Jones, M Haulena, GA Taylor, S Chan, S Bilobram, RL Warren, et. al. The Genome of the Northern Sea Otter (Enhydra lutris kenyoni). 2017 Dec 11. Genes 8 (12), 379\n\nSJM Jones, GA Taylor, S Chan, RL Warren, SA Hammond, S Bilobram, et. al. The Genome of the Beluga Whale (Delphinapterus leucas). 2017 Dec 11. Genes 8 (12), 378\n\nSA Hammond, RL Warren, BP Vandervalk, E Kucuk, H Khan, EA Gibb, et. al. The North American bullfrog draft genome provides insight into hormonal regulation of long noncoding RNA. 2017 Nov 10. Nature Communications 8 (1), 1433\n\nS Yeo, L Coombe, RL Warren, J Chu, I Birol. ARCS: scaffolding genome drafts with linked reads. 2017 Oct 23. Bioinformatics\n\nAG Robertson, J Kim, H Al-Ahmadie, J Bellmunt, G Guo, AD Cherniack, et. al. Comprehensive molecular characterization of muscle-invasive bladder cancer. 2017 Oct 19. Cell 171 (3), 540-556. e25\n\nM England, H Errami, D Grigoriev, O Radulescu, T Sturm, A Weber. Symbolic Versus Numerical Computation and Visualization of Parameter Regions for Multistationarity of Biological Networks. 2017 Sep 18. International Workshop on Computer Algebra in Scientific Computing, 93-108\n\nNA Hasan, RL Warren, LE Epperson, A Malecha, DC Alexander, et. al. Complete Genome Sequence of Mycobacterium chimaera SJ42, a Nonoutbreak Strain from an Immunocompromised Patient with Pulmonary Disease. 2017 Sep 14. Genome announcements 5 (37), e00963-17\n\nAG Robertson, J Shih, C Yau, EA Gibb, J Oba, KL Mungall, JM Hess, et. al. Integrative analysis identifies four molecular and clinical subsets in uveal melanoma. 2017 Aug 14. Cancer cell 32 (2), 204-220. e15\n\nBJ Raphael, RH Hruban, AJ Aguirre, RA Moffitt, JJ Yeh, C Stewart, et. al. Integrated genomic characterization of pancreatic ductal adenocarcinoma. 2017 Aug 14. Cancer cell 32 (2), 185-203. e13\n\nSD Jackman, BP Vandervalk, H Mohamadi, J Chu, S Yeo, SA Hammond, et. al. ABySS 2.0: resource-efficient assembly of large genomes using a Bloom filter. 2017 May 01. Genome research 27 (5), 768-777\n\nTM Brown, SA Hammond, B Behsaz, N Veldhoen, I Birol, CC Helbing. De novo assembly of the ringed seal (Pusa hispida) blubber transcriptome: A tool that enables identification of molecular health indicators associated with PCB expo…. 2017 Apr 30. Aquatic Toxicology 185, 48-57\n\nN Pavy, M Lamothe, B Pelgas, F Gagnon, I Birol, J Bohlmann, J Mackay, et. al. A high‐resolution reference genetic map positioning 8.8 K genes for the conifer white spruce: structural genomics implications and correspondence with physical dis…. 2017 Apr 01. The Plant Journal 90 (1), 189-203\n\nC Yang, J Chu, RL Warren, I Birol. NanoSim: nanopore sequence read simulator based on statistical characterization. 2017 Feb 24. GigaScience 6 (4), 1-6\n\nE Kucuk, J Chu, BP Vandervalk, SA Hammond, RL Warren, I Birol. Kollector: transcript-informed, targeted de novo assembly of gene loci. 2017 Feb 10. Bioinformatics, btx078\n\nH Mohamadi, H Khan, I Birol. ntCard: a streaming algorithm for cardinality estimation in genomics data. 2017 Jan 05. Bioinformatics 33 (9), 1324-1330\n\nML Thibodeau, M Steinraths, L Brown, Z Zong, N Shomer, S Taubert, et. al. Genomic and Cytogenetic Characterization of a Balanced Translocation Disrupting NUP98. 2017. Cytogenetic and genome research 152 (3), 117-121\n\nZ Xue, RL Warren, EA Gibb, D MacMillan, J Wong, R Chiu, SA Hammond, et. al. Pan-cancer analysis reveals complex tumor-specific alternative polyadenylation. 2017 Jan 01. bioRxiv, 160960\n\nS Yeo, L Coombe, J Chu, RL Warren, I Birol. ARCS: assembly roundup by chromium scaffolding. 2017 Jan 01. bioRxiv, 100750\n\nSA Hammond, RL Warren, BP Vandervalk, E Kucuk, H Khan, EA Gibb, et. al. It’s okay to be green: Draft genome of the North American bullfrog (Rana [Lithobates] catesbeiana). 2017 Jan 01. bioRxiv, 100149\n\nM Krzywinski, KM Nip, I Birol, M Marra. Differential Hive Plots: Seeing Networks Change. 2017. Leonardo 50 (5), 504-504\n\nN Feau, G Taylor, AL Dale, B Dhillon, GJ Bilodeau, I Birol, SJM Jones, et. al. Genome sequences of six Phytophthora species threatening forest ecosystems. 2016 Dec 31. Genomics data 10, 85-88\n\nJ Chu, H Mohamadi, RL Warren, C Yang, I Birol. Innovations and challenges in detecting long read overlaps: an evaluation of the state-of-the-art. 2016 Dec 21. Bioinformatics 33 (8), 1261-1270\n\nL Coombe, RL Warren, SD Jackman, C Yang, BP Vandervalk, RA Moore, et. al. Assembly of the complete Sitka spruce chloroplast genome using 10X Genomics’ GemCode sequencing data. 2016 Sep 15. PloS one 11 (9), e0163059\n\nG Sheikhshab, E Starks, A Karsan, A Sarkar, I Birol. Graph-based Semi-supervised Gene Mention Tagging. 2016 Aug 12. ACL 2016, 27\n\n",
+    "url": "/publications.html"
+  },
+  
+  {
+    "title": "Software",
+    "excerpt": "\n",
+    "content": "&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;table&gt;&lt;tr class = \"software\" id=\"xmatchview\"&gt; &lt;td class = \"logo\" id=\"xmatchview\"&gt;&lt;/td&gt;&lt;td&gt;xmatchview&lt;/td&gt;&lt;td&gt;Smith-waterman alignment visualization See on Github&lt;/td&gt;&lt;/tr&gt;&lt;tr class = \"software\" id=\"biobloom\"&gt; &lt;td class = \"logo\" id=\"biobloom\"&gt;&lt;/td&gt;&lt;td&gt;BioBloom&lt;/td&gt;&lt;td&gt;Create Bloom filters for a given reference and then to categorize sequences See on Github&lt;/td&gt;&lt;/tr&gt;&lt;tr class = \"software\" id=\"abyss\"&gt; &lt;td class = \"logo\" id=\"abyss\"&gt;&lt;/td&gt;&lt;td&gt;ABySS&lt;/td&gt;&lt;td&gt;ABySS is a de novo sequence assembler intended for short paired-end reads and large genomes. See on Github&lt;/td&gt;&lt;/tr&gt;&lt;tr class = \"software\" id=\"chopstitch\"&gt; &lt;td class = \"logo\" id=\"chopstitch\"&gt;&lt;/td&gt;&lt;td&gt;ChopStitch&lt;/td&gt;&lt;td&gt;Finding putative exons and constructing splicegraphs using Trans-ABySS contigs See on Github&lt;/td&gt;&lt;/tr&gt;&lt;tr class = \"software\" id=\"nthash\"&gt; &lt;td class = \"logo\" id=\"nthash\"&gt;&lt;/td&gt;&lt;td&gt;ntHash&lt;/td&gt;&lt;td&gt;ntHash is a hashing algorithm tuned for processing DNA/RNA sequences. It performs the best when calculating hash values for adjacent k-mers in an input sequence, operating an order of magnitude faster than the nearest competitors in typical use cases. See on Github&lt;/td&gt;&lt;/tr&gt;&lt;tr class = \"software\" id=\"ntcard\"&gt; &lt;td class = \"logo\" id=\"ntcard\"&gt;&lt;/td&gt;&lt;td&gt;ntCard&lt;/td&gt;&lt;td&gt;Estimating k-mer coverage histogram of genomics data See on Github&lt;/td&gt;&lt;/tr&gt;&lt;tr class = \"software\" id=\"arcs\"&gt; &lt;td class = \"logo\" id=\"arcs\"&gt;&lt;/td&gt;&lt;td&gt;ARCS&lt;/td&gt;&lt;td&gt;Scaffolding genome sequence assemblies using 10X Genomics GemCode/Chromium data. See on Github&lt;/td&gt;&lt;/tr&gt;&lt;tr class = \"software\" id=\"links\"&gt; &lt;td class = \"logo\" id=\"links\"&gt;&lt;/td&gt;&lt;td&gt;LINKS&lt;/td&gt;&lt;td&gt;Long Interval Nucleotide K-mer Scaffolder See on Github&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;\n",
+    "url": "/software.html"
+  }
+  
+]
+

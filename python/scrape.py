@@ -22,7 +22,7 @@ def convert_date(date):
         return ''
 
 def clean_authors(authors):
-    a = authors.strip(', ...')
+    a = authors.replace(', ...',', et. al')
     return a
 
 def clean_journal(journal):
