@@ -16,9 +16,9 @@ remote_theme: daviddarnes/alembic
 
 navigation_header:
   Home: /
-  Members: /members.md
-  Projects: /projects.md
-  Software: /software.html
+  Members: /members
+  Projects: /projects
+  Software: /software
   News: /news/
   
 navigation_footer: 
