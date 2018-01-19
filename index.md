@@ -1,9 +1,9 @@
 ---
 title: Home
 feature_text: |
-  # Bioinformatics Technology Lab  
-  Led by Dr. Inanc Birol at BC Cancer's Michael Smith Genome Sciences Center
-feature_image: "http://mkweb.bcgsc.ca/fun/hdtr/img/gallery/hdtr-vancouver-01-large.jpg"
+  # Bioinformatics Technology Lab   
+  Led by Dr. Inanc Birol at BC Cancer's Michael Smith Genome Sciences Center 
+feature_image: "/images/background.jpg"
 layout: default
 aside: true
 aside_title: Hello!
