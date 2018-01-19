@@ -31,12 +31,12 @@ table {
   text-align: $table-text-align;
   color: $bodyColour;
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  //border: 1px solid $grey-color-light;
   
   tr, th, td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
     height: 60px;
-    border: 1px solid $grey-color-light;
+  //  border: 1px solid $grey-color-light;
 
   }
   
