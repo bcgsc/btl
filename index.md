@@ -22,6 +22,7 @@ aside_content: "Hello this is what's going to be in the aside block. Here's some
     <div class="homepage_left">
     <h3>Software</h3>
     <p> Could have some icons, some text, definitely a link to Github and BCGSC software maybe</p>
+    <a href="public.html">Publications</a>
     </div>
 
     <div class="homepage_right">

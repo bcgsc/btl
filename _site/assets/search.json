@@ -42,7 +42,7 @@
   {
     "title": "Home",
     "excerpt": "\n",
-    "content": "\n  \n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Publications\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n\n      \n\n      \n        News\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n       Photo by Martin Krzywinski \n      \n      \n  \n\n\n\n\n\n\n\n\t\n\n\n    \n    Software\n     Could have some icons, some text, definitely a link to Github and BCGSC software maybe\n    \n\n    \n    Active Projects\n     Could have a list of ongoing projects or recent publications\n    \n\n  \n\n\t\n\n  \n    \n      Hello!\n      Hello this is what's going to be in the aside block. Here's some information about our lab        \n    \n\n  \n\n\n\n\n\n\n\n  \n    \n      &copy; Bioinformatics Technology Lab 2018\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Alembic by David Darnes\n      \n    \n  \n\n\n\n  \n\n\n",
+    "content": "\n  \n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Publications\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n\n      \n\n      \n        News\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n       Photo by Martin Krzywinski \n      \n      \n  \n\n\n\n\n\n\n\n\t\n\n\n    \n    Software\n     Could have some icons, some text, definitely a link to Github and BCGSC software maybe\n    Publications\n    \n\n    \n    Active Projects\n     Could have a list of ongoing projects or recent publications\n    \n\n  \n\n\t\n\n  \n    \n      Hello!\n      Hello this is what's going to be in the aside block. Here's some information about our lab        \n    \n\n  \n\n\n\n\n\n\n\n  \n    \n      &copy; Bioinformatics Technology Lab 2018\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Alembic by David Darnes\n      \n    \n  \n\n\n\n  \n\n\n",
     "url": "/"
   },
   
@@ -58,6 +58,13 @@
     "excerpt": "\n",
     "content": "Spruce\nBeluga whale\nBullfrog\n",
     "url": "/projects.html"
+  },
+  
+  {
+    "title": "Publications (with tabs)",
+    "excerpt": "\n",
+    "content": "\n\n\nAll\n2018\n2017\n2016\n2015\nOlder\n\n\n\n2018 publications\n\n\n2017 publications\n\n\n2016 publications\n\n\n2015 publications\n\n\n2014 and older publications\n\n\n",
+    "url": "/public.html"
   },
   
   {

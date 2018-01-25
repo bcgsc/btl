@@ -404,8 +404,6 @@ button,
 }
 
 a,
-button,
-.button,
 input,
 textarea,
 select {
@@ -415,6 +413,7 @@ select {
     outline-offset: -.12rem;
   }
 }
+
 
 a:hover:focus {
   outline: none;
@@ -513,4 +512,15 @@ pre code {
     white-space: pre;
     overflow-x: scroll;
   }
+}
+
+button{
+color: $linkColour;
+background-color: rgba(12, 191, 211, 0.6);
+padding: 0;
+}
+
+.tablinks,
+.tablinksactive{
+width: 16%;
 }
