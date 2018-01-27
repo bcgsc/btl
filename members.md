@@ -3,9 +3,9 @@ layout: page
 title: Members
 ---
 
-<img class="avatar" src="/assets/avatars/ibirol.jpeg"> **Inanc Birol, Principal Investigator**  
-<img class="avatar" src="/assets/avatars/rwarren.png"> **Rene Warren, Group Leader**  
-<img class="avatar" src="/assets/avatars/saherne.jpg"> **Sinead Aherne, Project Manager**
+<img class="avatar" src="assets/avatars/ibirol.jpeg"> **Inanc Birol, Principal Investigator**  
+<img class="avatar" src="assets/avatars/rwarren.png"> **Rene Warren, Group Leader**  
+<img class="avatar" src="assets/avatars/saherne.jpg"> **Sinead Aherne, Project Manager**
 
 ### Clinical Bioinformatics
 <img class="avatar" src="/assets/avatars/rchiu.jpg"> Readman Chiu, staff  
