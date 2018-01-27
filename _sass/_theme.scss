@@ -7,20 +7,50 @@ body {
   @include flex-direction(column);
   overflow-x: hidden;
 
-.homepage_left {
+.two_col {
     width: 50%;
     text-align: center;
     height: 100%;
     float: left;
 }
 
-.homepage_right {
-    width: 50%;
-    text-align: center;
-    height: 100%;
-    float: left;
+.two_col.software {
+    padding-left:50px;  
+    padding-right:50px;
+    
+    
+    table {
+      align:center;
+    }
+    
+    td {
+      text-align:center;
+    }
+    
+    td.software-desc {
+    padding-bottom: 40px;
+    }
+    
 }
+
+img.software-logo {
+  height:70px;
+  width:auto;
 }
+
+}
+
+
+img.avatar {
+height: 40px;
+width: auto;
+}
+
+table.avatar {
+border: none;
+}
+
+
 
 /**
  * Tables
@@ -61,6 +91,23 @@ table {
   margin: 0 auto;
 }
 
+
+table.software {
+  border:0;
+
+  td,th,tr {
+    padding:0px;
+    margin:0;
+    border-collapse:collapse;
+    border:0;
+  }
+}
+
+span.software-title{
+  font-weight:bold;
+  font-size:20px;
+
+}
 
 // Header, feature and footer
 
@@ -209,7 +256,7 @@ table {
 
 .content {
   @include breakpoint(break-1) {
-    width: 62%;
+    width: 80%;
   }
 }
 
@@ -524,3 +571,5 @@ padding: 0;
 .tablinksactive{
 width: 16%;
 }
+
+

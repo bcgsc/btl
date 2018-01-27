@@ -230,12 +230,12 @@ a {
 
   // Bold.
   b, strong, .bold {
-    font-weight: map-get($bodytype, bold);
+    font-weight: bold;
   }
 
   // Italic.
   em, i, .italic {
-    font-style: map-get($bodytype, italic);
+    font-style: italic;
   }
 
   // Caption and inline small text.

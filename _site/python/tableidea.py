@@ -1,10 +1,9 @@
 import glob, os
 
-yml_frontmatter = '---\nlayout: page\ntitle: Software\n---\n'
 os.chdir("../softwareblurbs")
 
-software = open("../software.html", "w+")
-software.write(yml_frontmatter + '<!DOCTYPE html><html><head></head><body><table>')
+#software = open("/_includes/software-content.html", "w+")
+software = open("thing.txt", "w+")
 
 for myfile in glob.glob("*.txt"):
     f = open(myfile)
@@ -21,9 +20,12 @@ for myfile in glob.glob("*.txt"):
     name = info[3]
     desc = info[4]
 
-    html = '<tr class = "software" id="'+ idname + '"> <td class = "logo" id="' + idname + '"><img style="width:200px;height=auto;" src="' + logo + '"></td><td><strong>' + name + '</strong></td><td>' + desc + ' <a href = "' + github + '">See on Github</a></td></tr>'
-
+    html = name + '\n' + desc + ' <a href = "' + github + '">See on Github</a>'
     software.write(html)
 
-software.write('</table></body></html>')
 software.close()
+
+
+'''
+    html = '<tr class = "software" id="'+ idname + '"> <td class = "logo" id="' + idname + '"><img style="width:200px;height=auto;" src="' + logo + '"></td><td><strong>' + name + '</strong></td><td>' + desc + ' <a href = "' + github + '">See on Github</a></td></tr>'
+'''

@@ -2,4 +2,4 @@ nthash
 http://www.bcgsc.ca/platform/bioinfo/software/nthash/logo
 https://github.com/bcgsc/ntHash
 ntHash
-ntHash is a hashing algorithm tuned for processing DNA/RNA sequences. It performs the best when calculating hash values for adjacent k-mers in an input sequence, operating an order of magnitude faster than the nearest competitors in typical use cases.
+ntHash is a recursive hashing algorithm tuned for processing DNA/RNA sequences. 

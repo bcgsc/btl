@@ -3,7 +3,7 @@ title: Home
 feature_text: |
   # Bioinformatics Technology Lab   
   Led by Dr. Inanc Birol at BC Cancer's Michael Smith Genome Sciences Center 
-feature_image: "background.jpg"
+feature_image: "/assets/background.jpg"
 feature_credit: Photo by Martin Krzywinski
 feature_link: http://mkweb.bcgsc.ca/fun/hdtr/
 layout: default
@@ -15,22 +15,17 @@ aside_content: "Hello this is what's going to be in the aside block. Here's some
 {% include site-header.html %}
 
 <main class="main  container">
-
-	<article class="article  article--page  content  typeset">
-
-
-    <div class="homepage_left">
+<article class="article  article--page  content  typeset">
+    <div class="two_col">
     <h3>Software</h3>
     <p> Could have some icons, some text, definitely a link to Github and BCGSC software maybe</p>
-    <a href="public.html">Publications</a>
     </div>
 
-    <div class="homepage_right">
+    <div class="two_col">
     <h3>Active Projects</h3>
     <p> Could have a list of ongoing projects or recent publications</p>
     </div>
-
-  </article>
+</article>
 
 	{% if page.aside == true %}{% include site-aside.html %}{% endif %}
 
