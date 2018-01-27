@@ -233,6 +233,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-relative-links
   jekyll-remote-theme
 
 BUNDLED WITH

@@ -11,6 +11,7 @@ plugins:
 - jekyll-default-layout
 - jekyll-feed
 - jemoji
+- jekyll-relative-links
 
 remote_theme: daviddarnes/alembic
 
@@ -46,3 +47,4 @@ collections:
     title: Software
     output: true
     description: Our software
+    
