@@ -1,0 +1,939 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  cyo25_viood.hmm
+# target sequence database:        /projects/spruceup_scratch/psitchensis/Q903/annotation/amp/sequences/uniprot-ncbi-10Jan18.fa
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       ppos_75pctlmuscle  [M=30]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                -----------
+    1.4e-23   77.2  12.0    1.5e-23   77.1  12.0    1.0  1  sp|P56871.2|CIRA_CHAPA   RecName: Full=Circulin-A; Short=CIRA
+    1.4e-23   77.2  12.0    1.5e-23   77.1  12.0    1.0  1  sp|P56871|CIRA_CHAPA     
+    1.9e-23   76.8  13.4    1.9e-23   76.8  13.4    1.0  1  sp|P85180|CYO17_VIOOD    
+    2.9e-23   76.2  10.9    3.1e-23   76.1  10.9    1.0  1  sp|P84639|CYVC_LEOCM     
+    3.5e-23   75.9  14.2    3.7e-23   75.9  14.2    1.0  1  sp|P58436|CYO4_VIOOD     
+    7.2e-23   74.9  11.3    7.4e-23   74.9  11.3    1.0  1  sp|P56879.2|CIRB_CHAPA   RecName: Full=Circulin-B; Short=CIRB
+    7.2e-23   74.9  11.3    7.4e-23   74.9  11.3    1.0  1  sp|P56879|CIRB_CHAPA     
+    9.2e-23   74.6  12.8    9.5e-23   74.6  12.8    1.0  1  sp|P84637|CYVA_LEOCM     
+    9.9e-23   74.5  12.2      1e-22   74.4  12.2    1.0  1  sp|P84640|CYVD_LEOCM     
+    1.1e-22   74.3  14.8    1.2e-22   74.2  14.8    1.0  1  sp|P58434|CYO2_VIOOD     
+    1.2e-22   74.2  13.5    1.3e-22   74.1  13.5    1.0  1  sp|P84641|CIRC_CHAPA     
+    1.3e-22   74.1  12.7    1.4e-22   74.1  12.7    1.0  1  sp|P58441|CYO9_VIOOD     
+    1.3e-22   74.1  12.8    1.4e-22   74.0  12.8    1.0  1  sp|P58435|CYO3_VIOOD     
+    1.8e-22   73.7  13.1    1.9e-22   73.6  13.1    1.0  1  sp|P84644|CIRF_CHAPA     
+    1.9e-22   73.6  12.1      2e-22   73.5  12.1    1.0  1  sp|P85183|CYO20_VIOOD    
+    2.2e-22   73.4  13.0    2.3e-22   73.3  13.0    1.0  1  sp|P58438|CYO6_VIOOD     
+    2.9e-22   73.0  14.5      3e-22   72.9  14.5    1.0  1  sp|P58437|CYO5_VIOOD     
+    4.1e-22   72.5  14.0    4.2e-22   72.5  14.0    1.0  1  sp|P85182|CYO19_VIOOD    
+    9.4e-22   71.4  12.8    9.9e-22   71.3  12.8    1.0  1  sp|P58442|CYO10_VIOOD    
+    9.7e-22   71.3  12.8      1e-21   71.3  12.8    1.0  1  sp|P58433|CYH1_VIOHE     
+    4.3e-21   69.3  12.7    4.3e-21   69.3  12.7    1.8  2  sp|G1CWH3.1|CYC4_CLITE   RecName: Full=Cliotide T4; Flags: Pr
+    5.2e-21   69.0  12.7    6.6e-21   68.7  12.7    1.1  1  sp|I0B6F4.1|CYC7_CHACT   RecName: Full=Chassatide C7; AltName
+      1e-20   68.0  14.4    1.3e-20   67.7  14.4    1.1  1  sp|I0B6F5.1|CYC8_CHACT   RecName: Full=Chassatide C8; AltName
+    1.1e-20   67.9  13.5    1.1e-20   67.9  13.5    1.9  2  sp|G1CWH0.2|CYC1_CLITE   RecName: Full=Cliotide T1; Flags: Pr
+    1.3e-20   67.7  14.7    1.4e-20   67.6  14.7    1.0  1  sp|C0HKH6.1|CYC11_CHACT  RecName: Full=Chassatide C11; AltNam
+    1.9e-20   67.2  10.1      2e-20   67.1  10.1    1.0  1  sp|P85188|CYO25_VIOOD    
+    1.2e-19   64.6  13.3    1.2e-19   64.6  13.3    1.0  1  sp|P58456|KAB5_OLDAF     
+      2e-19   64.0  11.6    2.1e-19   63.9  11.6    1.0  1  sp|P56872.2|CYLA_PSYLO   RecName: Full=Cyclopsychotride-A; Sh
+      2e-19   64.0  11.6    2.1e-19   63.9  11.6    1.0  1  sp|P56872|CYLA_PSYLO     
+    2.3e-19   63.7  14.1    2.3e-19   63.7  14.1    1.0  1  sp|P84636|CYVB_VIOCT     
+    1.2e-18   61.5  10.2    1.2e-18   61.4  10.2    1.0  1  sp|P84643|CIRE_CHAPA     
+    1.7e-18   60.9  13.5    1.7e-18   60.9  13.5    1.0  1  sp|P84635|CYVA_VIOCT     
+    3.5e-18   59.9  10.6    3.7e-18   59.8  10.6    1.0  1  sp|P58445|HYPAA_HYBPA    
+    4.9e-18   59.5  11.5      5e-18   59.4  11.5    1.0  1  sp|P84642|CIRD_CHAPA     
+    6.9e-18   59.0  12.5    7.3e-18   58.9  12.5    1.0  1  sp|P58439|CYO7_VIOOD     
+    1.2e-17   58.2  10.9    1.3e-17   58.1  10.9    1.0  1  sp|P83937|VHR1_VIOHE     
+    5.1e-17   56.2  12.4    5.5e-17   56.1  12.4    1.0  1  sp|P85181|CYO18_VIOOD    
+    1.3e-16   54.9  10.6    1.4e-16   54.8  10.6    1.0  1  sp|P84647|HYFLA_HYBFL    
+    1.6e-16   54.6  10.2    1.7e-16   54.5  10.2    1.0  1  sp|P85234|CYH4_VIOHE     
+    3.6e-16   53.5   9.8    3.9e-16   53.4   9.8    1.0  1  sp|P82230|CYO1_VIOOD     
+    4.1e-16   53.3   8.3    4.4e-16   53.2   8.3    1.0  1  sp|P85134|KAB16_OLDAF    
+    9.8e-16   52.1   8.8    1.1e-15   52.0   8.8    1.0  1  sp|P85135|KAB17_OLDAF    
+    1.3e-14   48.6  10.5    1.7e-14   48.1  10.5    1.2  1  sp|P85233|CYH2_VIOHE     
+    1.8e-14   48.1  11.2    1.9e-14   48.0  11.2    1.1  1  sp|P84522|VHL1_VIOHE     
+    2.5e-07   25.2   9.6    2.9e-07   25.0   9.6    1.1  1  sp|P84638|CYVB_LEOCM     
+    4.3e-07   24.5   3.1    5.4e-07   24.2   3.1    1.3  1  sp|P84645|PALIC_PALCO    
+    3.8e-06   21.4  11.9    5.4e-06   21.0  11.9    1.4  1  sp|P83838|VODN_VIOOD     
+    0.00014   16.4  10.9    0.00019   16.0  10.9    1.3  1  sp|P58451|VARF_VIOAR     
+    0.00026   15.6   5.9     0.0003   15.4   5.9    1.1  1  sp|P84648|HYFLB_HYBFL    
+    0.00031   15.3   4.3    0.00037   15.1   4.3    1.1  1  sp|P84649|HYFLC_HYBFL    
+    0.00038   15.0  12.4    0.00076   14.1  12.4    1.6  1  sp|P83835|CYO12_VIOAR    
+    0.00038   15.0  12.5    0.00076   14.1  12.5    1.6  1  sp|P58446|VARA_VIOAR     
+    0.00042   14.9  12.6    0.00084   14.0  12.6    1.6  1  sp|P58448|VARC_VIOAR     
+    0.00079   14.0   9.5     0.0014   13.3   9.5    1.5  1  sp|C0HJS7.1|CYC20_CLITE  RecName: Full=Cliotide T20; AltName:
+    0.00088   13.9  13.8     0.0021   12.7  13.8    1.8  1  sp|P58449|VARD_VIOAR     
+    0.00088   13.9  33.1      0.018    9.7  12.6    2.6  2  AGI97142.1               cyclotide C, partial [Viola odorata]
+    0.00094   13.8   9.8     0.0029   12.2   9.8    1.8  1  sp|P85129|KAB11_OLDAF    
+     0.0015   13.1   9.6     0.0023   12.5   9.6    1.4  1  sp|P85127|KAB9_OLDAF     
+     0.0017   13.0  12.1     0.0026   12.4  12.1    1.5  1  sp|P85184|CYO21_VIOOD    
+     0.0021   12.6   9.1      0.003   12.2   9.1    1.3  1  sp|P85175|KAB8_OLDAF     
+     0.0025   12.4  11.5     0.0051   11.4  11.5    1.6  1  sp|P85185|CYO22_VIOOD    
+     0.0026   12.4  11.7     0.0045   11.6  11.7    1.5  1  sp|C0HJS6.1|CYC19_CLITE  RecName: Full=Cliotide T19; AltName:
+     0.0034   12.0  15.2     0.0076   10.9  15.2    1.7  1  sp|P85178|CYO15_VIOOD    
+     0.0038   11.8  15.0     0.0095   10.6  15.0    1.7  1  sp|P85179|CYO16_VIOOD    
+     0.0049   11.5  11.5     0.0096   10.6  11.5    1.6  1  sp|P83938|KAB4_OLDAF     
+     0.0049   11.5  14.1     0.0079   10.8  14.1    1.5  1  sp|C0HJS2.1|CYC15_CLITE  RecName: Full=Cliotide T15; AltName:
+     0.0054   11.4   7.9     0.0082   10.8   7.9    1.4  1  pdb|2JWM|A               Chain A, Nmr Spatial Srtucture Of Te
+  ------ inclusion threshold ------
+      0.014   10.0  10.9      0.037    8.7  10.9    1.7  1  sp|C0HJS3.1|CYC16_CLITE  RecName: Full=Cliotide T16; AltName:
+
+
+Domain annotation for each sequence (and alignments):
+>> sp|P56871.2|CIRA_CHAPA  RecName: Full=Circulin-A; Short=CIRA
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   77.1  12.0   2.2e-24   1.5e-23       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 77.1 bits;  conditional E-value: 2.2e-24
+       ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                            gipCGEsCv+IPCisa++GCSCknKVCYrn
+  sp|P56871.2|CIRA_CHAPA  1 GIPCGESCVWIPCISAALGCSCKNKVCYRN 30
+                            7****************************8 PP
+
+>> sp|P56871|CIRA_CHAPA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   77.1  12.0   2.2e-24   1.5e-23       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 77.1 bits;  conditional E-value: 2.2e-24
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          gipCGEsCv+IPCisa++GCSCknKVCYrn
+  sp|P56871|CIRA_CHAPA  1 GIPCGESCVWIPCISAALGCSCKNKVCYRN 30
+                          7****************************8 PP
+
+>> sp|P85180|CYO17_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   76.8  13.4   2.9e-24   1.9e-23       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 76.8 bits;  conditional E-value: 2.9e-24
+      ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                           gipCGEsCv+IPCisa++GCSCknKVCYrn
+  sp|P85180|CYO17_VIOOD  1 GIPCGESCVWIPCISAAIGCSCKNKVCYRN 30
+                           7****************************8 PP
+
+>> sp|P84639|CYVC_LEOCM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   76.1  10.9   4.6e-24   3.1e-23       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 76.1 bits;  conditional E-value: 4.6e-24
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          gipCGEsCvfIPC+++v+GCSCknKVCYrn
+  sp|P84639|CYVC_LEOCM  1 GIPCGESCVFIPCLTTVAGCSCKNKVCYRN 30
+                          7****************************8 PP
+
+>> sp|P58436|CYO4_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   75.9  14.2   5.5e-24   3.7e-23       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 75.9 bits;  conditional E-value: 5.5e-24
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          gipCGEsCv+IPCis+++GCSCknKVCYrn
+  sp|P58436|CYO4_VIOOD  1 GIPCGESCVWIPCISSAIGCSCKNKVCYRN 30
+                          7****************************8 PP
+
+>> sp|P56879.2|CIRB_CHAPA  RecName: Full=Circulin-B; Short=CIRB
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.9  11.3   1.1e-23   7.4e-23       2      30 .]       3      31 .]       1      31 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 74.9 bits;  conditional E-value: 1.1e-23
+       ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                            ipCGEsCvfIPCis+++GCSCknKVCYrn
+  sp|P56879.2|CIRB_CHAPA  3 IPCGESCVFIPCISTLLGCSCKNKVCYRN 31
+                            9***************************8 PP
+
+>> sp|P56879|CIRB_CHAPA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.9  11.3   1.1e-23   7.4e-23       2      30 .]       3      31 .]       1      31 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 74.9 bits;  conditional E-value: 1.1e-23
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          ipCGEsCvfIPCis+++GCSCknKVCYrn
+  sp|P56879|CIRB_CHAPA  3 IPCGESCVFIPCISTLLGCSCKNKVCYRN 31
+                          9***************************8 PP
+
+>> sp|P84637|CYVA_LEOCM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.6  12.8   1.4e-23   9.5e-23       2      30 .]       3      31 .]       1      31 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 74.6 bits;  conditional E-value: 1.4e-23
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          ipCGEsCvfIPCisa++GCSCknKVCYrn
+  sp|P84637|CYVA_LEOCM  3 IPCGESCVFIPCISAAIGCSCKNKVCYRN 31
+                          9***************************8 PP
+
+>> sp|P84640|CYVD_LEOCM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.4  12.2   1.6e-23     1e-22       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 74.4 bits;  conditional E-value: 1.6e-23
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          g+pCGEsCvfIPCisa++GCSCknKVCYrn
+  sp|P84640|CYVD_LEOCM  1 GFPCGESCVFIPCISAAIGCSCKNKVCYRN 30
+                          79***************************8 PP
+
+>> sp|P58434|CYO2_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.2  14.8   1.8e-23   1.2e-22       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 74.2 bits;  conditional E-value: 1.8e-23
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          gipCGEsCv+IPCis+++GCSCk+KVCYrn
+  sp|P58434|CYO2_VIOOD  1 GIPCGESCVWIPCISSAIGCSCKSKVCYRN 30
+                          7****************************8 PP
+
+>> sp|P84641|CIRC_CHAPA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.1  13.5   1.9e-23   1.3e-22       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 74.1 bits;  conditional E-value: 1.9e-23
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          gipCGEsCvfIPCi++v+GCSCk+KVCYrn
+  sp|P84641|CIRC_CHAPA  1 GIPCGESCVFIPCITSVAGCSCKSKVCYRN 30
+                          7****************************8 PP
+
+>> sp|P58441|CYO9_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.1  12.7     2e-23   1.4e-22       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 74.1 bits;  conditional E-value: 2e-23
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          gipCGEsCv+IPC++++vGCSCk+KVCYrn
+  sp|P58441|CYO9_VIOOD  1 GIPCGESCVWIPCLTSAVGCSCKSKVCYRN 30
+                          7****************************8 PP
+
+>> sp|P58435|CYO3_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.0  12.8   2.1e-23   1.4e-22       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 74.0 bits;  conditional E-value: 2.1e-23
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          gipCGEsCv+IPC+++++GCSCk+KVCYrn
+  sp|P58435|CYO3_VIOOD  1 GIPCGESCVWIPCLTSAIGCSCKSKVCYRN 30
+                          7****************************8 PP
+
+>> sp|P84644|CIRF_CHAPA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   73.6  13.1   2.8e-23   1.9e-22       2      29 ..       2      29 .]       1      29 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 73.6 bits;  conditional E-value: 2.8e-23
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYr 29
+                          ipCGEsCv+IPCisa++GCSCknKVCYr
+  sp|P84644|CIRF_CHAPA  2 IPCGESCVWIPCISAAIGCSCKNKVCYR 29
+                          9**************************8 PP
+
+>> sp|P85183|CYO20_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   73.5  12.1   2.9e-23     2e-22       1      30 []       1      30 []       1      30 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 73.5 bits;  conditional E-value: 2.9e-23
+      ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                           gipCGEsCv+IPC+++++GCSCk+KVCYr+
+  sp|P85183|CYO20_VIOOD  1 GIPCGESCVWIPCLTSAIGCSCKSKVCYRD 30
+                           7***************************96 PP
+
+>> sp|P58438|CYO6_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   73.3  13.0   3.4e-23   2.3e-22       2      30 .]       3      31 .]       1      31 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 73.3 bits;  conditional E-value: 3.4e-23
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          +pCGEsCv+IPCisa+vGCSCk+KVCY+n
+  sp|P58438|CYO6_VIOOD  3 LPCGESCVWIPCISAAVGCSCKSKVCYKN 31
+                          8**************************98 PP
+
+>> sp|P58437|CYO5_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   72.9  14.5   4.6e-23     3e-22       1      30 []       1      30 []       1      30 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 72.9 bits;  conditional E-value: 4.6e-23
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          g+pCGEsCv+IPCis++vGCSCknKVCY+n
+  sp|P58437|CYO5_VIOOD  1 GTPCGESCVWIPCISSAVGCSCKNKVCYKN 30
+                          68**************************98 PP
+
+>> sp|P85182|CYO19_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   72.5  14.0   6.3e-23   4.2e-22       2      30 .]       3      31 .]       1      31 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 72.5 bits;  conditional E-value: 6.3e-23
+      ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                           +pCGEsCv+IPCis+vvGCSCk+KVCY++
+  sp|P85182|CYO19_VIOOD  3 LPCGESCVWIPCISSVVGCSCKSKVCYKD 31
+                           8**************************96 PP
+
+>> sp|P58442|CYO10_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   71.3  12.8   1.5e-22   9.9e-22       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 71.3 bits;  conditional E-value: 1.5e-22
+      ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                           gipCGEsCv+IPC++++vGCSCk+KVCYrn
+  sp|P58442|CYO10_VIOOD  1 GIPCGESCVYIPCLTSAVGCSCKSKVCYRN 30
+                           7****************************8 PP
+
+>> sp|P58433|CYH1_VIOHE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   71.3  12.8   1.5e-22     1e-21       1      30 []       1      30 []       1      30 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 71.3 bits;  conditional E-value: 1.5e-22
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          gipCGEsCv+IPC+++++GCSCk+KVCYrn
+  sp|P58433|CYH1_VIOHE  1 GIPCGESCVYIPCLTSAIGCSCKSKVCYRN 30
+                          7****************************8 PP
+
+>> sp|G1CWH3.1|CYC4_CLITE  RecName: Full=Cliotide T4; Flags: Precursor
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   69.3  12.7   6.4e-22   4.3e-21       1      30 []      29      58 ..      29      58 .. 0.98
+   2 ?   -1.3   0.2       7.1        48      13      22 ..      81      90 ..      80      91 .. 0.73
+
+  Alignments for each domain:
+  == domain 1  score: 69.3 bits;  conditional E-value: 6.4e-22
+       ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                            gipCGEsCvfIPCi+a++GCSCk+KVCYrn
+  sp|G1CWH3.1|CYC4_CLITE 29 GIPCGESCVFIPCITAAIGCSCKSKVCYRN 58
+                            7****************************8 PP
+
+  == domain 2  score: -1.3 bits;  conditional E-value: 7.1
+       ppos_75pctlmuscle 13 CisavvGCSC 22
+                            Ci++  G  C
+  sp|G1CWH3.1|CYC4_CLITE 81 CITKGTGNFC 90
+                            9999888444 PP
+
+>> sp|I0B6F4.1|CYC7_CHACT  RecName: Full=Chassatide C7; AltName: Full=Cyclotide chaC7; Flags: Precursor
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   68.7  12.7   9.8e-22   6.6e-21       1      29 [.      36      64 .]      36      64 .] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 68.7 bits;  conditional E-value: 9.8e-22
+       ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYr 29
+                            gipCGEsCv+IPC++a++GCSCknKVCY+
+  sp|I0B6F4.1|CYC7_CHACT 36 GIPCGESCVWIPCLTAIAGCSCKNKVCYT 64
+                            7***************************6 PP
+
+>> sp|I0B6F5.1|CYC8_CHACT  RecName: Full=Chassatide C8; AltName: Full=Cyclotide chaC8; Flags: Precursor
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   67.7  14.4   1.9e-21   1.3e-20       2      29 ..      48      75 .]      46      75 .] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 67.7 bits;  conditional E-value: 1.9e-21
+       ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYr 29
+                            ipCGEsCv+IPCis+v+GCSC+nKVCYr
+  sp|I0B6F5.1|CYC8_CHACT 48 IPCGESCVWIPCISTVIGCSCSNKVCYR 75
+                            9**************************8 PP
+
+>> sp|G1CWH0.2|CYC1_CLITE  RecName: Full=Cliotide T1; Flags: Precursor
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   67.9  13.5   1.7e-21   1.1e-20       1      30 []       1      30 [.       1      30 [. 0.98
+   2 ?   -0.8   0.2       5.1        34      13      22 ..      53      62 ..      52      63 .. 0.74
+
+  Alignments for each domain:
+  == domain 1  score: 67.9 bits;  conditional E-value: 1.7e-21
+       ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                            gipCGEsCvfIPCi+ ++GCSCk+KVCYrn
+  sp|G1CWH0.2|CYC1_CLITE  1 GIPCGESCVFIPCITGAIGCSCKSKVCYRN 30
+                            7****************************8 PP
+
+  == domain 2  score: -0.8 bits;  conditional E-value: 5.1
+       ppos_75pctlmuscle 13 CisavvGCSC 22
+                            Ci++  G  C
+  sp|G1CWH0.2|CYC1_CLITE 53 CITKGTGNFC 62
+                            9999888444 PP
+
+>> sp|C0HKH6.1|CYC11_CHACT  RecName: Full=Chassatide C11; AltName: Full=Cyclotide chaC11
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   67.6  14.7   2.1e-21   1.4e-20       2      29 ..       1      28 []       1      28 [] 0.98
+
+  Alignments for each domain:
+  == domain 1  score: 67.6 bits;  conditional E-value: 2.1e-21
+        ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYr 29
+                             ipCGEsCv+IPCis ++GCSCk+KVCY+
+  sp|C0HKH6.1|CYC11_CHACT  1 IPCGESCVWIPCISGMFGCSCKDKVCYS 28
+                             8**************************6 PP
+
+>> sp|P85188|CYO25_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   67.1  10.1     3e-21     2e-20       1      30 []       1      31 []       1      31 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 67.1 bits;  conditional E-value: 3e-21
+      ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvG.CSCknKVCYrn 30
+                           +i+CGE+C+fIPCi++v+G CSCk+KVCY+n
+  sp|P85188|CYO25_VIOOD  1 DIFCGETCAFIPCITHVPGtCSCKSKVCYFN 31
+                           69***************************98 PP
+
+>> sp|P58456|KAB5_OLDAF  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   64.6  13.3   1.9e-20   1.2e-19       1      30 []       1      30 []       1      30 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 64.6 bits;  conditional E-value: 1.9e-20
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          g+pCGEsCv+IPCis v+GCSC +KVCY n
+  sp|P58456|KAB5_OLDAF  1 GTPCGESCVYIPCISGVIGCSCTDKVCYLN 30
+                          68**************************86 PP
+
+>> sp|P56872.2|CYLA_PSYLO  RecName: Full=Cyclopsychotride-A; Short=CPT
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   63.9  11.6   3.1e-20   2.1e-19       2      30 .]       2      31 .]       1      31 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 63.9 bits;  conditional E-value: 3.1e-20
+       ppos_75pctlmuscle  2 ipCGEsCvfIPC.isavvGCSCknKVCYrn 30
+                            ipCGEsCvfIPC ++a++GCSCk+KVCY+n
+  sp|P56872.2|CYLA_PSYLO  2 IPCGESCVFIPCtVTALLGCSCKSKVCYKN 31
+                            9***********78999***********98 PP
+
+>> sp|P56872|CYLA_PSYLO  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   63.9  11.6   3.1e-20   2.1e-19       2      30 .]       2      31 .]       1      31 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 63.9 bits;  conditional E-value: 3.1e-20
+     ppos_75pctlmuscle  2 ipCGEsCvfIPC.isavvGCSCknKVCYrn 30
+                          ipCGEsCvfIPC ++a++GCSCk+KVCY+n
+  sp|P56872|CYLA_PSYLO  2 IPCGESCVFIPCtVTALLGCSCKSKVCYKN 31
+                          9***********78999***********98 PP
+
+>> sp|P84636|CYVB_VIOCT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   63.7  14.1   3.5e-20   2.3e-19       2      30 .]       3      31 .]       1      31 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 63.7 bits;  conditional E-value: 3.5e-20
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          ipC EsCv+IPCi+ ++GCSCknKVCY n
+  sp|P84636|CYVB_VIOCT  3 IPCAESCVYIPCITGIAGCSCKNKVCYYN 31
+                          9**************************87 PP
+
+>> sp|P84643|CIRE_CHAPA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   61.4  10.2   1.8e-19   1.2e-18       2      29 ..       2      29 ..       1      30 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 61.4 bits;  conditional E-value: 1.8e-19
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYr 29
+                          ipCGEsCv+IPC+++v+ C C nKVCY+
+  sp|P84643|CIRE_CHAPA  2 IPCGESCVWIPCLTSVFNCKCENKVCYH 29
+                          9**************************8 PP
+
+>> sp|P84635|CYVA_VIOCT  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   60.9  13.5   2.6e-19   1.7e-18       2      30 .]       3      31 .]       1      31 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 60.9 bits;  conditional E-value: 2.6e-19
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          ipC EsCv+IPC + ++GCSCknKVCY n
+  sp|P84635|CYVA_VIOCT  3 IPCAESCVYIPCFTGIAGCSCKNKVCYYN 31
+                          9**************************87 PP
+
+>> sp|P58445|HYPAA_HYBPA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   59.8  10.6   5.6e-19   3.7e-18       1      29 [.       1      30 []       1      30 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 59.8 bits;  conditional E-value: 5.6e-19
+      ppos_75pctlmuscle  1 gipCGEsCvfIPC.isavvGCSCknKVCYr 29
+                           gipC EsCv+IPC i+a++GCSCknKVCY+
+  sp|P58445|HYPAA_HYBPA  1 GIPCAESCVYIPCtITALLGCSCKNKVCYN 30
+                           7************99**************6 PP
+
+>> sp|P84642|CIRD_CHAPA  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   59.4  11.5   7.5e-19     5e-18       2      29 ..       2      29 ..       1      30 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 59.4 bits;  conditional E-value: 7.5e-19
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYr 29
+                          ipCGEsCv+IPC+++++ C C nKVCY+
+  sp|P84642|CIRD_CHAPA  2 IPCGESCVWIPCVTSIFNCKCENKVCYH 29
+                          9**************************8 PP
+
+>> sp|P58439|CYO7_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   58.9  12.5   1.1e-18   7.3e-18       2      29 ..       2      30 .]       1      30 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 58.9 bits;  conditional E-value: 1.1e-18
+     ppos_75pctlmuscle  2 ipCGEsCvfIPC.isavvGCSCknKVCYr 29
+                          ipCGEsCv+IPC i+a++GC Ck+KVCY+
+  sp|P58439|CYO7_VIOOD  2 IPCGESCVWIPCtITALAGCKCKSKVCYN 30
+                          9***********99**************6 PP
+
+>> sp|P83937|VHR1_VIOHE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   58.1  10.9     2e-18   1.3e-17       1      29 [.       1      30 []       1      30 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 58.1 bits;  conditional E-value: 2e-18
+     ppos_75pctlmuscle  1 gipCGEsCvfIPC.isavvGCSCknKVCYr 29
+                          gipC EsCv+IPC ++a++GCSC+nKVCY+
+  sp|P83937|VHR1_VIOHE  1 GIPCAESCVWIPCtVTALLGCSCSNKVCYN 30
+                          7************78999***********6 PP
+
+>> sp|P85181|CYO18_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   56.1  12.4   8.2e-18   5.5e-17       1      29 [.       1      30 []       1      30 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 56.1 bits;  conditional E-value: 8.2e-18
+      ppos_75pctlmuscle  1 gipCGEsCvfIPC.isavvGCSCknKVCYr 29
+                           gipCGEsCv+IPC ++a++GC Ck+KVCY+
+  sp|P85181|CYO18_VIOOD  1 GIPCGESCVYIPCtVTALAGCKCKSKVCYN 30
+                           7************77999***********6 PP
+
+>> sp|P84647|HYFLA_HYBFL  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   54.8  10.6   2.1e-17   1.4e-16       2      30 .]       2      31 .]       1      31 [] 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 54.8 bits;  conditional E-value: 2.1e-17
+      ppos_75pctlmuscle  2 ipCGEsCvfIPC.isavvGCSCknKVCYrn 30
+                           i CGEsCv+IPC ++a+vGC Ck+KVCY n
+  sp|P84647|HYFLA_HYBFL  2 ISCGESCVYIPCtVTALVGCTCKDKVCYLN 31
+                           89**********8899************86 PP
+
+>> sp|P85234|CYH4_VIOHE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   54.5  10.2   2.6e-17   1.7e-16       1      29 [.       1      30 []       1      30 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 54.5 bits;  conditional E-value: 2.6e-17
+     ppos_75pctlmuscle  1 gipCGEsCvfIPC.isavvGCSCknKVCYr 29
+                          gipC EsCv+IPC ++a++GCSC+n VCY+
+  sp|P85234|CYH4_VIOHE  1 GIPCAESCVWIPCtVTALLGCSCSNNVCYN 30
+                          7************78999***********6 PP
+
+>> sp|P82230|CYO1_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   53.4   9.8   5.9e-17   3.9e-16       1      29 [.       1      30 []       1      30 [] 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 53.4 bits;  conditional E-value: 5.9e-17
+     ppos_75pctlmuscle  1 gipCGEsCvfIPC.isavvGCSCknKVCYr 29
+                          gipC EsCv+IPC ++a++GCSC+n+VCY+
+  sp|P82230|CYO1_VIOOD  1 GIPCAESCVYIPCtVTALLGCSCSNRVCYN 30
+                          7************78999***********6 PP
+
+>> sp|P85134|KAB16_OLDAF  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   53.2   8.3   6.5e-17   4.4e-16       1      28 [.       1      29 [.       1      30 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 53.2 bits;  conditional E-value: 6.5e-17
+      ppos_75pctlmuscle  1 gipCGEsCvfIPC.isavvGCSCknKVCY 28
+                           gipC EsCv+IPC i+a++GC C++KVCY
+  sp|P85134|KAB16_OLDAF  1 GIPCAESCVYIPCtITALLGCKCQDKVCY 29
+                           7************99************** PP
+
+>> sp|P85135|KAB17_OLDAF  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   52.0   8.8   1.6e-16   1.1e-15       1      29 [.       1      30 []       1      30 [] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 52.0 bits;  conditional E-value: 1.6e-16
+      ppos_75pctlmuscle  1 gipCGEsCvfIPC.isavvGCSCknKVCYr 29
+                           gipC EsCv+IPC i+a++GC Ck+ VCY+
+  sp|P85135|KAB17_OLDAF  1 GIPCAESCVYIPCtITALLGCKCKDQVCYN 30
+                           7************99**************6 PP
+
+>> sp|P85233|CYH2_VIOHE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   48.1  10.5   2.6e-15   1.7e-14       2      30 .]       3      29 .]       2      29 .] 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 48.1 bits;  conditional E-value: 2.6e-15
+     ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          i CGEsCv+IPC   ++GCSC+n+VCY n
+  sp|P85233|CYH2_VIOHE  3 IACGESCVYIPCF--IPGCSCRNRVCYLN 29
+                          89**********7..9***********86 PP
+
+>> sp|P84522|VHL1_VIOHE  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   48.0  11.2   2.9e-15   1.9e-14       2      30 .]       2      31 .]       1      31 [] 0.94
+
+  Alignments for each domain:
+  == domain 1  score: 48.0 bits;  conditional E-value: 2.9e-15
+     ppos_75pctlmuscle  2 ipCGEsCvfIP.CisavvGCSCknKVCYrn 30
+                          i CGEsC+ I  C ++v+GCSCknKVCY n
+  sp|P84522|VHL1_VIOHE  2 ISCGESCAMISfCFTEVIGCSCKNKVCYLN 31
+                          89********77****************86 PP
+
+>> sp|P84638|CYVB_LEOCM  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   25.0   9.6   4.4e-08   2.9e-07       1      30 []       1      28 []       1      28 [] 0.93
+
+  Alignments for each domain:
+  == domain 1  score: 25.0 bits;  conditional E-value: 4.4e-08
+     ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                          g+ CGEsC  +PC +  vGC C +  C++n
+  sp|P84638|CYVB_LEOCM  1 GTACGESCYVLPCFT--VGCTCTSSQCFKN 28
+                          568**********98..8**********98 PP
+
+>> sp|P84645|PALIC_PALCO  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   24.2   3.1   8.1e-08   5.4e-07       2      25 ..       4      29 ..       2      37 .] 0.82
+
+  Alignments for each domain:
+  == domain 1  score: 24.2 bits;  conditional E-value: 8.1e-08
+      ppos_75pctlmuscle  2 ipCGEsCvfIP.C.isavvGCSCknK 25
+                           ++CGE+C  IP C  sa++GC C ++
+  sp|P84645|PALIC_PALCO  4 TFCGETCRVIPvCtYSAALGCTCDDR 29
+                           69*********6534899*****875 PP
+
+>> sp|P83838|VODN_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.0  11.9     8e-07   5.4e-06       4      30 .]       5      29 .]       1      29 [] 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 21.0 bits;  conditional E-value: 8e-07
+     ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                          CGE+C    C +  +GCSC+  VCYrn
+  sp|P83838|VODN_VIOOD  5 CGETCTLGKCYT--AGCSCSWPVCYRN 29
+                          **********98..5***********8 PP
+
+>> sp|P58451|VARF_VIOAR  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   16.0  10.9   2.8e-05   0.00019       4      30 .]       5      29 .]       1      29 [] 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 16.0 bits;  conditional E-value: 2.8e-05
+     ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                          CGE+C    C +  +GCSC+  VC rn
+  sp|P58451|VARF_VIOAR  5 CGETCTLGTCYT--AGCSCSWPVCTRN 29
+                          **********98..5*********887 PP
+
+>> sp|P84648|HYFLB_HYBFL  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.4   5.9   4.5e-05    0.0003       2      30 .]       4      32 .]       2      32 .] 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 15.4 bits;  conditional E-value: 4.5e-05
+      ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                           i C E+C    C ++ +GC C    C +n
+  sp|P84648|HYFLB_HYBFL  4 IQCAETCFIGKCYTEELGCTCTAFLCMKN 32
+                           78*****9889***********9999887 PP
+
+>> sp|P84649|HYFLC_HYBFL  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   15.1   4.3   5.6e-05   0.00037       4      30 .]       6      32 .]       4      32 .] 0.92
+
+  Alignments for each domain:
+  == domain 1  score: 15.1 bits;  conditional E-value: 5.6e-05
+      ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                           C E+C    C ++ +GC C    C +n
+  sp|P84649|HYFLC_HYBFL  6 CAETCFIGKCYTEELGCTCTAFLCMKN 32
+                           *****8889***********9999887 PP
+
+>> sp|P83835|CYO12_VIOAR  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.1  12.4   0.00011   0.00076       4      30 .]       5      29 .]       1      29 [] 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 14.1 bits;  conditional E-value: 0.00011
+      ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                           CGE+Cv   C    +GCSC+  VC rn
+  sp|P83835|CYO12_VIOAR  5 CGETCVGGTCN--TPGCSCSWPVCTRN 29
+                           ******99995..59*********887 PP
+
+>> sp|P58446|VARA_VIOAR  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.1  12.5   0.00011   0.00076       4      30 .]       5      29 .]       1      29 [] 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 14.1 bits;  conditional E-value: 0.00011
+     ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                          CGE+Cv   C    +GCSC+  VC rn
+  sp|P58446|VARA_VIOAR  5 CGETCVGGTCN--TPGCSCSWPVCTRN 29
+                          ******99995..59*********887 PP
+
+>> sp|P58448|VARC_VIOAR  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   14.0  12.6   0.00013   0.00084       4      30 .]       5      29 .]       1      29 [] 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 14.0 bits;  conditional E-value: 0.00013
+     ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                          CGE+Cv   C    +GCSC+  VC rn
+  sp|P58448|VARC_VIOAR  5 CGETCVGGTCN--TPGCSCSWPVCTRN 29
+                          ******99995..59*********887 PP
+
+>> sp|C0HJS7.1|CYC20_CLITE  RecName: Full=Cliotide T20; AltName: Full=Cyclotide cT20
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   13.3   9.5    0.0002    0.0014       2      30 .]       4      30 .]       2      30 .] 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 13.3 bits;  conditional E-value: 0.0002
+        ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                             i CGEsC    C +  +GC C   +C +n
+  sp|C0HJS7.1|CYC20_CLITE  4 IRCGESCLLGKCYT--PGCTCDRPICKKN 30
+                             88**********87..8*********876 PP
+
+>> sp|P58449|VARD_VIOAR  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.7  13.8   0.00031    0.0021       4      30 .]       5      29 .]       1      29 [] 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 12.7 bits;  conditional E-value: 0.00031
+     ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                          CGE+Cv   C    +GCSC+  VC rn
+  sp|P58449|VARD_VIOAR  5 CGETCVGGSCN--TPGCSCSWPVCTRN 29
+                          *********95..59*********887 PP
+
+>> AGI97142.1  cyclotide C, partial [Viola odorata]
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    9.5  12.5     0.003      0.02       4      30 .]      20      44 ..      16      44 .. 0.87
+   2 !    9.7  12.6    0.0027     0.018       4      30 .]      74      98 ..      70      98 .. 0.88
+
+  Alignments for each domain:
+  == domain 1  score: 9.5 bits;  conditional E-value: 0.003
+  ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                       CGE+Cv   C    +GCSC+  VC rn
+         AGI97142.1 20 CGETCVGGTCN--TPGCSCSWPVCTRN 44
+                       ******99995..59*********886 PP
+
+  == domain 2  score: 9.7 bits;  conditional E-value: 0.0027
+  ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                       CGE+Cv   C    +GCSC+  VC rn
+         AGI97142.1 74 CGETCVGGTCN--TPGCSCSWPVCIRN 98
+                       ******99995..59*********887 PP
+
+>> sp|P85129|KAB11_OLDAF  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.2   9.8   0.00044    0.0029       4      29 ..       5      28 ..       1      29 [] 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 12.2 bits;  conditional E-value: 0.00044
+      ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYr 29
+                           CGE+C    C  + +GCSC + +C r
+  sp|P85129|KAB11_OLDAF  5 CGETCFGGTC--NTPGCSCTDPICTR 28
+                           *****99888..569*********76 PP
+
+>> sp|P85127|KAB9_OLDAF  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.5   9.6   0.00035    0.0023       3      29 ..       5      30 ..       2      31 .] 0.84
+
+  Alignments for each domain:
+  == domain 1  score: 12.5 bits;  conditional E-value: 0.00035
+     ppos_75pctlmuscle  3 pCGEsCvfIPCisavvGCSCkn.KVCYr 29
+                           CGE+Cv   C +  +GC C   +VC +
+  sp|P85127|KAB9_OLDAF  5 NCGETCVLGTCYT--PGCTCNTyRVCTK 30
+                          6**********87..8****85489965 PP
+
+>> sp|P85184|CYO21_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.4  12.1   0.00038    0.0026       4      30 .]       5      29 .]       1      29 [] 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 12.4 bits;  conditional E-value: 0.00038
+      ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                           CGE+Cv   C +  +GC C+  VC rn
+  sp|P85184|CYO21_VIOOD  5 CGETCVTGSCYT--PGCTCSWPVCTRN 29
+                           **********87..8*********887 PP
+
+>> sp|P85175|KAB8_OLDAF  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   12.2   9.1   0.00045     0.003       3      29 ..       5      30 ..       2      31 .] 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 12.2 bits;  conditional E-value: 0.00045
+     ppos_75pctlmuscle  3 pCGEsCvfIPCisavvGCSC.knKVCYr 29
+                           CGE+C    C ++  GC C k +VC +
+  sp|P85175|KAB8_OLDAF  5 NCGETCLLGTCYTT--GCTCnKYRVCTK 30
+                          7**********996..****66799965 PP
+
+>> sp|P85185|CYO22_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   11.4  11.5   0.00076    0.0051       4      30 .]       5      29 .]       1      29 [] 0.87
+
+  Alignments for each domain:
+  == domain 1  score: 11.4 bits;  conditional E-value: 0.00076
+      ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                           CGE+Cv   C    +GC C+  VC rn
+  sp|P85185|CYO22_VIOOD  5 CGETCVGGTCN--TPGCTCSWPVCTRN 29
+                           ******99995..59*********887 PP
+
+>> sp|C0HJS6.1|CYC19_CLITE  RecName: Full=Cliotide T19; AltName: Full=Cyclotide cT19
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   11.6  11.7   0.00067    0.0045       2      30 .]       4      30 .]       2      30 .] 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 11.6 bits;  conditional E-value: 0.00067
+        ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                             i CGEsC    C +  +GC C+  +C +n
+  sp|C0HJS6.1|CYC19_CLITE  4 IKCGESCLLGKCYT--PGCTCSRPICKKN 30
+                             78**********87..8*********876 PP
+
+>> sp|P85178|CYO15_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.9  15.2    0.0011    0.0076       2      30 .]       3      29 .]       1      29 [] 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 10.9 bits;  conditional E-value: 0.0011
+      ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                           +pCGE+C    C +  +GCSC+  +C +n
+  sp|P85178|CYO15_VIOOD  3 VPCGETCFTGKCYT--PGCSCSYPICKKN 29
+                           8***********87..8********9876 PP
+
+>> sp|P85179|CYO16_VIOOD  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.6  15.0    0.0014    0.0095       1      27 [.       1      25 [.       1      27 [. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 10.6 bits;  conditional E-value: 0.0014
+      ppos_75pctlmuscle  1 gipCGEsCvfIPCisavvGCSCknKVC 27
+                           g+pCGE+C    C +  +GCSC+  +C
+  sp|P85179|CYO16_VIOOD  1 GLPCGETCFTGKCYT--PGCSCSYPIC 25
+                           79***********87..8*****9999 PP
+
+>> sp|P83938|KAB4_OLDAF  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.6  11.5    0.0014    0.0096       4      29 ..       5      28 ..       1      29 [] 0.86
+
+  Alignments for each domain:
+  == domain 1  score: 10.6 bits;  conditional E-value: 0.0014
+     ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYr 29
+                          CGE+Cv   C    +GC C+  VC r
+  sp|P83938|KAB4_OLDAF  5 CGETCVGGTCN--TPGCTCSWPVCTR 28
+                          ******99995..59*********76 PP
+
+>> sp|C0HJS2.1|CYC15_CLITE  RecName: Full=Cliotide T15; AltName: Full=Cyclotide cT15
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.8  14.1    0.0012    0.0079       4      30 .]       5      29 .]       1      29 [] 0.90
+
+  Alignments for each domain:
+  == domain 1  score: 10.8 bits;  conditional E-value: 0.0012
+        ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                             CGE+C    C ++  GCSC+  VC rn
+  sp|C0HJS2.1|CYC15_CLITE  5 CGETCFKTKCYTK--GCSCSYPVCKRN 29
+                             **********996..*********887 PP
+
+>> pdb|2JWM|A  Chain A, Nmr Spatial Srtucture Of Ternary Complex Kalata B7MN2+DPC Micelle
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   10.8   7.9    0.0012    0.0082       4      30 .]       1      25 [.       1      25 [. 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 10.8 bits;  conditional E-value: 0.0012
+  ppos_75pctlmuscle  4 CGEsCvfIPCisavvGCSCknKVCYrn 30
+                       CGE+C    C ++  GC C+  +C rn
+         pdb|2JWM|A  1 CGETCTLGTCYTQ--GCTCSWPICKRN 25
+                       **********996..9***99999876 PP
+
+>> sp|C0HJS3.1|CYC16_CLITE  RecName: Full=Cliotide T16; AltName: Full=Cyclotide cT16
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    8.7  10.9    0.0055     0.037       2      30 .]       4      30 .]       2      30 .] 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 8.7 bits;  conditional E-value: 0.0055
+        ppos_75pctlmuscle  2 ipCGEsCvfIPCisavvGCSCknKVCYrn 30
+                             i CGE+C    C +  +GC C   +C +n
+  sp|C0HJS3.1|CYC16_CLITE  4 IGCGETCLRGRCYT--PGCTCDHGICKKN 30
+                             78**********87..8*********876 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (30 nodes)
+Target sequences:                          454  (45156 residues searched)
+Passed MSV filter:                       175  (0.385463); expected 9.1 (0.02)
+Passed bias filter:                       91  (0.200441); expected 9.1 (0.02)
+Passed Vit filter:                        72  (0.15859); expected 0.5 (0.001)
+Passed Fwd filter:                        68  (0.14978); expected 0.0 (1e-05)
+Initial search space (Z):                454  [actual number of targets]
+Domain search space  (domZ):              68  [number of targets reported over threshold]
+# CPU time: 0.02u 0.00s 00:00:00.02 Elapsed: 00:00:00.02
+# Mc/sec: 67.73
+//
+[ok]
