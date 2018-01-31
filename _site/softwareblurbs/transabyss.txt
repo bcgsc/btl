@@ -1,0 +1,4 @@
+
+https://github.com/bcgsc/transabyss
+Trans-ABySS
+De novo assembly of RNAseq data using ABySS

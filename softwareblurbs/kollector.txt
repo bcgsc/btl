@@ -1,0 +1,4 @@
+
+https://github.com/bcgsc/kollector
+Kollector
+Kollector is a targeted assembly tool using BioBloom Tools and ABySS.

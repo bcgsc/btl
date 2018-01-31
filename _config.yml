@@ -21,7 +21,6 @@ navigation_header:
   Publications: /publications
   Projects: /projects
   Software: /software
-  News: /news/
   
 navigation_footer: 
     Alembic by David Darnes: "https://github.com/daviddarnes/alembic"
@@ -39,12 +38,8 @@ sass:
     
 collections:
   posts: 
-    title: News
+    title: Projects
     output: true
-    description: Recent publications, presentations
+    description: Ongoing projects
     
-  softwareposts:
-    title: Software
-    output: true
-    description: Our software
     

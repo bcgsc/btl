@@ -1,0 +1,4 @@
+tigmintlogo.png
+https://github.com/bcgsc/tigmint
+Tigmint
+Correct misassemblies using linked reads

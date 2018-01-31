@@ -1,0 +1,4 @@
+abysslogo.png
+https://github.com/bcgsc/abyss
+ABySS 2.0
+Assemble large genomes using short reads 

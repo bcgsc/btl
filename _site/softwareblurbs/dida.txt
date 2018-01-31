@@ -1,0 +1,4 @@
+didalogo.jpeg
+https://github.com/bcgsc/dida
+Dida
+DIDA is a novel framework that performs the large-scale alignment tasks by distributing the indexing and alignment stages into smaller subtasks over a cluster of compute nodes.

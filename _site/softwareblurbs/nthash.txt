@@ -1,5 +1,4 @@
-nthash
-http://www.bcgsc.ca/platform/bioinfo/software/nthash/logo
+ntHashlogo.png
 https://github.com/bcgsc/ntHash
 ntHash
 ntHash is a recursive hashing algorithm tuned for processing DNA/RNA sequences. 

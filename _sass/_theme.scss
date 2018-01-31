@@ -14,21 +14,29 @@ body {
     float: left;
 }
 
-.two_col.software {
+.col.software {
+    width: 100%;
+    text-align:center;
+    height:100%;
     padding-left:50px;  
     padding-right:50px;
     
-    
     table {
       align:center;
+      border:none;
+    }
+    
+    tr {
+    colspan:2;
+    border:none;
     }
     
     td {
+      padding-top:20px;
+      padding-right:40px;
+      padding-left:40px;
       text-align:center;
-    }
-    
-    td.software-desc {
-    padding-bottom: 40px;
+      border:none;
     }
     
 }
@@ -38,6 +46,11 @@ img.software-logo {
   width:auto;
 }
 
+}
+
+img.git{
+height: 0.8em;
+display: inline;
 }
 
 

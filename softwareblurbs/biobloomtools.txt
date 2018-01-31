@@ -1,5 +1,4 @@
-biobloom
-
+biobloomlogo.png
 https://github.com/bcgsc/biobloom
-BioBloom
+BioBloom Tools
 Create Bloom filters for a given reference and then to categorize sequences 

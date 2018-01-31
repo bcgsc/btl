@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: News
+title: Projects
 collectionpage: posts
 ---
 

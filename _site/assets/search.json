@@ -27,22 +27,19 @@
       },
     
   
-    
-    
-  
   
   
   {
-    "title": "News",
+    "title": "Projects",
     "excerpt": "\n",
     "content": "\n",
-    "url": "/news/"
+    "url": "/projects/"
   },
   
   {
     "title": "Home",
     "excerpt": "\n",
-    "content": "\n  \n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Publications\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n\n      \n\n      \n        News\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n       Photo by Martin Krzywinski \n      \n      \n  \n\n\n\n\n\n\n\n    \n    Software\n     Could have some icons, some text, definitely a link to Github and BCGSC software maybe\n    \n\n    \n    Active Projects\n     Could have a list of ongoing projects or recent publications\n    \n\n\n\t\n\n  \n    \n      Hello!\n      Hello this is what's going to be in the aside block. Here's some information about our lab        \n    \n\n  \n\n\n\n\n\n\n\n  \n    \n      &copy; Bioinformatics Technology Lab 2018\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Alembic by David Darnes\n      \n    \n  \n\n\n\n  \n\n\n",
+    "content": "\n  \n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Publications\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n       Photo by Martin Krzywinski \n      \n      \n  \n\n\n\n\n\n\n\n    \n    Software\n     Could have some icons, some text, definitely a link to Github and BCGSC software maybe\n    \n\n    \n    Active Projects\n     Could have a list of ongoing projects or recent publications\n    \n\n\n\t\n\n  \n    \n      Hello!\n      Hello this is what's going to be in the aside block. Here's some information about our lab        \n    \n\n  \n\n\n\n\n\n\n\n  \n    \n      &copy; Bioinformatics Technology Lab 2018\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Alembic by David Darnes\n      \n    \n  \n\n\n\n  \n\n\n",
     "url": "/"
   },
   
@@ -51,13 +48,6 @@
     "excerpt": "\n",
     "content": " Inanc Birol, Principal Investigator\n Rene Warren, Group Leader\n Sinead Aherne, Project Manager\n\nClinical Bioinformatics\n Readman Chiu, staff\n S. Austin Hammond, staff/computational biologist\n Zhuyi Xue, staff/computational biologist\n Daniel MacMillan, staff/computational biologist\n Chen Yang, graduate student\n Ka Ming Nip, graduate student\n Jessica Ma, coop student\n Emre Erhan, TBD\n\nArtificial Intelligence/Natural Language Processing\n Golnar Sheikhshab\n\nHigh Performance Computing\n Ben Vandervalk, staff/programmer\n Lauren Coombe, staff/computational biologist\n Hamid Mohamadi, PDF\n Justin Chu, graduate student\n Shaun Jackman, graduate student\n Kristina Gagalova, graduate student\n Yee Fay Lim, graduate student\n Saber Hafezqorani, graduate student\n Chenkai Li, graduate student\n Jeffrey Tse, coop student\n\nAlumni\nJessica Zhang, intern\nEwan Gibb, staff scientist\nHamza Khan, graduate student\nErdi Kucuk, graduate student\nSarah Yeo, UBC honor’s project student / intern / directed studies student\nDjallel Bouneffouf, PDF\nAbdur Rahman Basher, UBC graduate student\nVictoria Stuart, staff/computational biologist\nJessica Pilsworth, graduate student\nBahar Behsaz, staff/computational biologist\nYi-Ming Sun, UVic coop student\nNathan Nastilli, SFU coop student\nAlex Purdy, UVic coop student\nGolnaz Jahesh, graduate student\nKarthika Raghavan, PDF\nTony Raymond, staff/programmer\nAlbert Lagman, UBC eng. coop student\nDaniel Paulino, SFU coop student\nMimi Ko, UBC coop student\n",
     "url": "/members.html"
-  },
-  
-  {
-    "title": "Active Projects",
-    "excerpt": "\n",
-    "content": "Spruce\nBeluga whale\nBullfrog\n",
-    "url": "/projects.html"
   },
   
   {
@@ -70,7 +60,7 @@
   {
     "title": "Software",
     "excerpt": "\n",
-    "content": "{% include software-content.html %}\n\n",
+    "content": "\n\n{% include software-content.html %}\n\n\n",
     "url": "/software.html"
   }
   

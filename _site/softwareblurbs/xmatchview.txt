@@ -1,5 +1,4 @@
-xmatchview
-https://raw.githubusercontent.com/bcgsc/xmatchview/master/xmv-logo.png
+xmatchviewlogo.png
 https://github.com/warrenlr/xmatchview
 xmatchview
 Smith-waterman alignment visualization

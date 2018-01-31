@@ -1,5 +1,4 @@
-arcs
-http://www.bcgsc.ca/platform/bioinfo/software/arcs/logo
+arcslogo.png
 https://github.com/bcgsc/arcs/tree/binomialx2
 ARCS
 Scaffolding genome sequence assemblies using 10X Genomics GemCode/Chromium data.
