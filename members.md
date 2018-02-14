@@ -4,7 +4,7 @@ title: Members
 ---
 
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> **Inanc Birol, Principal Investigator**  
-<img class="avatar" src="assets/avatars/rwarren.png"> **[Rene Warren](member/rwarren), Group Leader**  
+<img class="avatar" src="assets/avatars/rwarren.png"> **[Rene Warren](member/renewarren), Group Leader**  
 <img class="avatar" src="assets/avatars/rchiu.jpg"> **Readman Chiu, Production Coordinator**  
 <img class="avatar" src="assets/avatars/saherne.jpg"> **Sinead Aherne, Project Manager**
 
@@ -24,7 +24,7 @@ title: Members
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  
 <img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, postdoctoral fellow  
 <img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  
-<img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), graduate student (UBC)  
+<img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/shaunjackman), graduate student (UBC)  
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> Kristina Gagalova, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)  

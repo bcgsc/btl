@@ -1,0 +1,9 @@
+title: 
+avatar: 
+position: 
+email: mailto:
+github: 
+twitter: 
+website: 
+linkedin: 
+layout: profile

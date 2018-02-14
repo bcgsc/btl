@@ -84,22 +84,23 @@ img.git, img.twitter, img.website, img.linkedin, img.email {
 }
 
 img.avatar {
-height: 40px;
-width: auto;
+    height: 40px;
+    width: auto;
+    vertical-align:middle;
+    border-radius:50%;
+    margin-right: 5px;
 }
 
-table.avatar {
-border: none;
-}
 
+body.layout-page.members{
 
-body.layout-page.members {
-  p {
-  
-display: inline-block;
-    vertical-align: middle;
-  
+p {
+    line-height:50px;
   }
+  
+#alumni + p {
+    line-height:30px;
+}
 
 }
 

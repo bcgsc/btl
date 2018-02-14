@@ -30,13 +30,6 @@
   
   
   {
-    "title": "Henohenomoheji Toyota",
-    "excerpt": "\n",
-    "content": "Introduction to me\n\nJust a small town girl, living in a lonely world. Took the midnight train going anywhere.\n\nFuture plans\n\nAfter I work for a few years I want to go traveling. Dunno where but I guess that’s something I’ll figure out along the way.\n\nHobbies\n\nI like to take pictures stuff and so here are a few of my pictures, to show my ultimate power. Note: did not actually take either of these photos. Were fond on Google\n\nAnd then I took another picture and I’m going to italicize this message, because I can. I’m going to bold this entire section\n\n",
-    "url": "/member/htoyota.html"
-  },
-  
-  {
     "title": "Projects",
     "excerpt": "\n",
     "content": "\n",
@@ -75,21 +68,14 @@
     "title": "Rene Warren",
     "excerpt": "\n",
     "content": "About\n\nRené is a researcher with extensive experience in computational biology, a prolific scientific research author\nand regular reviewer for peer reviewed genomics and bioinformatics journals. In his career, he has been at the\nforefront of innovation, and pioneered a number of bioinformatics “firsts”. Among those, SSAKE, the first\nalgorithm for de novo genome assembly with short DNA sequences [1]. Algorithms of SSAKE are the core of\nmany genomics applications and their design continues to inspire new-generation technologies. Applications of\nthe software extend beyond genome assembly; The innovative technology was applied to profiling T-cell\nmetagenomes [12], targeted de novo genome sequence assembly (TASR) [5], HLA typing (HLAminer [16] and\nNMDP Be The Match®), genome scaffolding with long reads (LINKS) [3], proteome assembly (PASS) and was\nkey to the discovery of Fusobacterium in colon cancer [9], a finding designated as one of the top 10 medical\nbreakthroughs of 2011 by Time magazine.\n\nSoftware created\n\nLinks\n\n",
-    "url": "/member/rwarren.html"
-  },
-  
-  {
-    "title": "Sample Person",
-    "excerpt": "\n",
-    "content": "Background\nI did my undergraduate at Some University in this city and it was really great. Then I worked at this place. Here’s a link My Dank LinkedIn\nI’m working on doing a bunch of stuff and it’s really cool and amazing. I did this lalalal\n\nMy work at Birol Lab\n\nI work on doing this thing called lallalal here’s an image to show this utterly awesome editing capabitlites slakjflsdkajfds\na\n\n\n\nIt’s all very bioinformatics everyhting is amazus\n",
-    "url": "/member/samplemember.html"
+    "url": "/member/renewarren.html"
   },
   
   {
     "title": "Shaun Jackman",
     "excerpt": "\n",
     "content": "About Me\nI live in Vancouver, Canada, where I’m a PhD candidate studying bioinformatics at the University of British Columbia with my supervisor, Inanc Birol. I analyze genome sequencing data from a variety of species, including spruce trees and human. I develop software that takes fragmented genome sequencing data and attempts to reassemble the original genome from which the short fragments were derived. My undergraduate degree is in computer engineering. I’m a programmer, an avid traveller, a singer, and an experimental cook.\n\nMy Work at Birol Lab\nFor more information, see my website.\n\n",
-    "url": "/member/sjackman.html"
+    "url": "/member/shaunjackman.html"
   },
   
   {
