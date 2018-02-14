@@ -25,4 +25,4 @@ breakthroughs of 2011 by Time magazine.
 ### Software created 
 
 Links  
-![LINKS](/assets/logos/linkslogo.png)
+![LINKS](../assets/logos/linkslogo.png)
