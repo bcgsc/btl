@@ -26,7 +26,6 @@
 		{% if site.avatarurl %}{% include site-favicons.html %}{% endif %}
 	</head>
 	<body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
-		{% include site-icons.svg %}
 
 		{{ content }}
 

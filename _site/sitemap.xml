@@ -16,10 +16,10 @@
 <loc>http://localhost:4000/member/htoyota.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects_collections/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/projects_collections/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/members.html</loc>
