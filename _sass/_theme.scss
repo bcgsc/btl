@@ -1,4 +1,6 @@
 // Structural elements
+
+
 body {
   background: $backgroundColour;
   color: $bodyColour;
@@ -12,6 +14,21 @@ body {
     text-align: center;
     height: 100%;
     float: left;
+}
+
+.intro {
+    width: 20%;
+    text-align: center;
+    height: 100%;
+    float: left;
+}
+
+
+.profile-content{
+    width: 60%;
+    float: right;
+    text-align: left;
+    padding-left: 30px;
 }
 
 .col.software {
@@ -48,11 +65,23 @@ img.software-logo {
 
 }
 
-img.git{
+img.git {
 height: 0.8em;
 display: inline;
+
 }
 
+.layout-profile {
+
+img.git, img.twitter, img.website, img.linkedin, img.email {
+    height: 1.3em;
+    display: inline;
+    }
+    
+.profile-avatar {
+    width: 100%;
+    }
+}
 
 img.avatar {
 height: 40px;
@@ -63,6 +92,16 @@ table.avatar {
 border: none;
 }
 
+
+body.layout-page.members {
+  p {
+  
+display: inline-block;
+    vertical-align: middle;
+  
+  }
+
+}
 
 
 /**
