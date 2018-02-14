@@ -1,0 +1,15 @@
+{
+  "lang": "en-US",
+  "name": "Bioinformatics Technology Lab",
+  "short_name": "BioinformaticsTechnologyLab",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}

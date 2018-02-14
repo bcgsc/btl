@@ -36,10 +36,10 @@ sass:
     permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
     excerpt_separator: <!-- more --> # Marks end of excerpt in posts
     
-collections:
-  posts: 
-    title: Projects
-    output: true
-    description: Ongoing projects
-    
+  
+#collections:
+#  posts: 
+#    title: Projects
+#    output: true
+#    description: Ongoing projects
     
