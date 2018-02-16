@@ -7,6 +7,8 @@ github: sjackman
 twitter: sjackman
 website: http://sjackman.ca/
 linkedin: https://www.linkedin.com/in/sjackman
+orcid: https://orcid.org/0000-0002-9275-5966
+gschol: https://scholar.google.ca/citations?user=wFl3qXAAAAAJ
 layout: profile
 ---
 
@@ -16,4 +18,5 @@ I live in Vancouver, Canada, where I'm a PhD candidate studying bioinformatics a
 
 ### My Work at Birol Lab
 For more information, see my website. 
+
 

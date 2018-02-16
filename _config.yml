@@ -21,6 +21,7 @@ navigation_header:
   Publications: /publications
   Projects: /projects
   Software: /software
+  News: /news
   
 navigation_footer: 
     Alembic by David Darnes: "https://github.com/daviddarnes/alembic"
@@ -37,9 +38,9 @@ sass:
     excerpt_separator: <!-- more --> # Marks end of excerpt in posts
     
   
-#collections:
-#  posts: 
-#    title: Projects
-#    output: true
-#    description: Ongoing projects
+collections:
+  posts: 
+    title: News
+    output: true
+    description: Conferences, presentations, and more
     

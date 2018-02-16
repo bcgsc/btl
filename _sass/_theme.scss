@@ -73,7 +73,7 @@ display: inline;
 
 .layout-profile {
 
-img.git, img.twitter, img.website, img.linkedin, img.email {
+img.social-media {
     height: 1.3em;
     display: inline;
     }
@@ -257,7 +257,7 @@ span.software-title{
 }
 
 .footer {
-  background: $headingColour;
+  background: $backgroundColour;
   color: $captionColour;
   a {
     color: $captionColour;
