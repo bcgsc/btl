@@ -1,0 +1,36 @@
+--- 
+layout: default 
+--- 
+
+{% if paginator.posts %}
+	<section class="section  typeset">
+		<ul class="list  list--posts">
+			{% for page in paginator.posts %}
+				<li class="item  item--post">
+					<article class="article  article--post">
+						<h4><a target= "_blank" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h4>
+						{% include post-meta.html %}
+						{{ page.excerpt | markdownify | truncatewords: 60 }}
+					</article>
+				</li>
+			{% endfor %}
+		</ul>
+		{% include post-pagination.html %}
+	</section>
+{% else %}
+	<section class="section  typeset">
+		<ul class="list  list--posts">
+			{% for page in site.posts %}
+				<li class="item  item--post">
+					<article class="article  article--post">
+
+						<h4><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h4>
+						{% include post-meta.html %}
+						{{ page.excerpt | markdownify | truncatewords: 60 }}
+
+					</article>
+				</li>
+			{% endfor %}
+		</ul>
+	</section>
+{% endif %}

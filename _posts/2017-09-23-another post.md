@@ -1,10 +1,10 @@
 ---
 layout: post
 title: One more example
-category: blog
+category: conference
 ---
 
-Each post has its own page. This source file? A simple markdown file. EZ PZ.
+Each post has its own page. This source file? A simple markdown file. 
 
 <!-- more -->
 

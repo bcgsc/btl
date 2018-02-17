@@ -24,7 +24,7 @@ navigation_header:
   News: /news
   
 navigation_footer: 
-    Alembic by David Darnes: "https://github.com/daviddarnes/alembic"
+    Theme: "https://github.com/daviddarnes/alembic"
 
 # Build settings
 markdown: kramdown

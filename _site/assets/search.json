@@ -14,32 +14,46 @@
     
       {
         "title": "One more example",
-        "excerpt": "Each post has its own page. This source file? A simple markdown file. EZ PZ.\n\n",
-        "content": "Each post has its own page. This source file? A simple markdown file. EZ PZ.\n\n\n\nDo we need categories? Perhaps not. I don’t really like the look of this page. Too much white space.\n",
-        "url": "/blog/2017/09/23/another-post.html"
+        "excerpt": "Each post has its own page. This source file? A simple markdown file.\n\n",
+        "content": "Each post has its own page. This source file? A simple markdown file.\n\n\n\nDo we need categories? Perhaps not. I don’t really like the look of this page. Too much white space.\n",
+        "url": "/conference/2017/09/23/another-post.html"
       },
     
       {
-        "title": "Another post!",
-        "excerpt": "Here is an example of another post, we can restrict where the break happens. There are also options to set categories. See more…\n\nLalala somebody once told me the world is gonna roll me\n",
-        "content": "Here is an example of another post, we can restrict where the break happens. There are also options to set categories. See more…\n\nLalala somebody once told me the world is gonna roll me\n\n",
-        "url": "/editorial/2018/01/02/interesting-facts.html"
+        "title": "Presenting at ABCD Conference",
+        "excerpt": "John Smith and James Green presented their research at ABCD Conference this past weekend\n\n",
+        "content": "John Smith and James Green presented their research at ABCD Conference this past weekend\n\n\n\nWe have the presentation notes and paper here. Here is an image from this fantastic conference\n\n",
+        "url": "/conference/2018/01/02/ABCD-conference.html"
       },
     
   
   
   
   {
+    "title": "Austin Hammond",
+    "excerpt": "\n",
+    "content": "About\n\nSoftware created\n\n",
+    "url": "/member/ahammond.html"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories.html"
+  },
+  
+  {
     "title": "Home",
     "excerpt": "\n",
-    "content": "\n  \n\n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Publications\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n\n      \n\n      \n        News\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n       Photo by Martin Krzywinski \n      \n      \n  \n\n\n\n\n\n\n\n    \n    Software\n     Could have some icons, some text, definitely a link to Github and BCGSC software maybe\n    \n\n    \n    Active Projects\n     Could have a list of ongoing projects or recent publications\n    \n\n\n\t\n\n  \n    \n      Hello!\n      Hello this is what's going to be in the aside block. Here's some information about our lab        \n    \n\n  \n\n\n\n\n\n\n\n  \n    \n      &copy; Bioinformatics Technology Lab 2018\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Alembic by David Darnes\n      \n    \n  \n\n\n\n  \n\n\n",
+    "content": "\n  \n\n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Publications\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n\n      \n\n      \n        News\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n       Photo by Martin Krzywinski \n      \n      \n  \n\n\n\n\n\n\n\n\nWelcome!\nThe Bioinformatics Technology Lab at Michael Smith Genome Sciences Centre specializes in software for de novo genome assembly.\n\n\n\nNews\n\n\n\n\n\t\n\n\n\n\n  \n    \n      &copy; Bioinformatics Technology Lab 2018\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Theme\n      \n    \n  \n\n\n\n  \n\n\n",
     "url": "/"
   },
   
   {
     "title": "Members",
     "excerpt": "\n",
-    "content": " Inanc Birol, Principal Investigator\n Rene Warren, Group Leader\n Readman Chiu, Production Coordinator\n Sinead Aherne, Project Manager\n\nClinical Bioinformatics\n\n S. Austin Hammond, computational biologist\n Zhuyi Xue, computational biologist\n Daniel MacMillan, computational biologist\n Chen Yang, graduate student (UBC)\n Ka Ming Nip, graduate student (UBC)\n Golnar Sheikhshab, graduate student (UBC)\n Jessica Ma, coop student (UBC)\n Emre Erhan, honours project student (SFU)\n\nHigh Performance Computing\n Ben Vandervalk, computational biologist\n Lauren Coombe, computational biologist\n Hamid Mohamadi, postdoctoral fellow\n Justin Chu, graduate student (UBC)\n Shaun Jackman, graduate student (UBC)\n Kristina Gagalova, graduate student (UBC)\n Yee Fay Lim, graduate student (UBC)\n Saber Hafezqorani, graduate student (UBC)\n Chenkai Li, graduate student (UBC)\n Jeffrey Tse, coop student (UBC)\n\nAlumni\nJessica Zhang, intern (UBC)\nEwan Gibb, staff scientist\nHamza Khan, graduate student (UBC)\nErdi Kucuk, graduate student (UBC)\nSarah Yeo, UBC honor’s project student / intern / directed studies student (UBC)\nDjallel Bouneffouf, postdoctoral fellow\nAbdur Rahman Basher, UBC graduate student (UBC)\nVictoria Stuart, computational biologist\nJessica Pilsworth, graduate student (UBC)\nBahar Behsaz, computational biologist\nYi-Ming Sun, coop student (UVic)\nNathan Nastilli, coop student (SFU)\nAlex Purdy, coop student (UVic)\nGolnaz Jahesh, graduate student (UBC)\nKarthika Raghavan, postdoctoral fellow\nTony Raymond, computational biologist\nAlbert Lagman, coop student (UBC)\nDaniel Paulino, coop student (SFU)\nMimi Ko, coop student (UBC)\n",
+    "content": " Inanc Birol, Principal Investigator\n Rene Warren, Group Leader\n Readman Chiu, Production Coordinator\n Sinead Aherne, Project Manager\n\nClinical Bioinformatics\n\n S. Austin Hammond, computational biologist  \n Zhuyi Xue, computational biologist\n Daniel MacMillan, computational biologist\n Chen Yang, graduate student (UBC)\n Ka Ming Nip, graduate student (UBC)\n Golnar Sheikhshab, graduate student (UBC)\n Jessica Ma, coop student (UBC)\n Emre Erhan, honours project student (SFU)\n\nHigh Performance Computing\n Ben Vandervalk, computational biologist\n Lauren Coombe, computational biologist\n Hamid Mohamadi, postdoctoral fellow\n Justin Chu, graduate student (UBC)\n Shaun Jackman, graduate student (UBC)\n Kristina Gagalova, graduate student (UBC)\n Yee Fay Lim, graduate student (UBC)\n Saber Hafezqorani, graduate student (UBC)\n Chenkai Li, graduate student (UBC)\n Jeffrey Tse, coop student (UBC)\n\nAlumni\nJessica Zhang, intern (UBC)\nEwan Gibb, staff scientist\nHamza Khan, graduate student (UBC)\nErdi Kucuk, graduate student (UBC)\nSarah Yeo, UBC honor’s project student / intern / directed studies student (UBC)\nDjallel Bouneffouf, postdoctoral fellow\nAbdur Rahman Basher, UBC graduate student (UBC)\nVictoria Stuart, computational biologist\nJessica Pilsworth, graduate student (UBC)\nBahar Behsaz, computational biologist\nYi-Ming Sun, coop student (UVic)\nNathan Nastilli, coop student (SFU)\nAlex Purdy, coop student (UVic)\nGolnaz Jahesh, graduate student (UBC)\nKarthika Raghavan, postdoctoral fellow\nTony Raymond, computational biologist\nAlbert Lagman, coop student (UBC)\nDaniel Paulino, coop student (SFU)\nMimi Ko, coop student (UBC)\n",
     "url": "/members.html"
   },
   
@@ -68,14 +82,14 @@
     "title": "Rene Warren",
     "excerpt": "\n",
     "content": "About\n\nRené is a researcher with extensive experience in computational biology, a prolific scientific research author\nand regular reviewer for peer reviewed genomics and bioinformatics journals. In his career, he has been at the\nforefront of innovation, and pioneered a number of bioinformatics “firsts”. Among those, SSAKE, the first\nalgorithm for de novo genome assembly with short DNA sequences [1]. Algorithms of SSAKE are the core of\nmany genomics applications and their design continues to inspire new-generation technologies. Applications of\nthe software extend beyond genome assembly; The innovative technology was applied to profiling T-cell\nmetagenomes [12], targeted de novo genome sequence assembly (TASR) [5], HLA typing (HLAminer [16] and\nNMDP Be The Match®), genome scaffolding with long reads (LINKS) [3], proteome assembly (PASS) and was\nkey to the discovery of Fusobacterium in colon cancer [9], a finding designated as one of the top 10 medical\nbreakthroughs of 2011 by Time magazine.\n\nSoftware created\n\nLinks\n\n",
-    "url": "/member/renewarren.html"
+    "url": "/member/rwarren.html"
   },
   
   {
     "title": "Shaun Jackman",
     "excerpt": "\n",
     "content": "About Me\nI live in Vancouver, Canada, where I’m a PhD candidate studying bioinformatics at the University of British Columbia with my supervisor, Inanc Birol. I analyze genome sequencing data from a variety of species, including spruce trees and human. I develop software that takes fragmented genome sequencing data and attempts to reassemble the original genome from which the short fragments were derived. My undergraduate degree is in computer engineering. I’m a programmer, an avid traveller, a singer, and an experimental cook.\n\nMy Work at Birol Lab\nFor more information, see my website.\n\n",
-    "url": "/member/shaunjackman.html"
+    "url": "/member/sjackman.html"
   },
   
   {

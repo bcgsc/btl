@@ -1,8 +1,8 @@
-const version = '20180216104031';
+const version = '20180216175719';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/editorial/2018/01/02/interesting-facts.html","/blog/2017/09/23/another-post.html","/software/2016/08/27/example-post-one.html","/","/members.html","/news.html","/projects.html","/publications.html","/member/renewarren.html","/assets/search.json","/member/shaunjackman.html","/software.html","/assets/styles.css","/manifest.json","/softwareblurbs/FORMATTING-README.html","/sitemap.xml","/robots.txt","/feed.xml","/assets/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/conference/2018/01/02/ABCD-conference.html","/conference/2017/09/23/another-post.html","/software/2016/08/27/example-post-one.html","/member/ahammond.html","/categories.html","/","/members.html","/news-content.html","/news.html","/projects.html","/publications.html","/member/rwarren.html","/assets/search.json","/member/sjackman.html","/software.html","/assets/styles.css","/manifest.json","/softwareblurbs/FORMATTING-README.html","/sitemap.xml","/robots.txt","/feed.xml","/assets/logo.png", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
