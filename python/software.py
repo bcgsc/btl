@@ -3,10 +3,10 @@ import glob, os
 os.chdir("../softwareblurbs")
 software = open("../_includes/software-content.html", "w+")
 
-start = '<td><img class="software-logo" src="{{ site.url }}/assets/logos/'
+start = '<td><img class="software-logo" src="assets/logos/'
 p1 = '"><span class="software-title">'
 p2 = ' <a href="'
-p3 = '"><img class="git" src="{{ site.url }}/assets/githubicon.svg"></a></span><p>'
+p3 = '"><img class="git" src="assets/githubicon.svg"></a></span><p>'
 end= '</p></td>'
 
 i = 0

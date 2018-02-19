@@ -6,7 +6,7 @@ layout: default
 
 <main class="main  container">
     <div class="intro two_col content typeset"">
-        <img class="profile-avatar" src= "{{ site.url }}/assets/avatars/{{ page.avatar }}"> 
+        <img class="profile-avatar" src= "../assets/avatars/{{ page.avatar }}"> 
         <h3><strong> {{ page.title }} </strong></h3>
         <p><em>{{ page.position }}</em><br><br>
         {% if page.email %} <span><a title="Email" href="{{ page.email }}">{% include email-icon.html %}</a></span>{% endif %}
