@@ -5,13 +5,11 @@ position: Group Leader
 github: warrenlr
 twitter: WarrenRene
 website: http://www.renewarren.ca/
-layout: profile
 email: rwarren@bcgsc.ca mailto:
 linkedin: https://www.linkedin.com/in/ren%C3%A9-warren-11630984/
 orcid: 0000-0002-9890-2293
 gschol: scholar.google.ca/citations?user=nLkZYtcAAAAJ&hl=en
 layout: profile
-
 ---
 
 ### About
@@ -24,7 +22,7 @@ A hobbyist photographer and videographer, avid hiker and kayaker, René est un s
 
 Links  
 ![LINKS](../assets/logos/linkslogo.png)
-![ARCS](../assets/logos/linkslogo.png)
+![ARCS](../assets/logos/arcslogo.png)
 ![RAILS](../assets/logos/railslogo.png)
 ![XMATCHVIEW](../assets/logos/xmatchviewlogo.png) 
 
