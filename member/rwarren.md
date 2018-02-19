@@ -2,10 +2,11 @@
 title: Rene Warren
 avatar: rwarren.png
 position: Group Leader
-email: rwarren@bcgsc.ca mailto:
+email: mailto:rwarren@bcgsc.ca
 github: warrenlr
 twitter: WarrenRene
 website: http://www.renewarren.ca/
+linkedin: https://www.linkedin.com/in/ren%C3%A9-warren-11630984/
 orcid: https://orcid.org/0000-0002-9890-2293
 gschol: https://scholar.google.ca/citations?user=nLkZYtcAAAAJ&hl=en
 layout: profile
