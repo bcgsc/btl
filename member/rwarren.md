@@ -2,11 +2,10 @@
 title: Rene Warren
 avatar: rwarren.png
 position: Group Leader
+email: rwarren@bcgsc.ca mailto:
 github: warrenlr
 twitter: WarrenRene
 website: http://www.renewarren.ca/
-email: rwarren@bcgsc.ca mailto:
-linkedin: https://www.linkedin.com/in/ren%C3%A9-warren-11630984/
 orcid: https://orcid.org/0000-0002-9890-2293
 gschol: https://scholar.google.ca/citations?user=nLkZYtcAAAAJ&hl=en
 layout: profile
@@ -19,8 +18,6 @@ Researcher with extensive experience in computational biology, prolific scientif
 A hobbyist photographer and videographer, avid hiker and kayaker, René est un scientifique dans l'âme qui instille avec enthousiasme sa passion pour la recherche.
 
 ### Software created 
-
-Links  
 ![LINKS](../assets/logos/linkslogo.png)
 ![ARCS](../assets/logos/arcslogo.png)
 ![RAILS](../assets/logos/railslogo.png)
