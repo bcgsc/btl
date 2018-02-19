@@ -20,7 +20,7 @@ layout: default
 
 <div style="width:50%;height:100%;float:left;padding:0px;">
 <h2><a href="news.html">News</a></h2>
-<iframe scrolling="no" src="news-content.html"></iframe>
+<iframe src="news-content.html"></iframe>
 </div>
 </article>
 
