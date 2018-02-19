@@ -8,5 +8,5 @@ John Smith and James Green presented their research at ABCD Conference this past
 
 <!-- more -->
 
-We have the presentation notes and [paper](assets/posts/ABySS.pdf) here. Here is an image from this fantastic conference
-![confpic](assets/posts/speakers.jpg)
+We have the presentation notes and [paper]({{ site.col_url }}assets/posts/ABySS.pdf) here. Here is an image from this fantastic conference
+![confpic]({{ site.col_url }}assets/posts/speakers.jpg)
