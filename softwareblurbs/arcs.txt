@@ -1,4 +1,4 @@
 arcslogo.png
 https://github.com/bcgsc/arcs/tree/binomialx2
 ARCS
-Scaffolding genome sequence assemblies using 10X Genomics GemCode/Chromium data.
+Linked read genome scaffolder (supports 10x Genomics data), by read alignment
