@@ -19,8 +19,7 @@ Researcher with extensive experience in computational biology, prolific scientif
 A hobbyist photographer and videographer, avid hiker and kayaker, René est un scientifique dans l'âme qui instille avec enthousiasme sa passion pour la recherche.
 
 ### Software created 
-![LINKS](../assets/logos/linkslogo.png)
-![ARCS](../assets/logos/arcslogo.png)
 ![RAILS](../assets/logos/railslogo.png)
 ![XMATCHVIEW](../assets/logos/xmatchviewlogo.png) 
-
+![LINKS](../assets/logos/linkslogo.png)
+![ARCS](../assets/logos/arcslogo.png)
