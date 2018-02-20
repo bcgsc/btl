@@ -1,4 +1,4 @@
 transparent.png
 https://github.com/bcgsc/pavfinder
 PAVFinder
-PAVFinder is a Python package that detects structural variants from de novo assemblies (e.g. ABySS, Trans-ABySS).
+Python package to identify structural variants from de novo assemblies

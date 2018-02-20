@@ -1,4 +1,4 @@
 arkslogo.png
 https://github.com/bcgsc/arks
 ARKS
-Linked read genome scaffolder (supports 10x Genomics data), by kmer mapping
+Genome scaffolder by linked read kmer mapping

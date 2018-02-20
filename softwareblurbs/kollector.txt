@@ -1,4 +1,4 @@
 transparent.png
 https://github.com/bcgsc/kollector
 Kollector
-Targeted, de novo gene assembly pipeline
+Targeted de novo gene assembly pipeline

@@ -1,4 +1,4 @@
 railslogo.png
 https://github.com/bcgsc/RAILS
 Cobbler/RAILS
-Automated genome finishing tools. Genome gap filler (cobbler) and scaffolder (RAILS) with long sequences  
+Automated genome finishing tools: Gap-filling (cobbler), scaffolding (RAILS) with long DNA sequences  

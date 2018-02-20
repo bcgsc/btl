@@ -1,4 +1,4 @@
 tigmintlogo.png
 https://github.com/bcgsc/tigmint
 Tigmint
-Correct misassemblies using linked reads
+Misassembly correction utility with linked reads

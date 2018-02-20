@@ -1,4 +1,4 @@
 transparent.png
 https://github.com/bcgsc/ChopStitch
 ChopStitch
-Finding putative exons and constructing splicegraphs using Trans-ABySS contigs
+De novo exon prediction and splicegraph construction

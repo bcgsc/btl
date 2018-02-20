@@ -1,4 +1,4 @@
 ntHashlogo.png
 https://github.com/bcgsc/ntHash
 ntHash
-ntHash is a recursive hashing algorithm tuned for processing DNA/RNA sequences. 
+Recursive hashing algorithm tuned for processing DNA/RNA sequences
