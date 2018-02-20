@@ -1,4 +1,4 @@
 transparent.png
 https://github.com/bcgsc/biobloom
 BioBloom Tools
-fast, memory-efficient sequence read mapping with Bloom filters
+Memory efficient sequence read mapping with Bloom filters

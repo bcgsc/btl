@@ -1,4 +1,4 @@
 linkslogo.png
 https://github.com/bcgsc/LINKS
 LINKS
-Scalable, alignment-free genome scaffolder with long sequences
+Alignment-free genome scaffolder with long error-rich DNA sequences
