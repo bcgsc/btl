@@ -1,4 +1,4 @@
 railslogo.png
 https://github.com/bcgsc/RAILS
-RAILS
-RAILS: Radial Assembly Improvement by Long Sequence Scaffolding. Cobbler: Gap-filling with long sequences
+Cobbler/RAILS
+Gap-filling (cobbler) and scaffolding (RAILS) by long DNA sequence alignment

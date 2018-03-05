@@ -1,4 +1,4 @@
 xmatchviewlogo.png
 https://github.com/warrenlr/xmatchview
 xmatchview
-Smith-waterman alignment visualization
+Genome sequence alignment visualization

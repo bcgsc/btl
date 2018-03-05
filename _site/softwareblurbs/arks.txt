@@ -1,4 +1,4 @@
 arkslogo.png
 https://github.com/bcgsc/arks
 ARKS
-Scaffold genome assemblies with 10x Genomics Chromium reads
+Genome scaffolder by linked read kmer mapping

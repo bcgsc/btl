@@ -46,8 +46,15 @@
   {
     "title": "Home",
     "excerpt": "\n",
-    "content": "\n  \n\n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Publications\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n\n      \n\n      \n        News\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n       Photo by Martin Krzywinski \n      \n      \n  \n\n\n\n\n\n\n\n\nWelcome!\nThe Bioinformatics Technology Lab at Michael Smith Genome Sciences Centre specializes in software for de novo genome assembly.\n\n\n\nNews\n\n\n\n\n\t\n\n\n\n\n  \n    \n      &copy; Bioinformatics Technology Lab 2018\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Theme\n      \n    \n  \n\n\n\n  \n\n\n",
+    "content": "\n  \n\n    \n  \n\n\n\n    \n\n  \n    \n\n      \n\n      \n        Home\n      \n    \n\n      \n\n      \n        Members\n      \n    \n\n      \n\n      \n        Publications\n      \n    \n\n      \n\n      \n        Projects\n      \n    \n\n      \n\n      \n        Software\n      \n    \n\n      \n\n      \n        News\n      \n    \n  \n\n\n\n\n  \n    \n\n  \n\n\n\n\n  \n\n  \n\n\n\n\n  \n      \n        Bioinformatics Technology Lab\nLed by Dr. Inanc Birol at BC Cancer’s Michael Smith Genome Sciences Center\n\n      \n       Photo by Martin Krzywinski \n      \n      \n  \n\n\n\n\n\n\n\n\nWelcome!\nThe Bioinformatics Technology Lab at the Michael Smith Genome Sciences Centre is a computational biology research group, part of the BC Cancer Agengy. We develop novel algorithms, data structures and genome analysis software. The technologies we build find applications in cancer research, and are the foundation of our genome research program. We are situated in Vancouver, Canada\n\n\n\nNews\n\n\n\n\n\t\n\n\n\n\n  \n    \n      Copyright  2018 BC Cancer Genome Sciences Centre\n    \n\n    \n\n  \n    \n\n      \n\n      \n        Theme\n      \n    \n  \n\n\n\n  \n\n\n",
     "url": "/"
+  },
+  
+  {
+    "title": "something",
+    "excerpt": "\n",
+    "content": "About Me\nHello, World\n\nHello again\n",
+    "url": "/member/jma.html"
   },
   
   {
@@ -81,7 +88,7 @@
   {
     "title": "Rene Warren",
     "excerpt": "\n",
-    "content": "About\n\nRené is a researcher with extensive experience in computational biology, a prolific scientific research author\nand regular reviewer for peer reviewed genomics and bioinformatics journals. In his career, he has been at the\nforefront of innovation, and pioneered a number of bioinformatics “firsts”. Among those, SSAKE, the first\nalgorithm for de novo genome assembly with short DNA sequences [1]. Algorithms of SSAKE are the core of\nmany genomics applications and their design continues to inspire new-generation technologies. Applications of\nthe software extend beyond genome assembly; The innovative technology was applied to profiling T-cell\nmetagenomes [12], targeted de novo genome sequence assembly (TASR) [5], HLA typing (HLAminer [16] and\nNMDP Be The Match®), genome scaffolding with long reads (LINKS) [3], proteome assembly (PASS) and was\nkey to the discovery of Fusobacterium in colon cancer [9], a finding designated as one of the top 10 medical\nbreakthroughs of 2011 by Time magazine.\n\nSoftware created\n\nLinks\n\n",
+    "content": "About\n\nGenomics researcher with extensive experience in computational biology, scientific research author and regular reviewer for genomics and bioinformatics journals. In his career, he has been at the forefront of innovation, pioneering a number of bioinformatic “firsts”. Among those, SSAKE, the first algorithm for genome assembly with short DNA sequences. Algorithms of SSAKE are the core of many genomics applications and their designs continue to inspire new-generation technologies. Applications of the software extend beyond genome assembly; The innovative technology was applied to profiling T-cell metagenomes, targeted de novo genome sequence assembly (TASR), HLA typing (HLAminer and NMDP Be The Match), breakpoint  detection in cancer, genome scaffolding with long reads (LINKS &amp; ARCS), proteome assembly (PASS) and was key to the discovery of Fusobacterium in colon cancer, a finding designated as one of the top 10 medical breakthroughs of 2011 by Time magazine.\n\n",
     "url": "/member/rwarren.html"
   },
   

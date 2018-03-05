@@ -1,6 +1,4 @@
 linkslogo.png
 https://github.com/bcgsc/LINKS
 LINKS
-Long Interval Nucleotide K-mer Scaffolder
-
-
+Alignment-free genome scaffolder with long error-rich DNA sequences

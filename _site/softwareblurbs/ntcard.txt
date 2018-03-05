@@ -1,4 +1,4 @@
 transparent.png
 https://github.com/bcgsc/ntCard
 ntCard
-Estimating k-mer coverage histogram of genomics data
+Streaming algorithm for cardinality estimation in genomics datasets
