@@ -15,7 +15,7 @@ layout: default
 <article class="article  article--page  content  typeset">
 <div style="width:50%;height:100%;float:left;padding-right:20px;">
 <h2>Welcome!</h2>
-<p>The Bioinformatics Technology Lab at the [Michael Smith Genome Sciences Centre](http://www.bcgsc.ca/) is a computational biology research group, part of the BC Cancer Agengy. We develop novel algorithms, data structures and genome analysis software. The technologies we build find applications in cancer research, and are the foundation of our genome research program. We are situated in Vancouver, Canada</p>
+<p>The Bioinformatics Technology Lab at the <a href="http://www.bcgsc.ca/">Michael Smith Genome Sciences Centre</a> is a computational biology research group, part of the BC Cancer Agengy. We develop novel algorithms, data structures and genome analysis software. The technologies we build find applications in cancer research, and are the foundation of our genome research program. We are situated in Vancouver, Canada</p>
 </div>
 
 <div style="width:50%;height:100%;float:left;padding:0px;">
