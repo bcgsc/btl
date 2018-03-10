@@ -2,6 +2,7 @@
 
 
 body {
+  margin-top: 10%;
   background: $backgroundColour;
   color: $bodyColour;
   height: 100%;
@@ -175,6 +176,7 @@ span.software-title{
     @include flex(0 0 auto);
   }
   .container {
+
     @include flexbox;
     @include flex-direction(row);
     @include justify-content(space-between);
@@ -189,6 +191,13 @@ span.software-title{
   display: flex;
   flex-direction: column-reverse;
   align-items: flex-end;
+}
+
+.header{
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: $backgroundColour;
 }
 
 .feature {
@@ -632,4 +641,34 @@ iframe{
     margin: 0px;
     overflow: hidden;
 }
+
+.scrollbar {
+    background-color: #F5F5F5;
+    float: left;
+    height: 300px;
+    margin-bottom: 25px;
+    margin-left: 22px;
+    margin-top: 40px;
+    width: 65px;
+       overflow-y: scroll;
+}
+
+.force-overflow {
+    min-height: 450px;
+}
+
+#style-1::-webkit-scrollbar {
+    width: 60px;
+    background-color: #F5F5F5;
+} 
+
+#style-1::-webkit-scrollbar-thumb {
+    background-color: #000000;
+}
+
+#style-1::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    background-color: #F5F5F5;
+}
+
 
