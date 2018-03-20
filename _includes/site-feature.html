@@ -7,10 +7,10 @@
 {% endif %}
 
 {% if feature_text or feature_image %}
-  <div class="feature"{% if feature_image %} style="position:relative; background-image: url({{ feature_image }})"{% endif %}>
+  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
       <div class="container  typeset">
         {{ feature_text | markdownify }}
-      <span style="position:absolute;bottom:0;font-size:10px;">
+      <span style="font-size:10px;">
       {% if page.feature_credit %}<a target="_blank" href="{{page.feature_link}}" >{% endif %}{% if page.feature_credit %} {{page.feature_credit}} {% endif %}{% if page.feature_credit %}</a>{% endif %}
       </span>
       </div>

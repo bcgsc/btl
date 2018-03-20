@@ -2,7 +2,7 @@
 
 
 body {
-  margin-top: 10%;
+  margin-top: 100px;
   background: $backgroundColour;
   color: $bodyColour;
   height: 100%;
@@ -141,7 +141,6 @@ table {
 
 .container {
   width: 100%;
-  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -193,7 +192,7 @@ span.software-title{
   align-items: flex-end;
 }
 
-.header{
+.topnav{
   position: fixed;
   width: 100%;
   top: 0;
