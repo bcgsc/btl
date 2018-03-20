@@ -1,12 +1,6 @@
 ---
 layout: page
 title: Members
-feature_text: |
-  # Bioinformatics Technology Lab   
-  Led by Dr. Inanc Birol at [BC Cancer's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca/) 
-feature_image: "assets/background.jpg"
-feature_credit: Photo by Martin Krzywinski
-feature_link: http://mkweb.bcgsc.ca/fun/hdtr/
 ---
 
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> **Inanc Birol, Principal Investigator**  
