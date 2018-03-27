@@ -64,13 +64,26 @@ img.software-logo {
   width:auto;
 }
 
+img.social-media {
+    height: 1.3em;
+    display: inline;
+    }
+
 }
 
 img.git {
-height: 0.8em;
-display: inline;
-
+    height: 0.8em;
+    display: inline;
 }
+
+div.downloadinfo{
+    display:inline-block;
+    line-height:80%;
+    font-family:monospace;
+    font-size:90%;
+    text-align:left;
+}
+
 
 .layout-profile {
 

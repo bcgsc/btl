@@ -1,4 +1,7 @@
 transparent.png
-https://github.com/bcgsc/pavfinder
 PAVFinder
+https://github.com/bcgsc/pavfinder
+
+conda install -c bioconda pavfinder
+
 Python package to identify structural variants from de novo assemblies

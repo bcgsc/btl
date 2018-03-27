@@ -1,4 +1,7 @@
 abysslogo.png
-https://github.com/bcgsc/abyss
 ABySS
+https://github.com/bcgsc/abyss
+brew install brewsci/bio/abyss
+conda install -c bioconda abyss
+docker run bcgsc/abyss
 Scalable de novo genome assembler with short reads 

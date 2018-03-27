@@ -1,4 +1,7 @@
 xmatchviewlogo.png
-https://github.com/warrenlr/xmatchview
 xmatchview
+https://github.com/warrenlr/xmatchview
+
+
+
 Genome sequence alignment visualization

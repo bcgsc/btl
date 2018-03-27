@@ -1,4 +1,7 @@
 nanosimlogo.png
-https://github.com/bcgsc/NanoSim
 NanoSim
+https://github.com/bcgsc/NanoSim
+
+
+
 Nanopore read sequence simulator, guided by technology-specific features

@@ -1,4 +1,7 @@
 tigmintlogo.png
-https://github.com/bcgsc/tigmint
 Tigmint
+https://github.com/bcgsc/tigmint
+
+
+
 Misassembly correction utility with linked reads

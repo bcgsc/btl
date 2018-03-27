@@ -1,4 +1,7 @@
 transparent.png
-https://github.com/bcgsc/ChopStitch
 ChopStitch
+https://github.com/bcgsc/ChopStitch
+
+
+
 De novo exon prediction and splicegraph construction

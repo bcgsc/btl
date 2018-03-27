@@ -1,4 +1,7 @@
 arkslogo.png
-https://github.com/bcgsc/arks
 ARKS
+https://github.com/bcgsc/arks
+
+
+
 Genome scaffolder by linked read kmer mapping

@@ -1,4 +1,7 @@
 ntHashlogo.png
-https://github.com/bcgsc/ntHash
 ntHash
+https://github.com/bcgsc/ntHash
+
+
+
 Recursive hashing algorithm tuned for processing DNA/RNA sequences
