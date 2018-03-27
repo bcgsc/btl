@@ -6,7 +6,7 @@ software = open("../_includes/software-content.html", "w+")
 start = '<td><img class="software-logo" src="assets/logos/'
 p1 = '"><span class="software-title">'
 p2 = ' <a href="'
-p3 = '"><img class="git" src="../assets/githubicon.svg"></a></span>'
+p3 = '"><img class="git" src="assets/githubicon.svg"></a></span>'
 
 ds = '<div style="text-align:center;"><div class="downloadinfo">'
 d1 = '<br>{% include linuxbrew-icon.html%}'
