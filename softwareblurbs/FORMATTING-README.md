@@ -4,15 +4,19 @@ FORMAT FOR SOFTWARE BLURBS:
 2. any missing information: leave the link blank, but keep the line break (examples follow)
 
 name of logofile WITH extension 
-github repository link
 Name To Be Displayed
+github repository link
+linuxbrew install line
+bioconda install line
+docker install line
 Description (can be multiple lines)
 
 if you don't have a logo, the format would be the following:
 
-*blank line*
-full github repository link
+transparent.png
 Name To Be Displayed
+full github repository link
+
 Description (can be multiple lines)
 
 sample:

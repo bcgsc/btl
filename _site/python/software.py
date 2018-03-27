@@ -3,7 +3,7 @@ import glob, os
 os.chdir("../softwareblurbs")
 software = open("../_includes/software-content.html", "w+")
 
-start = '<td><img class="software-logo" src="../assets/logos/'
+start = '<td><img class="software-logo" src="assets/logos/'
 p1 = '"><span class="software-title">'
 p2 = ' <a href="'
 p3 = '"><img class="git" src="../assets/githubicon.svg"></a></span>'
