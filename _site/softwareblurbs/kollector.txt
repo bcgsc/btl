@@ -1,7 +1,7 @@
 transparent.png
 Kollector
 https://github.com/bcgsc/kollector
-
+brew install brewsci/science/kollector
 
 
 Targeted de novo gene assembly pipeline

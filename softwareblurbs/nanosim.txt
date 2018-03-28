@@ -2,6 +2,6 @@ nanosimlogo.png
 NanoSim
 https://github.com/bcgsc/NanoSim
 
-
-
+conda install -c bioconda nanosim
+docker run quay.io/biocontainers/nanosim
 Nanopore read sequence simulator, guided by technology-specific features

@@ -2,6 +2,6 @@ transparent.png
 ntCard
 https://github.com/bcgsc/ntCard
 brew install brewsci/bio/ntcard
-conda install ntcard
+conda install -c bioconda ntcard
 docker run quay.io/biocontainers/ntcard
 Streaming algorithm for cardinality estimation in genomics datasets

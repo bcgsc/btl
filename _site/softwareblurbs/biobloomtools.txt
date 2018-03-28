@@ -1,7 +1,7 @@
 transparent.png
 BioBloom Tools
 https://github.com/bcgsc/biobloom
-
+brew install brewsci/science/biobloomtools
 
 
 Memory efficient sequence read mapping with Bloom filters

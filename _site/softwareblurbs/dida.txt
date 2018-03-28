@@ -1,7 +1,7 @@
 didalogo.jpeg
 DIDA
 https://github.com/bcgsc/dida
-
+brew install brewsci/science/dida
 
 
 Sequence alignment pipeline to distribute indexing/alignment stages on a compute farm
