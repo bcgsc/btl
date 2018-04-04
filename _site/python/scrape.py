@@ -41,7 +41,7 @@ def clean_journal(journal):
 
 if __name__ == "__main__":
 
-    my_file = open("../public.md", "w+")
+    my_file = open("public.md", "w+")
     #my_file = open("../publications.md","w+")
     #my_file.write('# Publications List\n\n')
 
