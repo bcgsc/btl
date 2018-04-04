@@ -5,27 +5,6 @@
   
     
     
-      {
-        "title": "ABySS 2.0 released",
-        "excerpt": "ABySS 2.0 is a something something after this sentence we will break the preview and\n\n",
-        "content": "ABySS 2.0 is a something something after this sentence we will break the preview and\n\n\n\nMore information lalalala\n",
-        "url": "/software/2016/08/27/example-post-one.html"
-      },
-    
-      {
-        "title": "One more example",
-        "excerpt": "Each post has its own page. This source file? A simple markdown file.\n\n",
-        "content": "Each post has its own page. This source file? A simple markdown file.\n\n\n\nDo we need categories? Perhaps not. I don’t really like the look of this page. Too much white space.\n",
-        "url": "/conference/2017/09/23/another-post.html"
-      },
-    
-      {
-        "title": "Presenting at ABCD Conference",
-        "excerpt": "John Smith and James Green presented their research at ABCD Conference this past weekend\n\n",
-        "content": "John Smith and James Green presented their research at ABCD Conference this past weekend\n\n\n\nWe have the presentation notes and paper here. Here is an image from this fantastic conference\n\n",
-        "url": "/conference/2018/01/02/ABCD-conference.html"
-      },
-    
   
   
   
@@ -95,7 +74,7 @@
   {
     "title": "Shaun Jackman",
     "excerpt": "\n",
-    "content": "About Me\nI live in Vancouver, Canada, where I’m a PhD candidate studying bioinformatics at the University of British Columbia with my supervisor, Inanc Birol. I analyze genome sequencing data from a variety of species, including spruce trees and human. I develop software that takes fragmented genome sequencing data and attempts to reassemble the original genome from which the short fragments were derived. My undergraduate degree is in computer engineering. I’m a programmer, an avid traveller, a singer, and an experimental cook.\n\nMy Work at Birol Lab\nFor more information, see my website.\n\n",
+    "content": "About Me\nI live in Vancouver, Canada, where I’m a PhD candidate studying bioinformatics at the University of British Columbia with my supervisor, Inanc Birol. I analyze genome sequencing data from a variety of species, including spruce trees and human. I develop software that takes fragmented genome sequencing data and attempts to reassemble the original genome from which the short fragments were derived. My undergraduate degree is in computer engineering. I’m a programmer, an avid traveller, a singer, and an experimental cook.\n\nMy Work at Birol Lab\nFor more information, see my website at http://sjackman.ca.\n",
     "url": "/member/sjackman.html"
   },
   
