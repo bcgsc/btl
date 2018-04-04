@@ -17,6 +17,4 @@ I live in Vancouver, Canada, where I'm a PhD candidate studying bioinformatics a
 
 
 ### My Work at Birol Lab
-For more information, see my website. 
-
-
+For more information, see my website at <http://sjackman.ca>.
