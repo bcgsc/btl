@@ -1,6 +1,6 @@
 ---
 layout: profile
-title: something
+title: Jessica Ma
 avatar: jma.jpeg
 position: Co-op student for Jan-Apr 2018
 github: gejessicama
