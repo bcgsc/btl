@@ -1,7 +1,7 @@
 ---
 layout: profile
 title: something
-avatar: jma.png
+avatar: jma.jpeg
 position: co-op
 ---
 

@@ -38,14 +38,11 @@ Hamza Khan, graduate student (UBC)
 Erdi Kucuk, graduate student (UBC)  
 Sarah Yeo, UBC honor's project student / intern / directed studies student (UBC)  
 Djallel Bouneffouf, postdoctoral fellow  
-Abdur Rahman Basher, UBC graduate student (UBC)  
-Victoria Stuart, computational biologist  
 Jessica Pilsworth, graduate student (UBC)  
 Bahar Behsaz, computational biologist  
 Yi-Ming Sun, coop student (UVic)  
 Nathan Nastilli, coop student (SFU)  
 Alex Purdy, coop student (UVic)  
-Golnaz Jahesh, graduate student (UBC)  
 Karthika Raghavan, postdoctoral fellow  
 Tony Raymond, computational biologist  
 Albert Lagman, coop student (UBC)  
