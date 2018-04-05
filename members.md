@@ -17,7 +17,7 @@ title: Members
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/jma.jpeg"> [Jessica Ma](member/jma), coop student (UBC)  
-<img class="avatar" src="assets/avatars/eerhan.png"> Emre Erhan, honours project student (SFU)  
+<img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)  
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/bvandervalk.jpeg"> Ben Vandervalk, computational biologist  
