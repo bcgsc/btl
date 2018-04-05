@@ -5,7 +5,7 @@ avatar: eerhan.jpg
 position: Undergraduate Honour's Directed Studies Student
 email: mailto:eerhan@bcgsc.ca
 github: emreerhan
-twitter: h\_eerhan
+twitter: h_eerhan
 ---
 
 ### About Me
