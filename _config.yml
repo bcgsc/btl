@@ -23,6 +23,7 @@ navigation_header:
   Projects: /projects
   Software: /software
   News: /news
+  Contact: /contact
   
 navigation_footer: 
     Theme: "https://github.com/daviddarnes/alembic"
