@@ -16,7 +16,7 @@ title: Members
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)  
-<img class="avatar" src="assets/avatars/jma.jpeg"> [Jessica Ma](member/jma), coop student (UBC)  
+<img class="avatar" src="assets/avatars/jma.jpeg"> Jessica Ma, coop student (UBC)  
 <img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)  
 
 ### High Performance Computing
