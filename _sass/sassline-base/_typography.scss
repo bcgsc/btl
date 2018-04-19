@@ -270,9 +270,11 @@ a {
   blockquote {
 
     p {
+      @include fontsize(theta, all);
       border-left: 0.15rem solid $linkColour;
       font-style: map-get($bodytype, italic);
-      padding-left: 1rem;
+      padding-left: 2rem;
+      line-height: 150%;
 
       // Add spacing below blockquote paragraphs to align to baseline grid.
       $get-scale: map-get($modular-scale, scale-0);
@@ -299,7 +301,7 @@ a {
     }
 
     @include breakpoint(break-1) {
-      margin-left: -1rem;
+      margin-left: 1rem;
     }
   }
 

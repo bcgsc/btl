@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/conference/2018/04/19/RECOMB-Seq.html</loc>
+<lastmod>2018-04-19T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/member/ahammond.html</loc>
 </url>
 <url>
@@ -16,7 +20,7 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/member/jma.html</loc>
+<loc>http://localhost:4000/assets/alumni/jma.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/members.html</loc>

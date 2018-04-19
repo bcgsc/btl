@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<!-- General meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="icon" href="/favicon.png" type="image/png">
+		<base target="_parent">
+
+		
+
+		
+			<!-- Begin Jekyll SEO tag v2.3.0 -->
+<title>ABySS 2.0, Tigmint, ARKS, and Bloom Filters at RECOMB-Seq | Bioinformatics Technology Lab</title>
+<meta property="og:title" content="ABySS 2.0, Tigmint, ARKS, and Bloom Filters at RECOMB-Seq">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="RECOMB 2018 will be taking place in Paris, France, from April 21-24th. RECOMB-Seq is one of its four satellite workshops this year, taking place from April 19-20th, bringing together researchers in computational genomics and bioinformatics to discuss new frontiers in gene sequencing.">
+<meta property="og:description" content="RECOMB 2018 will be taking place in Paris, France, from April 21-24th. RECOMB-Seq is one of its four satellite workshops this year, taking place from April 19-20th, bringing together researchers in computational genomics and bioinformatics to discuss new frontiers in gene sequencing.">
+<link rel="canonical" href="http://localhost:4000/conference/2018/04/19/RECOMB-Seq.html">
+<meta property="og:url" content="http://localhost:4000/conference/2018/04/19/RECOMB-Seq.html">
+<meta property="og:site_name" content="Bioinformatics Technology Lab">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2018-04-19T00:00:00-07:00">
+<script type="application/ld+json">
+{"name":null,"description":"RECOMB 2018 will be taking place in Paris, France, from April 21-24th. RECOMB-Seq is one of its four satellite workshops this year, taking place from April 19-20th, bringing together researchers in computational genomics and bioinformatics to discuss new frontiers in gene sequencing.","author":null,"@type":"BlogPosting","url":"http://localhost:4000/conference/2018/04/19/RECOMB-Seq.html","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/logo.png"}},"image":null,"headline":"ABySS 2.0, Tigmint, ARKS, and Bloom Filters at RECOMB-Seq","dateModified":"2018-04-19T00:00:00-07:00","datePublished":"2018-04-19T00:00:00-07:00","sameAs":null,"mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/conference/2018/04/19/RECOMB-Seq.html"},"@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+		
+
+    <link rel="stylesheet" href="/assets/styles.css">
+
+		
+	</head>
+	<body class="layout-post  abyss-2-0-tigmint-arks-and-bloom-filters-at-recomb-seq">
+
+		<header class="header">
+  <div class="topnav container">
+
+    <a class="logo" href="/">
+  <img src="/assets/logo.png" alt="Bioinformatics Technology Lab logo">
+</a>
+
+
+    
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/">Home</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/members">Members</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/publications">Publications</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/projects">Projects</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/software">Software</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/news">News</a>
+      </li>
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="/contact">Contact</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+<template id="buttontoggle">
+  <button class="button  button--nav" aria-label="Nav toggle">
+    <svg width="16" height="16" class="icon  icon--nav" role="img"><use xlink:href="#nav"></use></svg>
+
+  </button>
+</template>
+
+<script type="text/javascript">
+
+const nav = document.querySelector('.nav')
+const buttonTemplate = document.querySelector('#buttontoggle')
+const button = document.importNode(buttonTemplate.content, true)
+nav.appendChild(button)
+
+const applyToggle = (list, button, breakpoint) => {
+  const navList = document.querySelector(list)
+  if (document.body.clientWidth < breakpoint) {
+    const navHeight = navList.clientHeight
+    const navButton = document.querySelector(button)
+    navList.style.maxHeight = '0px'
+
+    navButton.onclick = () => {
+      if (navList.style.maxHeight == '0px') {
+        navList.style.maxHeight = `${navHeight}px`
+      } else {
+        navList.style.maxHeight = '0px'
+      }
+    }
+  }
+}
+
+applyToggle('.list--nav', '.button', 640)
+
+</script>
+
+  </div>
+
+  
+
+
+
+
+
+
+</header>
+
+
+<main class="main  container">
+
+	<article class="article  article--post  content  typeset">
+
+    <h1>ABySS 2.0, Tigmint, ARKS, and Bloom Filters at RECOMB-Seq</h1>
+		
+
+<small class="small  post-meta">
+  <em>
+    
+      <span class="label  label--category"><a href="/categories#conference">conference</a></span>
+    
+   · </em><time datetime="2018-04-19T00:00:00-07:00" class="time">19 Apr 2018</time>
+</small>
+
+    <h5 id="recomb-2018-will-be-taking-place-in-paris-france-from-april-21-24th">
+<a href="http://recomb2018.fr/">RECOMB 2018</a> will be taking place in Paris, France, from April 21-24th.</h5>
+<p><a href="http://recomb2018.fr/recomb-seq/">RECOMB-Seq</a> is one of its four satellite workshops this year, taking place from April 19-20th, bringing together researchers in computational genomics and bioinformatics to discuss new frontiers in gene sequencing.</p>
+
+<h5 id="btl-has-four-posters-at-recomb-seq-this-year">BTL has four posters at RECOMB-Seq this year:</h5>
+<p>RECOMB ID #1, SEQ-6, <strong>ARKS</strong>: chromosome-scale human genome scaffolding with linked read kmers<br>
+RECOMB ID #10, SEQ-8, <strong>Multi-Index Bloom Filters</strong>: A probabilistic data structure for sensitive multi-reference sequence   classification with multiple spaced seeds<br>
+RECOMB ID #21, SEQ-7, <strong>Tigmint</strong>: Correct Assembly Errors Using Linked Reads From Large Molecules<br>
+SEQ-10, <strong>ONTig</strong>: Contiguating Genome Assembly using Oxford Nanopore Long Reads</p>
+
+<h5 id="talks-abyss-20-and-tigmint">Talks: ABySS 2.0 and Tigmint</h5>
+<p>Shaun Jackman will be presenting a highlight talk on ABySS 2.0 <a href="http://sjackman.ca/abyss2-slides/">(slides)</a>, as well as a talk on Tigmint <a href="http://sjackman.ca/tigmint-recomb-slides/">(slides)</a>.<br>
+The ABySS 2.0 paper and abstract is available in <a href="https://genome.cshlp.org/content/27/5/768">Genome Research</a><br>
+The Tigmint paper will be available on bioRxiv shortly. Here is the abstract:</p>
+<blockquote>
+  <p>Genome sequencing yields the sequence of many short snippets of DNA (reads) from a genome. Genome assembly attempts to reconstruct the original genome from which these reads were derived. This task is difficult due to gaps and errors in the sequencing data, repetitive sequence in the underlying genome, and heterozygosity, and assembly errors are common. These misassemblies may be identified by comparing the sequencing data to the assembly, and by looking for discrepancies between the two. Once identified, these misassemblies may be corrected, improving the quality of the assembly. Although tools exist to identify and correct misassemblies using Illumina pair-end and mate-pair sequencing, no such tool yet exists that makes use of the long distance information of the large molecules provided by linked reads, such as those offered by the 10x Genomics Chromium platform. We have developed the tool Tigmint for this purpose. To demonstrate the effectiveness of Tigmint, we corrected assemblies of a human genome using short reads assembled with ABySS 2.0 and other assemblers. Tigmint reduced the number of misassemblies identified by QUAST in the ABySS assembly by 216 (27%). While scaffolding with ARCS alone more than doubled the scaffold NGA50 of the assembly from 3 to 8 Mbp, the combination of Tigmint and ARCS improved the scaffold NGA50 of the assembly over five-fold to 16.4 Mbp. This notable improvement in contiguity highlights the utility of assembly correction in refining assemblies. We demonstrate its usefulness in correcting the assemblies of multiple tools, as well as in using Chromium reads to correct and scaffold assemblies of long single-molecule sequencing.</p>
+</blockquote>
+
+
+
+		<div class="share">
+  
+</div>
+
+
+		
+
+
+  </article>
+
+	
+
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="copyright  typeset">
+      <small class="small">Copyright  2018 BC Cancer Genome Sciences Centre</small>
+    </div>
+
+    
+<nav class="nav  nav--footer">
+  <ul class="list list--nav">
+    
+
+      
+
+      <li class="item  item--nav">
+        <a href="https://github.com/daviddarnes/alembic">Theme</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  </div>
+</footer>
+
+
+
+	</body>
+</html>
