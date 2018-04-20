@@ -4,8 +4,7 @@ title: "ABySS 2.0, Tigmint, ARKS, and Bloom Filters at RECOMB-Seq"
 category: conference  
 ---  
 
-##### [RECOMB 2018](http://recomb2018.fr/) will be taking place in Paris, France, from April 21-24th. 
-[RECOMB-Seq](http://recomb2018.fr/recomb-seq/) is one of its four satellite workshops this year, taking place from April 19-20th, bringing together researchers in computational genomics and bioinformatics to discuss new frontiers in gene sequencing.
+[RECOMB 2018](http://recomb2018.fr/) will be taking place in Paris, France, from April 21-24th. [RECOMB-Seq](http://recomb2018.fr/recomb-seq/) is one of its four satellite workshops this year, taking place from April 19-20th, bringing together researchers in computational genomics and bioinformatics to discuss new frontiers in gene sequencing.
 
 ##### BTL has four posters at RECOMB-Seq this year:
 RECOMB ID #1, SEQ-6, **ARKS**: chromosome-scale human genome scaffolding with linked read kmers  
