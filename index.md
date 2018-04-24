@@ -13,12 +13,12 @@ feature_link: http://mkweb.bcgsc.ca/fun/hdtr/
 
 <main class="main  container">
 <article class="article  article--page  content  typeset">
-<div style="width:50%;height:100%;float:left;padding-right:20px;">
+<div style="width:50%;height:100%;float:left;padding-right:5%;padding-left:5%;">
 <h2>Welcome!</h2>
 <p>The Bioinformatics Technology Lab at the BC Cancer <a href="http://www.bcgsc.ca/">Michael Smith Genome Sciences Centre</a> is a computational biology research group. We develop novel algorithms, data structures and genome analysis software. The technologies we build find applications in cancer research, and are the foundation of our genome research program. We are situated in Vancouver, Canada.</p>
 </div>
 
-<div style="width:50%;height:100%;float:left;padding:0px;padding-left:20px;">
+<div style="width:50%;height:100%;float:left;padding-right:5%;padding-left:5%;">
 <h2><a href="news.html">News</a></h2>
 <iframe src="news-content.html"></iframe>
 </div>
