@@ -1,82 +1,26 @@
-import urllib, requests, re
 from bs4 import SoupStrainer, BeautifulSoup
 from datetime import datetime
+import sys
 
-headers = requests.utils.default_headers()
-headers.update({
-    'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
-})
+def divwrap(wrapid):
+    return soup.new_tag('div', **{"id":wrapid, "class":"tabcontent"})
 
-#helper functions
+def makebutton(tage):
+    soup=BeautifulSoup(tage,'lxml;
+    return BeautifulSoup(tage,'lxml').wrap(soup.new_tag('button', **{"class":"tablinks", "onClick":"openYear(event,'{0}'".format(tage)}))
 
-def get_class(date):
-    if not date or int(date[:4])<2015:
-        return "old"
-    else: return date[:4]
+year = int(sys.argv[1])
+pubs = open('../pubdraft', 'w+')
+soup = BeautifulSoup(open('publicationsource').read(), 'lxml')
 
-def convert_date(date):
-    if date is None: return ''
-    elif re.match('^\d{4}$',date):
-        return date
-    elif re.match('\d{4}\/\d{1,2}\/\d{1,2}',date):
-        newdate = datetime.strptime(date,'%Y/%m/%d').strftime('%Y %b %d')
-        return newdate
-    elif re.match('\d{4}\/\d{1,2}',date):
-        newdate = datetime.strptime(date,'%Y/%m').strftime('%Y %b')
-        return newdate
-    else: 		
-        return ''
+categories = ["All"] + list(map(str, [year-1, year-2, year-3])) + ["Older"]
 
-def clean_authors(authors):
-    a = authors.replace(', ...',', et. al')
-    return a
+pubs.write('<script src="js/tabs.js">\n</script><div class = "tab">\n<button class="tablinks" onclick="openAll()">All</button>')
+pubs.write('</div>\n<span style="font-size:13px"><em>For more details, see our page on <a href="https://scholar.google.ca/citations?user=Svk1wjsAAAAJ&hl=en">Google Scholar</a></em></span>')
+pubs.write('{% include current-year-pubs.html %}'.wrap(divwrap(str(year))))
 
-def clean_journal(journal):
-    if journal is None: return 'No Journal Information'
-    else:
-        j = journal.strip('None')
-        j = journal.strip('Detail:')
-        return j
-#end helpers
-
-if __name__ == "__main__":
-
-    my_file = open("public.md", "w+")
-    #my_file = open("../publications.md","w+")
-    #my_file.write('# Publications List\n\n')
-
-    #url = 'https://scholar.google.ca/citations?hl=en&user=Svk1wjsAAAAJ&view_op=list_works&sortby=pubdate'
-    #url = 'https://scholar.google.com.tr/citations?hl=en&user=q2fsO2IAAAAJ&view_op=list_works&sortby=pubdate' 
-    #soup = BeautifulSoup(urllib.urlopen(url).read(),"lxml")
-    soup = BeautifulSoup(open("inanc.html").read(),"lxml")
-    root = 'https://scholar.google.ca'
-
-    for td in soup.find_all('td', {"class":"gsc_a_t"}):
-	
-        #name of article	
-        a = td.find('a', {'class':'gsc_a_at'})
-        name = a.string
-	
-        #date of publication
-        entryURL = root + a.attrs['data-href']
-        soup2 = BeautifulSoup(urllib.urlopen(entryURL).read(),"lxml")
-        date = convert_date((soup2.find_all('div',{'class':'gsc_vcd_value'},limit=2)[1]).string)
-        year = get_class(date)
-        if soup2.find('div', {'class':'gsc_vcd_title_ggi'}) is not None:
-            link = soup2.find('div', {'class':'gsc_vcd_title_ggi'}).find('a').attrs['href']
-
-        #authors	
-        info = td.find_all('div',{'class':'gs_gray'},limit=2)
-        authors = clean_authors(info[0].string)
-        authors = authors.replace('I Birol', '<strong>I Birol</strong>')
-        	    
-        #journal name	
-        [x.extract() for x in info[1].find_all('span')]
-        journal = clean_journal(info[1].string)
-        
-        citation = '<p class=\"' + year + '\">' + authors + '. ' + name + '. ' + date + '. <a href=\"' + link + '\">' + journal + '</a></p>\n' 
-        my_file.write(citation.encode('utf-8'))
-
-    my_file.close()
-	
-
+for cat in categories:
+    pubs.write(soup.find_all('p',{"class":cat}).wrap(divwrap(cat)))
+    
+    
+    
