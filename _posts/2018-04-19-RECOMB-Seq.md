@@ -14,6 +14,6 @@ SEQ-10, **ONTig**: Contiguating Genome Assembly using Oxford Nanopore Long Reads
 
 ##### Talks: ABySS 2.0 and Tigmint
 Shaun Jackman will be presenting a highlight talk on ABySS 2.0 [(slides)](http://sjackman.ca/abyss2-slides/), as well as a talk on Tigmint [(slides)](http://sjackman.ca/tigmint-recomb-slides/).  
-The ABySS 2.0 paper and abstract is available in [Genome Research](https://genome.cshlp.org/content/27/5/768)  
+The ABySS 2.0 paper and abstract is available at [Genome Research](https://genome.cshlp.org/content/27/5/768)  
 The Tigmint paper is available on [bioRxiv](https://www.biorxiv.org/content/early/2018/04/20/304253)  
-
+The ARKS paper is available on [bioRxiv](https://www.biorxiv.org/content/early/2018/04/25/306902)
