@@ -1,0 +1,18 @@
+1) script that will re-get ALL publications (requires getting html file)
+2) script that takes pubsource, some year, and rearrages all the tabs etc. to match
+3) script that only updates the current year publications
+
+SOURCE FILE: 
+
+publicationsource:
+    - can be updated with scrape.py but requires getting the full HTML
+    - used for re-arranging tabs 
+    - needs to somehow be updated with current year stuff
+    
+change tabs (take in a year):
+    - changes tabs to starting with the given year
+    - uses publication source 
+    
+update current year:
+    - get everything from current year, delete everything in publicationsource with that class and replace it with whatever you get
+    - publications.html will still source from this

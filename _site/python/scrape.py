@@ -10,8 +10,8 @@ headers.update({
 #helper functions
 
 def get_class(date):
-    if not date or int(date[:4])<2015:
-        return "old"
+    if not date:
+        return "unkn"
     else: return date[:4]
 
 def convert_date(date):
@@ -41,12 +41,8 @@ def clean_journal(journal):
 
 if __name__ == "__main__":
 
-    my_file = open("public.md", "w+")
-    #my_file = open("../publications.md","w+")
-    #my_file.write('# Publications List\n\n')
-
+    my_file = open("publicationsource", "w+")
     #url = 'https://scholar.google.ca/citations?hl=en&user=Svk1wjsAAAAJ&view_op=list_works&sortby=pubdate'
-    #url = 'https://scholar.google.com.tr/citations?hl=en&user=q2fsO2IAAAAJ&view_op=list_works&sortby=pubdate' 
     #soup = BeautifulSoup(urllib.urlopen(url).read(),"lxml")
     soup = BeautifulSoup(open("inanc.html").read(),"lxml")
     root = 'https://scholar.google.ca'

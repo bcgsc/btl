@@ -1,7 +1,6 @@
 import urllib, requests, re
 from bs4 import SoupStrainer, BeautifulSoup
 from datetime import datetime
-import sys
 
 headers = requests.utils.default_headers()
 headers.update({
@@ -10,10 +9,10 @@ headers.update({
 
 #helper functions
 
-def is_current(date):
-    if not date or int(date[:4])<2018:
-        return False
-    else: return True
+def get_class(date):
+    if not date or int(date[:4])<2015:
+        return "old"
+    else: return date[:4]
 
 def convert_date(date):
     if date is None: return ''
@@ -42,9 +41,14 @@ def clean_journal(journal):
 
 if __name__ == "__main__":
 
-    my_file = open("../_includes/current-year-pubs.html", "w+")
-    url = 'https://scholar.google.ca/citations?hl=en&user=Svk1wjsAAAAJ&view_op=list_works&sortby=pubdate'
-    soup = BeautifulSoup(urllib.urlopen(url).read(),"lxml")
+    my_file = open("public.md", "w+")
+    #my_file = open("../publications.md","w+")
+    #my_file.write('# Publications List\n\n')
+
+    #url = 'https://scholar.google.ca/citations?hl=en&user=Svk1wjsAAAAJ&view_op=list_works&sortby=pubdate'
+    #url = 'https://scholar.google.com.tr/citations?hl=en&user=q2fsO2IAAAAJ&view_op=list_works&sortby=pubdate' 
+    #soup = BeautifulSoup(urllib.urlopen(url).read(),"lxml")
+    soup = BeautifulSoup(open("inanc.html").read(),"lxml")
     root = 'https://scholar.google.ca'
 
     for td in soup.find_all('td', {"class":"gsc_a_t"}):
@@ -57,9 +61,7 @@ if __name__ == "__main__":
         entryURL = root + a.attrs['data-href']
         soup2 = BeautifulSoup(urllib.urlopen(entryURL).read(),"lxml")
         date = convert_date((soup2.find_all('div',{'class':'gsc_vcd_value'},limit=2)[1]).string)
-        if is_current(date) is False: 
-            my_file.close()
-            sys.exit()
+        year = get_class(date)
         if soup2.find('div', {'class':'gsc_vcd_title_ggi'}) is not None:
             link = soup2.find('div', {'class':'gsc_vcd_title_ggi'}).find('a').attrs['href']
 
@@ -72,7 +74,7 @@ if __name__ == "__main__":
         [x.extract() for x in info[1].find_all('span')]
         journal = clean_journal(info[1].string)
         
-        citation = '<p>' + authors + '. ' + name + '. ' + date + '. <a href=\"' + link + '\">' + journal + '</a></p>\n' 
+        citation = '<p class=\"' + year + '\">' + authors + '. ' + name + '. ' + date + '. <a href=\"' + link + '\">' + journal + '</a></p>\n' 
         my_file.write(citation.encode('utf-8'))
 
     my_file.close()
