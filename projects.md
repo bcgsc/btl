@@ -24,7 +24,7 @@ Bacteria can rapidly evolve to develop resistance to antibiotics, presenting a g
 
 #### **Alternative polyadenylation**
 
-The length of a coding transcript’s tail end (3’ UTR) can affect its stability, transport and translation, with important regulatory consequences. Alternative cleavage of transcripts at the 3’ UTR end (alaternative polyadenylation) is a difficult to study phenomenon, often requiring specialized and relatively expensive experimental methods. As a solution to this problem, we are building bioinformatics tools using standard transcriptome sequencing (RNA-seq) datasets. We are using our tools to catalogue alternative polyadenylation in large cancer cohorts.
+The length of a coding transcript’s tail end (3’ UTR) can affect its stability, transport and translation, with important regulatory consequences. Alternative cleavage of transcripts at the 3’ UTR end (alternative polyadenylation) is a difficult to study phenomenon, often requiring specialized and relatively expensive experimental methods. As a solution to this problem, we are building bioinformatics tools using standard transcriptome sequencing (RNA-seq) datasets. We are using our tools to catalogue alternative polyadenylation in large cancer cohorts.
 
 
 #### **Clinical bioinformatics**
