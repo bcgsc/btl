@@ -16,11 +16,8 @@ title: Members
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)
-
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)
-
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)
-
 <img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)  
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant
 
@@ -34,7 +31,6 @@ title: Members
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> Kristina Gagalova, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/jtse.jpg"> Jeffrey Tse, coop student (UBC)
-
 <img class="avatar" src="assets/avatars/jzhang.jpg"> Jessica Zhang, coop student (UBC)
 
 ### Alumni
