@@ -15,9 +15,9 @@ title: Members
 <img class="avatar" src="assets/avatars/dmacmillan.jpg"> Daniel MacMillan, computational biologist  
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  
-<img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC) 
+<img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)
-<img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)  
+<img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)
 <img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)  
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant
 
