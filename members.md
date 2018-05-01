@@ -1,54 +1,54 @@
----
-layout: page
-title: Members
----
-
-<img class="avatar" src="assets/avatars/ibirol.jpeg"> **Inanc Birol, Principal Investigator**  
-<img class="avatar" src="assets/avatars/rwarren.png"> **[Rene Warren](member/rwarren), Group Leader**  
-<img class="avatar" src="assets/avatars/rchiu.jpg"> **Readman Chiu, Production Coordinator**  
-<img class="avatar" src="assets/avatars/saherne.jpg"> **Sinead Aherne, Project Manager**
-
-### Clinical Bioinformatics
-
-<img class="avatar" src="assets/avatars/ahammond.jpg"> [S. Austin Hammond](member/ahammond), computational biologist
-<img class="avatar" src="assets/avatars/zxue.jpg"> Zhuyi Xue, computational biologist  
-<img class="avatar" src="assets/avatars/dmacmillan.jpg"> Daniel MacMillan, computational biologist  
-<img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  
-<img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  
-<img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)
-<img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)
-<img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)
-<img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)
-<img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant
-
-### High Performance Computing
-<img class="avatar" src="assets/avatars/bvandervalk.jpeg"> Ben Vandervalk, computational biologist  
-<img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  
-<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, postdoctoral fellow  
-<img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  
-<img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), graduate student (UBC)  
-<img class="avatar" src="assets/avatars/kgagalova.jpg"> Kristina Gagalova, graduate student (UBC)  
-<img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)  
-<img class="avatar" src="assets/avatars/jtse.jpg"> Jeffrey Tse, coop student (UBC)
-<img class="avatar" src="assets/avatars/jzhang.jpg"> Jessica Zhang, coop student (UBC)
-
-### Alumni
-Jessica Ma, coop student (UBC)
-Ewan Gibb, staff scientist  
-Hamza Khan, graduate student (UBC)  
-Erdi Kucuk, graduate student (UBC)  
-Sarah Yeo, UBC honor's project student / intern / directed studies student (UBC)  
-Djallel Bouneffouf, postdoctoral fellow  
-Abdur Rahman Rahman, graduate student
-Victoria Stuart, computational biologist
-Jessica Pilsworth, graduate student (UBC)  
-Bahar Behsaz, computational biologist  
-Jorge Lazo, coop student (UBC)
-Yi-Ming Sun, coop student (UVic)  
-Nathan Nastilli, coop student (SFU)  
-Alex Purdy, coop student (UVic)  
-Karthika Raghavan, postdoctoral fellow  
-Tony Raymond, computational biologist  
-Albert Lagman, coop student (UBC)  
-Daniel Paulino, coop student (SFU)  
-Mimi Ko, coop student (UBC)  
+---<br>
+layout: page<br>
+title: Members<br>
+---<br>
+<br>
+<img class="avatar" src="assets/avatars/ibirol.jpeg"> **Inanc Birol, Principal Investigator**  <br>
+<img class="avatar" src="assets/avatars/rwarren.png"> **[Rene Warren](member/rwarren), Group Leader**  <br>
+<img class="avatar" src="assets/avatars/rchiu.jpg"> **Readman Chiu, Production Coordinator**  <br>
+<img class="avatar" src="assets/avatars/saherne.jpg"> **Sinead Aherne, Project Manager**<br>
+<br>
+### Clinical Bioinformatics<br>
+<br>
+<img class="avatar" src="assets/avatars/ahammond.jpg"> [S. Austin Hammond](member/ahammond), computational biologist<br>
+<img class="avatar" src="assets/avatars/zxue.jpg"> Zhuyi Xue, computational biologist  <br>
+<img class="avatar" src="assets/avatars/dmacmillan.jpg"> Daniel MacMillan, computational biologist  <br>
+<img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)<br>
+<img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant<br>
+<br>
+### High Performance Computing<br>
+<img class="avatar" src="assets/avatars/bvandervalk.jpeg"> Ben Vandervalk, computational biologist  <br>
+<img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
+<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, postdoctoral fellow  <br>
+<img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/kgagalova.jpg"> Kristina Gagalova, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/jtse.jpg"> Jeffrey Tse, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/jzhang.jpg"> Jessica Zhang, coop student (UBC)<br>
+<br>
+### Alumni<br>
+Jessica Ma, coop student (UBC)<br>
+Ewan Gibb, staff scientist  <br>
+Hamza Khan, graduate student (UBC)  <br>
+Erdi Kucuk, graduate student (UBC)  <br>
+Sarah Yeo, UBC honor's project student / intern / directed studies student (UBC)  <br>
+Djallel Bouneffouf, postdoctoral fellow  <br>
+Abdur Rahman Rahman, graduate student<br>
+Victoria Stuart, computational biologist<br>
+Jessica Pilsworth, graduate student (UBC)  <br>
+Bahar Behsaz, computational biologist  <br>
+Jorge Lazo, coop student (UBC)<br>
+Yi-Ming Sun, coop student (UVic)  <br>
+Nathan Nastilli, coop student (SFU)  <br>
+Alex Purdy, coop student (UVic)  <br>
+Karthika Raghavan, postdoctoral fellow  <br>
+Tony Raymond, computational biologist  <br>
+Albert Lagman, coop student (UBC)  <br>
+Daniel Paulino, coop student (SFU)  <br>
+Mimi Ko, coop student (UBC)  <br>
