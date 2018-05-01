@@ -10,7 +10,7 @@ title: Members
 
 ### Clinical Bioinformatics
 
-<img class="avatar" src="assets/avatars/ahammond.jpg"> [S. Austin Hammond](member/ahammond), computational biologist    
+<img class="avatar" src="assets/avatars/ahammond.jpg"> [S. Austin Hammond](member/ahammond), computational biologist
 <img class="avatar" src="assets/avatars/zxue.jpg"> Zhuyi Xue, computational biologist  
 <img class="avatar" src="assets/avatars/dmacmillan.jpg"> Daniel MacMillan, computational biologist  
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  
@@ -18,7 +18,7 @@ title: Members
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)
-<img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)  
+<img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant
 
 
