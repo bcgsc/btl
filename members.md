@@ -1,15 +1,15 @@
----<br>
-layout: page<br>
-title: Members<br>
----<br>
-<br>
+---
+layout: page
+title: Members
+---
+
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> **Inanc Birol, Principal Investigator**  <br>
 <img class="avatar" src="assets/avatars/rwarren.png"> **[Rene Warren](member/rwarren), Group Leader**  <br>
 <img class="avatar" src="assets/avatars/rchiu.jpg"> **Readman Chiu, Production Coordinator**  <br>
 <img class="avatar" src="assets/avatars/saherne.jpg"> **Sinead Aherne, Project Manager**<br>
-<br>
-### Clinical Bioinformatics<br>
-<br>
+
+### Clinical Bioinformatics
+
 <img class="avatar" src="assets/avatars/ahammond.jpg"> [S. Austin Hammond](member/ahammond), computational biologist<br>
 <img class="avatar" src="assets/avatars/zxue.jpg"> Zhuyi Xue, computational biologist  <br>
 <img class="avatar" src="assets/avatars/dmacmillan.jpg"> Daniel MacMillan, computational biologist  <br>
@@ -20,8 +20,9 @@ title: Members<br>
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant<br>
-<br>
-### High Performance Computing<br>
+
+### High Performance Computing
+
 <img class="avatar" src="assets/avatars/bvandervalk.jpeg"> Ben Vandervalk, computational biologist  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
 <img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, postdoctoral fellow  <br>
@@ -31,8 +32,9 @@ title: Members<br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/jtse.jpg"> Jeffrey Tse, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/jzhang.jpg"> Jessica Zhang, coop student (UBC)<br>
-<br>
-### Alumni<br>
+
+### Alumni
+
 Jessica Ma, coop student (UBC)<br>
 Ewan Gibb, staff scientist  <br>
 Hamza Khan, graduate student (UBC)  <br>
