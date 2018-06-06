@@ -12,7 +12,6 @@ title: Members
 
 <img class="avatar" src="assets/avatars/ahammond.jpg"> [S. Austin Hammond](member/ahammond), computational biologist<br>
 <img class="avatar" src="assets/avatars/zxue.jpg"> Zhuyi Xue, computational biologist  <br>
-<img class="avatar" src="assets/avatars/dmacmillan.jpg"> Daniel MacMillan, computational biologist  <br>
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
@@ -35,6 +34,7 @@ title: Members
 
 ### Alumni
 
+Daniel MacMillan, computational biologist<br>
 Jessica Ma, coop student (UBC)<br>
 Ewan Gibb, staff scientist  <br>
 Hamza Khan, graduate student (UBC)  <br>
