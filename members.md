@@ -16,18 +16,17 @@ title: Members
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/eerhan.jpg"> [Emre Erhan](member/eerhan), honours project student (SFU)<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant<br>
 
 ### High Performance Computing
 
+<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, postdoctoral fellow  <br>
 <img class="avatar" src="assets/avatars/bvandervalk.jpeg"> Ben Vandervalk, computational biologist  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
-<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, postdoctoral fellow  <br>
 <img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> Kristina Gagalova, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/jtse.jpg"> Jeffrey Tse, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/jzhang.jpg"> Jessica Zhang, coop student (UBC)<br>
@@ -35,6 +34,7 @@ title: Members
 ### Alumni
 
 Daniel MacMillan, computational biologist<br>
+Emre Erhan, honours project student<br>
 Jessica Ma, coop student (UBC)<br>
 Ewan Gibb, staff scientist  <br>
 Hamza Khan, graduate student (UBC)  <br>
