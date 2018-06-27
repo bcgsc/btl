@@ -1,7 +1,7 @@
 ---  
 layout: post
 title: "Research Programmer (C++) position available"  
-category: news
+category: jobs
 ---
 
 The Research Programmer:
