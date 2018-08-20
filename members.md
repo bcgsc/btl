@@ -20,7 +20,7 @@ title: Members
 
 ### High Performance Computing
 
-<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, postdoctoral fellow  <br>
+<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, research associate  <br>
 <img class="avatar" src="assets/avatars/bvandervalk.jpeg"> Ben Vandervalk, computational biologist  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
 <img class="avatar" src="assets/avatars/spchowdhury.jpg"> Sauparna Palchowdhury, research programmer  <br>
