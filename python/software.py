@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import glob, os
 
 os.chdir("../softwareblurbs")
@@ -20,17 +22,17 @@ end= '</p></td>'
 i = 0
 
 def downloads(lin, bio, dock):
-    if not lin and not bio and not dock: return '' 
+    if not lin and not bio and not dock: return ''
     else: return ds + ((d1 + lin) if lin else '') + ((d2 + bio) if bio else '') + ((d3 + dock) if dock else '') + de
 
 for myfile in sorted(glob.glob("*.txt")):
     f = open(myfile)
 
-    info = []	
+    info = []
     for x in range(0,8):
-	    info.append(f.readline().strip())
-	    if x == 8: 
-		    info.append(f.read().strip())
+        info.append(f.readline().strip())
+        if x == 8:
+            info.append(f.read().strip())
 
     logofile = info[0]
     name = info[1]
@@ -40,27 +42,21 @@ for myfile in sorted(glob.glob("*.txt")):
     docker = info[5]
     desc = info[6]
 
-    if i%2 is 0: 
+    if i % 2 is 0:
         software.write("<tr>")
 
     html = start + logofile + p1 + name + p2 + github + p3 + downloads(linuxbrew, bioconda, docker) + p4 + desc + end
     software.write(html)
-    
-    if i%2 is 1:
+
+    if i % 2 is 1:
         software.write("</tr>")
-    
+
     software.write("\n\n")
     i += 1
-    
-software.seek(-7,2) 
 
-if i%2 is 0:
-   software.write("</tr>") 
+software.seek(-7, 2)
+
+if i % 2 is 0:
+   software.write("</tr>")
 
 software.close()
-
-
-
-
-
-
