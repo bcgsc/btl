@@ -1,4 +1,3 @@
-Website for Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre
+Website for Inanc Birol's Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre
 
-See the full website at bcgsc.github.io/btl
-
+See the full website at http://www.birollab.ca
