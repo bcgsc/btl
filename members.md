@@ -41,6 +41,7 @@ Jeffrey Tse, coop student (UBC)<br>
 Daniel MacMillan, computational biologist<br>
 Emre Erhan, honours project student<br>
 Jessica Ma, coop student (UBC)<br>
+Johnathan Wong, coop student (UBC)<br>
 Ewan Gibb, staff scientist  <br>
 Hamza Khan, graduate student (UBC)  <br>
 Erdi Kucuk, graduate student (UBC)  <br>
