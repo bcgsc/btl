@@ -16,4 +16,4 @@ gschol:
 I am a traveller, explorer and a life curious person. I am particularly interested in interdisciplinary research topics and cross-knowledge collaborations. From 2018, I am also an ECOSCOPE trainee at the UBC and I like to be involved in commercial and enterpreneural activities.
 
 ### My work at Birol's Lab
-My research topic at the Bioinformatics Technology Lab is about comparative genomics in conifer's mega-genomes. I analyze the genotypic variance that underlies the phenotypic in relation to environment adaptaion and evolution. I am also very interested in the study of gene copies and paralogues.
+My research topic at the Bioinformatics Technology Lab is about comparative genomics in conifer's mega-genomes. I analyze the genotypic variance that underlies the phenotype in relation to environment adaptaion and evolution. I am also very interested in the study of gene copies and paralogues.
