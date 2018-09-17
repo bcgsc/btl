@@ -28,7 +28,7 @@ title: Members
 <img class="avatar" src="assets/avatars/spchowdhury.jpg"> Sauparna Palchowdhury, research programmer  <br>
 <img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), graduate student (UBC)  <br>
-<img class="avatar" src="assets/avatars/kgagalova.jpg"> Kristina Gagalova, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/jzhang.jpg"> Jessica Zhang, coop student (UBC)<br>
