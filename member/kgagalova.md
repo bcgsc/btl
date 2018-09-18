@@ -17,3 +17,5 @@ I am a traveller, explorer and a life curious person. I am particularly interest
 
 ### My work at Birol's Lab
 My research topic at the Bioinformatics Technology Lab is about comparative genomics in conifer's mega-genomes. I analyze the genotypic variance that underlies the phenotype in relation to environment adaptaion and evolution. I am also very interested in the study of gene copies and paralogues.
+
+For more information, see my website linked to this page!
