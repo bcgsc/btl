@@ -32,7 +32,7 @@ title: Members
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/jzhang.jpg"> Jessica Zhang, coop student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Amirhossein Afshinfard, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Eric Chen, UBC honor's project student / directed studies student (UBC)<br>
 
 ### Alumni
