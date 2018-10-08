@@ -20,6 +20,6 @@ During my Master's, I was working in the area of sequence analysis, and more spe
 Topics that I am exploring comprises subproblems of assembly and annotation, biological data visualization, and  capability of applying machine learnign approaches in these areas. For more information about my resume, I invite you to take a look at my linkedin page.
 
 ### Education
-Ph.D., Bioinformatics, University of British Columbia.
-M.Sc., Artificial Intelligence, Sharif University of Technology.
+Ph.D., Bioinformatics, University of British Columbia. \\
+M.Sc., Artificial Intelligence, Sharif University of Technology. \\
 BS., Computer Software Eng., Isfahan University of Technology.
