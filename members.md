@@ -6,6 +6,7 @@ title: Members
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> **Inanç Birol, Principal Investigator**  <br>
 <img class="avatar" src="assets/avatars/rwarren.png"> **[René Warren](member/rwarren), Group Leader**  <br>
 <img class="avatar" src="assets/avatars/rchiu.jpg"> **Readman Chiu, Production Coordinator**  <br>
+<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> **Hamid Mohamadi, Research Associate**  <br>
 <img class="avatar" src="assets/avatars/saherne.jpg"> **Sinead Aherne, Project Manager**<br>
 
 ### Clinical Bioinformatics
@@ -22,7 +23,6 @@ title: Members
 
 ### High Performance Computing
 
-<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, research associate  <br>
 <img class="avatar" src="assets/avatars/bvandervalk.jpeg"> Ben Vandervalk, computational biologist  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
 <img class="avatar" src="assets/avatars/spchowdhury.jpg"> Sauparna Palchowdhury, research programmer  <br>
