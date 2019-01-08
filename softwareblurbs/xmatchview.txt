@@ -1,7 +1,6 @@
 xmatchviewlogo.png
 xmatchview
 https://github.com/warrenlr/xmatchview
-
-
+conda install -c bioconda xmatchview
 
 Genome sequence alignment visualization
