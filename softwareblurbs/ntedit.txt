@@ -1,4 +1,4 @@
-ntedit-logo.png
+nteditlogo.png
 ntEdit
 https://github.com/bcgsc/ntEdit
 
