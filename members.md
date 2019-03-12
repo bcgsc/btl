@@ -49,7 +49,7 @@ Hamza Khan, graduate student (UBC)  <br>
 Erdi Kucuk, graduate student (UBC)  <br>
 Sarah Yeo, UBC honor's project student / intern / directed studies student (UBC)  <br>
 Djallel Bouneffouf, postdoctoral fellow  <br>
-Abdur Rahman Rahman, graduate student<br>
+Abdur Rahman M.A. Basher, graduate student<br>
 Victoria Stuart, computational biologist<br>
 Jessica Pilsworth, graduate student (UBC)  <br>
 Bahar Behsaz, computational biologist  <br>
