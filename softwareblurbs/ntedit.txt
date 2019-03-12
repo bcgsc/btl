@@ -1,0 +1,7 @@
+ntedit-logo.png
+ntEdit
+https://github.com/bcgsc/ntEdit
+
+
+
+Scalable genome sequence polisher
