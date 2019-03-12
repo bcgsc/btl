@@ -11,7 +11,6 @@ title: Members
 
 ### Clinical Bioinformatics
 
-<img class="avatar" src="assets/avatars/zxue.jpg"> Zhuyi Xue, computational biologist  <br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant<br>
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
@@ -24,7 +23,6 @@ title: Members
 ### High Performance Computing
 
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
-<img class="avatar" src="assets/avatars/spchowdhury.jpg"> Sauparna Palchowdhury, research programmer  <br>
 <img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
@@ -37,6 +35,8 @@ title: Members
 
 ### Alumni
 
+Zhuyi Xue, computational biologist<br>
+Sauparna Palchowdhury, research programmer<br>
 S. Austin Hammond, computational biologist<br>
 Ben Vandervalk, computational biologist<br>
 Jeffrey Tse, coop student (UBC)<br>
