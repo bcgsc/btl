@@ -1,7 +1,7 @@
 railslogo.png
 Cobbler/RAILS
 https://github.com/bcgsc/RAILS
-
+brew install brewsci/bio/rails
 
 
 Gap-filling (cobbler) and scaffolding (RAILS) by long DNA sequence alignment

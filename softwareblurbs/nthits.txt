@@ -1,7 +1,7 @@
 transparent.png
 ntHits
 https://github.com/bcgsc/ntHits
-
+brew install brewsci/bio/nthits
 
 
 identifying repeats in high-throughput DNA sequencing data
