@@ -11,14 +11,13 @@ title: Members
 
 ### Clinical Bioinformatics
 
-<img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, research assistant<br>
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Figali Taho, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Diana Lin, intern<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, coop student<br>
+<img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Diana Lin, graduate student (UBC)<br>
 
 ### High Performance Computing
 
@@ -29,12 +28,12 @@ title: Members
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/jzhang.jpg"> Jessica Zhang, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Eric Chen, UBC honor's project student / directed studies student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, student collaborator<br>
 
 ### Alumni
-
+Jessica Zhang, coop student (UBC)<br>
+Eric Chen, directed studies student (UBC)<br>
 Zhuyi Xue, computational biologist<br>
 Sauparna Palchowdhury, research programmer<br>
 S. Austin Hammond, computational biologist<br>
@@ -47,7 +46,7 @@ Johnathan Wong, coop student (UBC)<br>
 Ewan Gibb, staff scientist  <br>
 Hamza Khan, graduate student (UBC)  <br>
 Erdi Kucuk, graduate student (UBC)  <br>
-Sarah Yeo, UBC honor's project student / intern / directed studies student (UBC)  <br>
+Sarah Yeo, honor's project student / intern / directed studies student (UBC)  <br>
 Djallel Bouneffouf, postdoctoral fellow  <br>
 Abdur Rahman M.A. Basher, graduate student<br>
 Victoria Stuart, computational biologist<br>
