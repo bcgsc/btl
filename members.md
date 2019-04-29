@@ -30,6 +30,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, student collaborator<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Yaman Malkoc, coop student (UBC)<br>
 
 ### Alumni
 Jessica Zhang, coop student (UBC)<br>
