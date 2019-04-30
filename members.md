@@ -20,10 +20,9 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Diana Lin, graduate student (UBC)<br>
 
 ### High Performance Computing
-
+<img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), post-doctoral fellow <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
 <img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
-<img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)<br>
@@ -34,7 +33,7 @@ title: Members
 
 ### Alumni
 Jessica Zhang, coop student (UBC)<br>
-Eric Chen, directed studies student (UBC)<br>
+Eric Chen, honor's project student / directed studies student (UBC)<br>
 Zhuyi Xue, computational biologist<br>
 Sauparna Palchowdhury, research programmer<br>
 S. Austin Hammond, computational biologist<br>
