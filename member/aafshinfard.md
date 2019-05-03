@@ -13,11 +13,16 @@ gschol:
 ---
 
 ### About myself
-Enthusiastic about Biology and biological mechanisms. Smacking my lips, I am learning more of Machine Learning as a valuable tool for Biological data analysis. Previously, I was involved in algorithms design projects. 
+Having done a variety of projects in computer science and engineering, I am now enthusiastic about Biology and biological mechanisms. Smacking my lips, I am learning more of Machine Learning to equip myself, better than before, for Biological data analysis.
 
-### Current Focus
-During my Master's, I was working in the area of sequence analysis, and more specifically on the detection of Structural Variants, and alignment of whole genomes. Currently, I am exploring different topics and problems in order to find a specific problem close enough to the rest of the group, but in which we can utilize Machine Learning methods. <br/>
-Topics that I am exploring comprises subproblems of assembly and annotation, biological data visualization, and  capability of applying machine learnign approaches in these areas. For more information about my resume, I invite you to take a look at my linkedin page.
+### My focus
+During my Master's, I was working in the area of sequence analysis, and more specifically on the detection of structural variants, and alignment of whole genomes.
+
+Currently, I am exploring problems in which we can apply Machine Learning and Statistics methods besides Algorithms. I am working on a tool for genome assembly using Linked Reads with the aim of scaling up to extra large genomes (e.g. conifer genomes). Nature of the sequencing technology, and the data itself, make it so complex that we need to exploit methods of different areas to address the problem; and that's what makes me exited.
+
+I occasionally would like to participate in genome assembly, annotation, and data visualization projects, and any appealing projects related to Algorithms, ML, or Stats.
+
+For more information about my resume, I invite you to take a look at my linkedin page.
 
 ### Education
 Ph.D., Bioinformatics, University of British Columbia. [currently studying] <br/>
