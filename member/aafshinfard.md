@@ -18,7 +18,7 @@ Having done a variety of projects in computer science and engineering, I am now 
 ### My focus
 During my Master's, I was working in the area of sequence analysis, and more specifically on the detection of structural variants, and alignment of whole genomes.
 
-Currently, I am exploring problems in which we can apply Machine Learning and Statistics methods besides Algorithms. I am working on a tool for genome assembly using Linked Reads with the aim of scaling up to extra large genomes (e.g. conifer genomes). Nature of the sequencing technology, and the data itself, make it so complex that we need to exploit methods of different areas to address the problem; and that's what makes me exited. I occasionally would like to participate in genome assembly, annotation, and data visualization projects, and other appealing projects related to Algorithms, ML, or Stats. <br/>
+Currently, I am exploring problems in which we can apply Machine Learning and Statistical methods besides Algorithms. I am working on a tool for genome assembly using Linked Reads with the aim of scaling up to extra large genomes (e.g. conifer genomes). Nature of the sequencing technology, and the data itself, make it so complex that we need to exploit methods of different areas to address the problem; and that's what makes me exited. I occasionally would like to participate in genome assembly, annotation, and data visualization projects, and other appealing projects related to Algorithms, ML, or Stats. <br/>
 For more information about my resume, I invite you to take a look at my linkedin page.
 
 ### Education
