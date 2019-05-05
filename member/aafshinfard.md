@@ -4,7 +4,7 @@ avatar: aafshinfard.jpg
 title: Amirhossein Afshinfard
 position: PhD Student in Bioinformatics at UBC, (MSc in Computer Science / AI)
 github: afshinfard
-twitter: 
+twitter: aafshinfard
 website:
 linkedin: https://www.linkedin.com/in/amirhoseinafshinfard/
 email: mailto:aafshinfard@bcgsc.ca
@@ -13,7 +13,7 @@ gschol:
 ---
 
 ### About myself
-Having done a variety of projects in computer science and engineering, I am now enthusiastic about Biology and biological mechanisms. Smacking my lips, I am learning more of Machine Learning to equip myself, better than before, for Biological data analysis.
+Having done a wide variety of projects in computer science/engineering, I am now enthusiastic about their applications in Biology and Medicine. Smacking my lips, I am learning more of Machine Learning to better equip myself for biological data analysis.
 
 ### My focus
 During my Master's, I was working in the area of sequence analysis, and more specifically on the detection of structural variants, and alignment of whole genomes.
