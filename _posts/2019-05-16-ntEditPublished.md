@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Scalable bioinformatics technology to polish genomes just published"  
+title: "ntEdit manuscript published in the journal Bioinformatics"  
 category: news  
 ---  
 
