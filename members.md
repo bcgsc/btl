@@ -9,6 +9,7 @@ title: Members
 
 ### Clinical Bioinformatics
 <img class="avatar" src="assets/avatars/rchiu.jpg"> **Readman Chiu, production coordinator**  <br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
@@ -29,6 +30,7 @@ title: Members
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, student collaborator<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Yaman Malkoc, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Talha Goktas<br>
 
 ### Alumni
 Jessica Zhang, coop student (UBC)<br>
