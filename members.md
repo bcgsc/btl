@@ -30,13 +30,14 @@ title: Members
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, student collaborator<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Yaman Malkoc, coop student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Talha Goktas<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Talha Goktas, intern<br>
 
 ### Alumni
 Jessica Zhang, coop student (UBC)<br>
 Eric Chen, honor's project student / directed studies student (UBC)<br>
 Zhuyi Xue, computational biologist<br>
 Sauparna Palchowdhury, research programmer<br>
+Lieke Janssen, intern<br>
 S. Austin Hammond, computational biologist<br>
 Ben Vandervalk, computational biologist<br>
 Jeffrey Tse, coop student (UBC)<br>
