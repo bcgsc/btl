@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "spruce chloroplast genome manuscripts published"  
+title: "Spruce chloroplast genome manuscripts published"  
 category: news  
 ---  
 
