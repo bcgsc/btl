@@ -1,4 +1,4 @@
-transparent.png
+ntCardlogo.png
 ntCard
 https://github.com/bcgsc/ntCard
 brew install brewsci/bio/ntcard
