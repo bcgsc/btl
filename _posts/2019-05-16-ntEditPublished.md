@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Manuscript describing our fast genome polishing tool ntEdit just published"
+title: "Manuscript describing our fast genome polishing tool ntEdit published"
 category: news  
 ---  
 

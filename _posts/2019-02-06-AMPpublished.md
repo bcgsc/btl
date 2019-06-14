@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Study on bullfrog antimicrobial peptides just published"  
+title: "Study on bullfrog antimicrobial peptides discovery published"  
 category: news  
 ---  
 
