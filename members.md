@@ -31,6 +31,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, student collaborator<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Yaman Malkoc, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Talha Goktas, intern<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Jane Lee, volunteer<br>
 
 ### Alumni
 Jessica Zhang, coop student (UBC)<br>
