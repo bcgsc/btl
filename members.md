@@ -19,7 +19,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Diana Lin, graduate student (UBC)<br>
 
 ### High Performance Computing
-<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> **Hamid Mohamadi, research associate**  <br>
+<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, research associate  <br>
 <img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), post-doctoral fellow <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
 <img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
