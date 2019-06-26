@@ -3,12 +3,12 @@ layout: page
 title: Members
 ---
 
-<img class="avatar" src="assets/avatars/ibirol.jpeg"> **Inanç Birol, Principal Investigator**  <br>
-<img class="avatar" src="assets/avatars/rwarren.png"> **[René Warren](member/rwarren), Group Leader**  <br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> **Seetha Kumaran, Project Manager**<br>
+<img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, Principal Investigator  <br>
+<img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](member/rwarren), Group Leader  <br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Seetha Kumaran, Project Manager<br>
 
 ### Clinical Bioinformatics
-<img class="avatar" src="assets/avatars/rchiu.jpg"> **Readman Chiu, production coordinator**  <br>
+<img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
