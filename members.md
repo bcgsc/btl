@@ -9,31 +9,35 @@ title: Members
 
 ### Clinical Bioinformatics
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](memb
+er/kgagalova), graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Figali Taho, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Diana Lin, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, coop student (UBC)<br>
 
 ### High Performance Computing
-<img class="avatar" src="assets/avatars/hmohamadi.jpeg"> Hamid Mohamadi, research associate  <br>
-<img class="avatar" src="assets/avatars/sjackman.jpeg"> [Shaun Jackman](member/sjackman), post-doctoral fellow <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
 <img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
-<img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
-<img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, student collaborator<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Yaman Malkoc, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, intern<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Jane Lee, volunteer<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, work-learn student (UBC)<br>
 
 ### Alumni
+Hamid Mohamadi, graduate student (UBC) / Research associate<br>
+Yaman Malkoc, coop student (UBC)<br>
+Jane Lee, volunteer<br>
+Shaun Jackman, graduate student (UBC) / PDF <br>
 Jessica Zhang, coop student (UBC)<br>
 Eric Chen, honor's project student / directed studies student (UBC)<br>
 Zhuyi Xue, computational biologist<br>
