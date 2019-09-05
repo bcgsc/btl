@@ -4,4 +4,4 @@ https://github.com/bcgsc/RNA-Bloom
 
 
 
-Lightweight de novo assembler for bulk and single-cell RNA
+Lightweight reference-free assembler for bulk, single-cell & nanopore RNA-seq data
