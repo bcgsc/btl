@@ -4,4 +4,4 @@ https://github.com/bcgsc/ntHits
 brew install brewsci/bio/nthits
 
 
-identifying repeat kmers in high-throughput DNA sequencing data
+Repeat kmer identification in high-throughput DNA sequencing data
