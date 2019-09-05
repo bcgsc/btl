@@ -33,3 +33,5 @@ brew install arcs
 Arcs does something something
 
 The script that will take information from the software blurbs file and add it to software-content.html is in the python folder called software.py
+
+Place the logo PNG file here: btl/assets/logos/

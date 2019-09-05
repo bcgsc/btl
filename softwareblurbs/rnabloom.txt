@@ -1,0 +1,7 @@
+rnabloomlogo.png
+RNA-Bloom
+https://github.com/bcgsc/RNA-Bloom
+
+
+
+Lightweight de novo assembler for bulk and single-cell RNA
