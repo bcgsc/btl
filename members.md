@@ -5,6 +5,7 @@ title: Members
 
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, Principal Investigator  <br>
 <img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](member/rwarren), Group Leader  <br>
+<img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, Assistant Bioinformatics Coordinator  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Seetha Kumaran, Project Manager<br>
 
 ### Clinical Bioinformatics
@@ -23,7 +24,6 @@ er/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, coop student (UBC)<br>
 
 ### High Performance Computing
-<img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, computational biologist  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
 <img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)<br>
