@@ -30,24 +30,24 @@ er/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, student collaborator<br>
-<img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, intern<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, work-learn student (UBC)<br>
 
 ### Alumni
+Talha Murathan Goktas, intern (Bilkent, Turkey)<br>
 Hamid Mohamadi, graduate student (UBC) / Research associate<br>
 Yaman Malkoc, coop student (UBC)<br>
-Jane Lee, volunteer<br>
+Jane Lee, volunteer (UBC)<br>
 Shaun Jackman, graduate student (UBC) / PDF <br>
 Jessica Zhang, coop student (UBC)<br>
 Eric Chen, honor's project student / directed studies student (UBC)<br>
 Zhuyi Xue, computational biologist<br>
 Sauparna Palchowdhury, research programmer<br>
-Lieke Janssen, intern<br>
+Lieke Janssen, intern (HAN University of Applied Sciences, The Netherlands)<br>
 S. Austin Hammond, computational biologist<br>
 Ben Vandervalk, computational biologist<br>
 Jeffrey Tse, coop student (UBC)<br>
 Daniel MacMillan, computational biologist<br>
-Emre Erhan, honours project student<br>
+Emre Erhan, honours project student (UBC)<br>
 Jessica Ma, coop student (UBC)<br>
 Johnathan Wong, coop student (UBC)<br>
 Ewan Gibb, staff scientist  <br>
