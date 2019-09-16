@@ -33,7 +33,7 @@ er/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, work-learn student (UBC)<br>
 
 ### Alumni
-Talha Murathan Goktas, intern (Bilkent, Turkey)<br>
+Talha Murathan Goktas, intern (Bilkent University, Turkey)<br>
 Hamid Mohamadi, graduate student (UBC) / Research associate<br>
 Yaman Malkoc, coop student (UBC)<br>
 Jane Lee, volunteer (UBC)<br>
