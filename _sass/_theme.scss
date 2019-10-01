@@ -546,7 +546,7 @@ button,
   @include breakpoint(break-1) {
     display: none;
   }
-  background: none;
+  background: #fff; // RLW
   color: $linkColour;
   margin-bottom: 0;
   min-height: 4rem;
@@ -557,6 +557,19 @@ button,
     color: $hoverColour;
   }
 }
+
+// RLW
+
+/* Style the hamburger menu */
+.button--nav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+// RLW
 
 a,
 input,
