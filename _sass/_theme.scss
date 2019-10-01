@@ -540,8 +540,8 @@ button,
     display: none;
   }
   // background-image: $buttonLogo; // RLW
-  background-image: "/assets/plus.png";
-  background: none; // RLW was none
+  // background-image: "/assets/plus.png";
+  background: pink; // RLW was none
   color: $linkColour;
   margin-bottom: 0;
   min-height: 4rem;
