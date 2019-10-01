@@ -207,6 +207,29 @@ span.software-title{
   background-color: #fff;
 }
 
+// RLW
+
+/* Style the hamburger menu */
+.nav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.nav-toggle{
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+}
+
+.nav-toggle .icon-bar {
+    background-color: #fff;
+}
+
+// RLW
+
 .topnav{
   position: fixed;
   width: 100%;
