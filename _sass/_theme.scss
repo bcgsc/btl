@@ -539,8 +539,9 @@ button,
   @include breakpoint(break-1) {
     display: none;
   }
-  background-image: $buttonLogo; // RLW
-  background: red; // RLW was none
+  // background-image: $buttonLogo; // RLW
+  background-image: "/assets/plus.png";
+  background: none; // RLW was none
   color: $linkColour;
   margin-bottom: 0;
   min-height: 4rem;
