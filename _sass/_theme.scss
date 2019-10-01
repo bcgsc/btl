@@ -183,13 +183,11 @@ span.software-title{
 
   .nav {
     text-align: right;
-    background-color: #fff;
   }
 
-  .nav-toggle .icon-bar {
+  .nav .icon-bar {
     background-color: #fff;
   }
-
 
   .logo {
     @include flex(0 0 auto);
