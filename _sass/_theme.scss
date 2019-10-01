@@ -184,6 +184,13 @@ span.software-title{
   .nav {
     text-align: right;
   }
+
+  // RLW2019 start insert
+  .navbar-toggle .icon-bar {
+    background-color: #fff;
+  }
+  // RLW2019 end insert
+
   .logo {
     @include flex(0 0 auto);
   }
