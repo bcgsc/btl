@@ -184,7 +184,6 @@ span.software-title{
   .nav {
     text-align: right;
   }
-
   .logo {
     @include flex(0 0 auto);
   }
@@ -204,31 +203,7 @@ span.software-title{
   display: flex;
   flex-direction: column-reverse;
   align-items: flex-end;
-  background-color: #fff;
 }
-
-// RLW
-
-/* Style the hamburger menu */
-.nav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.nav-toggle{
-    background-color: transparent;
-    background-image: none;
-    border: 1px solid transparent;
-}
-
-.nav-toggle .icon-bar {
-    background-color: #fff;
-}
-
-// RLW
 
 .topnav{
   position: fixed;
@@ -237,6 +212,15 @@ span.software-title{
   background-color: $backgroundColour;
 }
 
+// RLW
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+// RLW
 
 .feature {
   padding-bottom: .4rem;
@@ -546,7 +530,7 @@ button,
   @include breakpoint(break-1) {
     display: none;
   }
-  background: #fff; // RLW
+  background: none;
   color: $linkColour;
   margin-bottom: 0;
   min-height: 4rem;
@@ -557,19 +541,6 @@ button,
     color: $hoverColour;
   }
 }
-
-// RLW
-
-/* Style the hamburger menu */
-.button--nav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-// RLW
 
 a,
 input,
@@ -729,30 +700,5 @@ iframe{
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
     background-color: #F5F5F5;
 }
-
-// begin add code RLW
-
-
-/* Style the hamburger menu */
-.nav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.nav-toggle{
-    background-color: transparent;
-    background-image: none;
-    border: 1px solid transparent;
-}
-
-.nav-toggle .icon-bar {
-    background-color: #fff;
-}
-
-
-// end add code RLW
 
 
