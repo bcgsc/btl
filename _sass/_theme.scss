@@ -215,10 +215,13 @@ span.software-title{
   // background-color: $backgroundColour;
 }
 
-.nav .icon-bar {
+.topnav .icon-bar {
     background-color: #fff;
 }
 
+.topnav-toggle .icon-bar {
+    background-color: #fff;
+}
 
 .feature {
   padding-bottom: .4rem;
