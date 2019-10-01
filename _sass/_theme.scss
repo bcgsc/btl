@@ -211,11 +211,12 @@ span.software-title{
   position: fixed;
   width: 100%;
   top: 0;
-  background-color: #333
-  // background-color: $backgroundColour;
+  background-color: $backgroundColour;
 }
 
-.navbar-toggle{
+// begin add code RLW
+
+.topnav-toggle{
     background-color: transparent;
     background-image: none;
     border: 1px solid transparent;
@@ -224,6 +225,17 @@ span.software-title{
 .topnav-toggle .icon-bar {
     background-color: #fff;
 }
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+// end add code RLW
 
 .feature {
   padding-bottom: .4rem;
