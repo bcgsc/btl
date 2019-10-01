@@ -698,7 +698,7 @@ iframe{
 
 
 /* Style the hamburger menu */
-.topnav a.icon {
+.nav a.icon {
   background: black;
   display: block;
   position: absolute;
@@ -706,13 +706,13 @@ iframe{
   top: 0;
 }
 
-.topnav-toggle{
+.nav-toggle{
     background-color: transparent;
     background-image: none;
     border: 1px solid transparent;
 }
 
-.topnav-toggle .icon-bar {
+.nav-toggle .icon-bar {
     background-color: #fff;
 }
 
