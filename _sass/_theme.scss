@@ -539,7 +539,8 @@ button,
   @include breakpoint(break-1) {
     display: none;
   }
-  background: #333; // RLW was none
+  background-image: $buttonLogo ; // RLW
+  background: #fff; // RLW was none
   color: $linkColour;
   margin-bottom: 0;
   min-height: 4rem;
