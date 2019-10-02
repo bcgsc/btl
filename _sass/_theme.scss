@@ -212,25 +212,6 @@ span.software-title{
   background-color: $backgroundColour;
 }
 
-// RLW
-.topnav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-
-.nav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
-// RLW
-
-
 .feature {
   padding-bottom: .4rem;
   margin-bottom: 1.6rem;
@@ -553,6 +534,12 @@ button,
 }
 
 //RLW
+
+.container {
+  display: inline-block;
+  cursor: pointer;
+}
+
 .bar1, .bar2, .bar3 {
   width: 35px;
   height: 5px;
@@ -560,6 +547,25 @@ button,
   margin: 6px 0;
   transition: 0.4s;
 }
+
+/* Rotate first bar */
+.change .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+  transform: rotate(-45deg) translate(-9px, 6px) ;
+}
+
+/* Fade out the second bar */
+.change .bar2 {
+  opacity: 0;
+}
+
+/* Rotate last bar */
+.change .bar3 {
+  -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+  transform: rotate(45deg) translate(-8px, -8px) ;
+}
+
+//RLW -- end insert
 
 
 a,

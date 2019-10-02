@@ -22,13 +22,19 @@
 <template id="buttontoggle">
   <button class="button  button--nav" aria-label="Nav toggle">
     {% include icon.html id="nav" %}
-    <div class="bar1"></div>
-    <div class="bar2"></div>
-    <div class="bar3"></div>
+    <div class="container" onclick="myFunction(this)">
+       <div class="bar1"></div>
+       <div class="bar2"></div>
+       <div class="bar3"></div>
+    </div>
   </button>
 </template>
 
 <script type="text/javascript">
+
+function myFunction(x) {
+  x.classList.toggle("change");
+}
 
 const nav = document.querySelector('.nav')
 const buttonTemplate = document.querySelector('#buttontoggle')
