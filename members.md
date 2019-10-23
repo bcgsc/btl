@@ -3,9 +3,9 @@ layout: page
 title: Members
 ---
 
-<img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, Principal Investigator  <br>
-<img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](member/rwarren), Group Leader  <br>
-<img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, Assistant Bioinformatics Coordinator  <br>
+<img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, principal investigator  <br>
+<img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](member/rwarren), group leader  <br>
+<img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, Project Manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Tiana Carstairs, Project Manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Maria Ho, Administrative Assistant<br>
