@@ -6,9 +6,9 @@ title: Members
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, principal investigator  <br>
 <img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](member/rwarren), group leader  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, Project Manager<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Tiana Carstairs, Project Manager<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Maria Ho, Administrative Assistant<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, project manager<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Tiana Carstairs, project manager<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Windy Soemargo, administrative coordinator<br>
 
 ### Clinical Bioinformatics
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
