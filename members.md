@@ -24,6 +24,7 @@ er/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Alex Marr, GSAT rotation student (UBC)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
