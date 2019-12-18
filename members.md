@@ -4,7 +4,7 @@ title: Members
 ---
 
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, principal investigator  <br>
-<img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](member/rwarren), group leader  <br>
+<img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](https://warrenlr.github.io/), group leader  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Tiana Carstairs, project manager<br>
@@ -14,8 +14,7 @@ title: Members
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
-<img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](memb
-er/kgagalova), graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/gsheikhshab.jpg"> Golnar Sheikhshab, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
