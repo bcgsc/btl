@@ -23,7 +23,8 @@ title: Members
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, coop student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Alex Marr, GSAT rotation student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Maria Stephenson, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, coop student (UBC)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
@@ -32,9 +33,10 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Gokce Dilek, student collaborator<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, work-learn student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, work-learn / directed studies student (UBC)<br>
 
 ### Alumni
+Alex Marr, GSAT rotation student (UBC)
 Talha Murathan Goktas, intern (Bilkent University, Turkey)<br>
 Hamid Mohamadi, graduate student (UBC) / Research associate<br>
 Yaman Malkoc, coop student (UBC)<br>
