@@ -28,7 +28,7 @@ title: Members
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
-<img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/jchu.jpeg"> Justin Chu, post-doctoral fellow <br>
 <img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
