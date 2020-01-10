@@ -37,8 +37,8 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, work-learn / directed studies student (UBC)<br>
 
 ### Alumni
-Alex Marr, GSAT rotation student (UBC)
-Golnar Sheikhshab, graduate student (SFU)
+Alex Marr, GSAT rotation student (UBC) <br>
+Golnar Sheikhshab, graduate student (SFU) <br>
 Talha Murathan Goktas, intern (Bilkent University, Turkey)<br>
 Hamid Mohamadi, graduate student (UBC) / Research associate<br>
 Gokce Dilek, coop student (UBC)<br>
