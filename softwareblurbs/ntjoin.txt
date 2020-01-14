@@ -1,0 +1,7 @@
+ntJoinlogo.png
+ntJoin
+https://github.com/bcgsc/ntJoin
+
+
+
+Assembly-guided scaffolding using minimizer graphs
