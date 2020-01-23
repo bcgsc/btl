@@ -2,6 +2,6 @@ transparent.png
 ntHits
 https://github.com/bcgsc/ntHits
 brew install brewsci/bio/nthits
-
+conda install -c bioconda nthits
 
 Repeat kmer identification in high-throughput DNA sequencing data
