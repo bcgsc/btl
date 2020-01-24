@@ -1,7 +1,7 @@
 ntJoinlogo.png
 ntJoin
 https://github.com/bcgsc/ntJoin
-
+brew install brewsci/bio/ntjoin
 
 
 Assembly-guided scaffolding using minimizer graphs
