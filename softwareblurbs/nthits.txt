@@ -3,5 +3,5 @@ ntHits
 https://github.com/bcgsc/ntHits
 brew install brewsci/bio/nthits
 conda install -c bioconda nthits
-
+docker run quay.io/biocontainers/nthits
 Repeat kmer identification in high-throughput DNA sequencing data
