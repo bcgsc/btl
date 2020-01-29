@@ -3,5 +3,5 @@ ntJoin
 https://github.com/bcgsc/ntJoin
 brew install brewsci/bio/ntjoin
 conda install -c bioconda ntjoin
-
+docker pull quay.io/biocontainers/ntjoin
 Assembly-guided scaffolding using minimizer graphs
