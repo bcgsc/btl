@@ -2,6 +2,6 @@ arcslogo.png
 ARCS
 https://github.com/bcgsc/arcs
 brew install brewsci/bio/arcs
-conda install -c bioconda
+conda install -c bioconda arcs
 
 Genome scaffolder by linked read alignment

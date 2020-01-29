@@ -2,6 +2,6 @@ nteditlogo.png
 ntEdit
 https://github.com/bcgsc/ntEdit
 brew install brewsci/bio/ntedit
-
+conda install -c bioconda ntedit
 
 Scalable genome sequence polisher
