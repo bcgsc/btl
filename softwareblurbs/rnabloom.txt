@@ -2,6 +2,6 @@ rnabloomlogo.png
 RNA-Bloom
 https://github.com/bcgsc/RNA-Bloom
 
-
+conda install -c bioconda rnabloom
 
 Lightweight reference-free assembler for bulk, single-cell & nanopore RNA-seq data
