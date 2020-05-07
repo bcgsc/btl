@@ -4,4 +4,4 @@ https://github.com/bcgsc/ntEdit
 brew install brewsci/bio/ntedit
 conda install -c bioconda ntedit
 docker run quay.io/biocontainers/ntedit
-Scalable genome sequence polisher
+Fast and scalable genome sequence polisher
