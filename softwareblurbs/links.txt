@@ -4,4 +4,4 @@ https://github.com/bcgsc/LINKS
 brew install brewsci/bio/links-scaffolder
 conda install -c bioconda links
 docker run quay.io/biocontainers/links
-Alignment-free genome scaffolder with long error-rich DNA sequences
+Alignment-free genome scaffolder with long reads
