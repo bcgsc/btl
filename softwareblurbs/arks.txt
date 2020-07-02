@@ -1,7 +1,0 @@
-arkslogo.png
-ARKS
-https://github.com/bcgsc/arks
-brew install brewsci/bio/arks
-
-
-Genome scaffolder by linked read kmer mapping
