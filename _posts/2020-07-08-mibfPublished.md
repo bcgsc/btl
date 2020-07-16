@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Our manuscript on multiindex Bloom Filter (miBF) data structure was just published in PNAS"
+title: "Our manuscript on multiindex Bloom Filter (miBF) data structures published in PNAS"
 category: news  
 ---  
 
