@@ -13,12 +13,12 @@ gschol:
 ---
 
 ### About myself
-Having done a wide variety of projects in computer science/engineering, I am now enthusiastic about their applications in Biology and Medicine. Smacking my lips, I am learning more of Machine Learning to better equip myself for biological data analysis.
+Having done a wide variety of projects in computer science/engineering, I am now enthusiastic about their applications in biology and medicine. Smacking my lips, I am learning more of Machine Learning to better equip myself for biological data analysis.
 
 ### My focus
 During my Master's, I was working in the area of sequence analysis, and more specifically on the detection of structural variants, and alignment of whole genomes.
 
-Currently, I am exploring problems in which we can apply Machine Learning and Statistical methods besides Algorithms. I am working on a tool for de novo genome assembly using linked eeads with the aim of scaling up to extra large genomes (e.g. conifer genomes). Nature of the sequencing technology, and the data itself, make it so complex that we need to exploit methods of different areas to address the problem; and that's what makes me exited. I occasionally would like to participate in genome assembly, annotation, and data visualization projects, and other projects related to Algorithms, ML, or Stats. <br/>
+Currently, I am exploring problems in which we can apply machine learning and statistical methods besides Algorithms. I am working on a tool for de novo genome assembly using linked reads with the aim of scaling up to extra large genomes (e.g. conifer genomes). Nature of the sequencing technology, and the data itself, make it so complex that we need to exploit methods of different areas to address the problem; and that's what makes me exited. I occasionally would like to participate in genome assembly, annotation, and data visualization projects, and other projects related to algorithms, ML, or stats. <br/>
 For more information about my resume, I invite you to take a look at my linkedin page.
 
 ### Education
