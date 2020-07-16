@@ -8,7 +8,7 @@ title: Members
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Tiana Carstairs, project manager<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Windy Soemargo, administrative coordinator<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Anita Pant, administrative coordinator<br>
 
 ### Antimicrobial Peptide Research
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate <br>
