@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Our report on the HLA profiles of COVID-19 patients at the early stage of the 2020 pandemic was just published in Bioinformatics"
+title: "Our report on the HLA profiles of COVID-19 patients at the early stage of the 2020 pandemic, now published in Bioinformatics"
 category: news  
 ---  
 
