@@ -14,7 +14,6 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate <br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/ftaho.jpg"> [Figali Taho](https://figalit.github.io/), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, coop student (UBC)<br>
 
@@ -26,7 +25,7 @@ title: Members
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Maria Stephenson, coop student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Iris Caglayan, summer intern<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Sambina Aninta, coop student (UBC)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
@@ -37,8 +36,11 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Jacky Yiu, coop student (SFU)<br>
 
 ### Alumni
+Figali Taho, graduate student (UBC) <br>
+Iris Caglayan, summer intern <br>
 Alex Marr, GSAT rotation student (UBC) <br>
 Golnar Sheikhshab, graduate student (SFU) <br>
 Talha Murathan Goktas, intern (Bilkent University, Turkey)<br>
