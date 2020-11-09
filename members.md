@@ -7,7 +7,7 @@ title: Members
 <img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](https://warrenlr.github.io/), group leader  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, project manager<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Tiana Carstairs, project manager<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anita Pant, administrative coordinator<br>
 
 ### Antimicrobial Peptide Research
@@ -15,7 +15,8 @@ title: Members
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Sambina Aninta, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, coop/directed-study student (UBC)<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
@@ -25,7 +26,6 @@ title: Members
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Maria Stephenson, coop student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Sambina Aninta, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC GSAT - rotation)<br>
 
 ### High Performance Computing
