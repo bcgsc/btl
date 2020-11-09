@@ -26,6 +26,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Maria Stephenson, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Sambina Aninta, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC GSAT - rotation)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
@@ -36,6 +37,8 @@ title: Members
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jacky Yiu, coop student (SFU)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Yaman Malkoc, coop student (UBC)<br>
+
 
 ### Alumni
 Justin Chu, graduate student (UBC) / PDF <br>
