@@ -17,7 +17,7 @@ My name is Sambina, and I'm a third year student at the University of British Co
     Java
     C/C++ 
 
-## Wet lab skills
+### Wet lab skills
     PCR
     Pipetting
     Gel Electrophoresis
