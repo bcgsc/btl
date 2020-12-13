@@ -15,7 +15,7 @@ title: Members
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Sambina Aninta, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> [Sambina Islam Aninta](member/saninta.md), coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, coop/directed-study student (UBC)<br>
 
 ### Computational Biology
