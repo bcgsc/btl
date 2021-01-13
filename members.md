@@ -25,8 +25,8 @@ title: Members
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Maria Stephenson, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC GSAT - rotation)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Sina Jafarzadeh, (UBC directed study student)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
@@ -39,8 +39,8 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jacky Yiu, coop student (SFU)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Yaman Malkoc, coop student (UBC)<br>
 
-
 ### Alumni
+Maria Stephenson, coop student (UBC) <br>
 Justin Chu, graduate student (UBC) / PDF <br>
 Figali Taho, graduate student (UBC) <br>
 Iris Caglayan, summer intern <br>
