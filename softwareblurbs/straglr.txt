@@ -1,4 +1,4 @@
-
+transparent.png
 Straglr
 https://github.com/bcgsc/straglr
 
