@@ -8,15 +8,13 @@ title: Members
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Anita Pant, administrative coordinator<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Lori Kwok, administrative coordinator<br>
 
-### Antimicrobial Peptide Research
+### Antimicrobial Research
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate <br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/image.jpg"> [Sambina Islam Aninta](member/saninta.md), coop student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, coop/directed-study student (UBC)<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
@@ -25,21 +23,23 @@ title: Members
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Sina Jafarzadeh, (UBC directed study student)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
-<img class="avatar" src="assets/avatars/yflim.jpg"> Yee Fay Lim, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, research programmer <br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Janet Li, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Jacky Yiu, coop student (SFU)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Yaman Malkoc, coop student (UBC)<br>
-
 
 ### Alumni
+Sina Jafarzadeh, (UBC directed study student)<br>
+Sambina Islam Aninta, coop student (UBC)<br>
+Jacky Yiu, coop student (SFU)<br>
+Yaman Malkoc, coop student (UBC)<br>
+Yee Fay Lim, graduate student (UBC)<br>
 Kyle Jenkins, graduate student (UBC GSAT - rotation)<br>
 Maria Stephenson, coop student (UBC) <br>
 Justin Chu, graduate student (UBC) / PDF <br>
