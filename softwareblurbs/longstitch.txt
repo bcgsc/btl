@@ -1,0 +1,7 @@
+transparent.png
+LongStitch
+https://github.com/bcgsc/longstitch
+
+
+
+Genome assembly correction and scaffolding using long reads
