@@ -1,0 +1,7 @@
+ntlinklogo.png
+ntLink
+https://github.com/bcgsc/ntLink
+
+
+
+Genome assembly scaffolding using long reads and minimizers
