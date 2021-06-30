@@ -3,5 +3,5 @@ RNA-Bloom
 https://github.com/bcgsc/RNA-Bloom
 
 conda install -c bioconda rnabloom
-
+docker run quay.io/biocontainers/rnabloom
 Lightweight reference-free assembler for bulk, single-cell & nanopore RNA-seq data
