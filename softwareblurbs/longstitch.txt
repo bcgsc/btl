@@ -1,4 +1,4 @@
-transparent.png
+longstitchlogo.png
 LongStitch
 https://github.com/bcgsc/longstitch
 
