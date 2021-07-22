@@ -2,7 +2,7 @@
 title: Janet Li
 avatar: jli.jpeg
 position: M.Sc. Bioinformatics Student at UBC
-email: mailto: jli@bcgsc.ca
+email: mailto:jli@bcgsc.ca
 github: janetxinli
 twitter: janetxinli
 linkedin: https://www.linkedin.com/in/janetxinli/
