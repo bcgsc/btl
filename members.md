@@ -19,7 +19,7 @@ title: Members
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
-<img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, graduate student (UBC)  <br>
+<img class="avatar" src="assets/avatars/cyang.jpg"> Chen Yang, postdoctoral fellow <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
