@@ -54,7 +54,8 @@ for myfile in sorted(glob.glob("*.txt")):
     software.write("\n\n")
     i += 1
 
-software.seek(-7, 2)
+software.seek(0, os.SEEK_END)
+software.seek(software.tell()-7, os.SEEK_SET)
 
 if i % 2 is 0:
    software.write("</tr>")
