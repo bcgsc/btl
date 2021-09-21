@@ -1,0 +1,5 @@
+rnascooplogo.png
+RNA-Scoop
+https://github.com/bcgsc/RNA-Scoop
+
+Interactive isoform visualization tool for single-cell transcriptomes
