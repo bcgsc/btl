@@ -1,0 +1,7 @@
+transparent.png
+AMPlify
+https://github.com/bcgsc/AMPlify
+
+conda install -c bioconda amplify
+docker run quay.io/biocontainers/amplify
+Attentive deep learning model for antimicrobial peptide prediction
