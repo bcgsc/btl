@@ -15,7 +15,7 @@ feature_link: http://mkweb.bcgsc.ca/fun/hdtr/
 <article class="article  article--page  content  typeset">
 <div style="width:50%;height:100%;float:left;padding-right:5%;padding-left:5%;">
 <h2>Welcome!</h2>
-<p>The Bioinformatics Technology Lab at the BC Cancer <a href="http://www.bcgsc.ca/">Michael Smith Genome Sciences Centre</a> in Vancouver, Canada is a computational biology research group. We develop novel algorithms, data structures and genome analysis software and offer a <a target="blank" href="https://warrenlr.github.io/papers/DeNovoAssemblyBTL.pdf">complete and scalable solution (figure below) for <i>de novo</i> genome assembly</a>. The bioinformatics <a href="http://www.birollab.ca/software">tools</a> we build find applications in cancer research, and are the foundation of our genome research program. <a href="https://github.com/bcgsc">Access our bioinformatics tools on our github repository.</a></p>
+<p>The Bioinformatics Technology Lab at the BC Cancer <a href="http://www.bcgsc.ca/">Michael Smith Genome Sciences Centre</a> in Vancouver, Canada is a computational biology research group. We develop novel algorithms, data structures and genome analysis software and offer a <a target="blank" href="https://warrenlr.github.io/papers/DeNovoAssemblyBTL.pdf">complete and scalable solution (figure below) for <i>de novo</i> genome assembly</a>. The bioinformatics <a href="http://www.birollab.ca/software">tools</a> we build find applications in cancer research, and are the foundation of our genome research program. <a href="https://github.com/bcgsc">Access our bioinformatics tools on github</a></p>
 <img src="http://www.birollab.ca/wga.png">
 </div>
 
