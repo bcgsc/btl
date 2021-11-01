@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Long read correction and scaffolding pipeline LongStitch published in BMC Bioinformatics"
+title: "LongStitch, our pipeline for correcting and scaffolding genome assemblies using long reads, published in BMC Bioinformatics"
 category: news  
 ---  
 
