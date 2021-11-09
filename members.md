@@ -23,7 +23,6 @@ title: Members
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Kristina Wright, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/jli.jpeg"> [Janet Li](member/jli), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
@@ -38,6 +37,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
 
 ### Alumni
+Kristina Wright, graduate student (UBC)<br>
 Sina Jafarzadeh, (UBC directed study student)<br>
 Sambina Islam Aninta, coop student (UBC)<br>
 Jacky Yiu, coop student (SFU)<br>
