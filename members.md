@@ -37,7 +37,7 @@ title: Members
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Parham Kazemi, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Puneet Singh, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Puneet Sidhu, coop student (UBC)<br>
 
 
 ### Alumni
