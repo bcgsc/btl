@@ -16,6 +16,8 @@ title: Members
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimi, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Nathan Louie, coop student (UBC)<br>
+
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
@@ -35,6 +37,8 @@ title: Members
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Parham Kazemi, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Puneet Singh, coop student (UBC)<br>
+
 
 ### Alumni
 Kristina Wright, graduate student (UBC)<br>
