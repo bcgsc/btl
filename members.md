@@ -6,6 +6,7 @@ title: Members
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, principal investigator  <br>
 <img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](https://warrenlr.github.io/), group leader  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Damini Chand, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Lori Kwok, administrative coordinator<br>
@@ -28,6 +29,7 @@ title: Members
 <img class="avatar" src="assets/avatars/jli.jpeg"> [Janet Li](member/jli), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Rui Wang, GSAT rotation student (UBC)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
