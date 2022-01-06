@@ -18,7 +18,7 @@ title: Members
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimi, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Nathan Louie, coop student (UBC)<br>
-
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, coop student (UBC)<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
@@ -27,22 +27,22 @@ title: Members
 <img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/jli.jpeg"> [Janet Li](member/jli), graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Rui Wang, GSAT rotation student (UBC)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, research programmer <br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Parham Kazemi, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Puneet Sidhu, coop student (UBC)<br>
-
+<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, student volunteer (UBC)<br>
 
 ### Alumni
+Puneet Sidhu, coop student (UBC)<br>
+Rui Wang, GSAT rotation student (UBC)<br>
 Kristina Wright, graduate student (UBC)<br>
 Sina Jafarzadeh, (UBC directed study student)<br>
 Sambina Islam Aninta, coop student (UBC)<br>
