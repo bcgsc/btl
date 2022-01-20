@@ -16,7 +16,7 @@ title: Members
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimi, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Nathan Louie, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, coop student (UBC)<br>
 
