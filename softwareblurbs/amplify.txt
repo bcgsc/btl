@@ -1,4 +1,4 @@
-transparent.png
+amplifylogo.png
 AMPlify
 https://github.com/bcgsc/AMPlify
 
