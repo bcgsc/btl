@@ -15,7 +15,6 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate <br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/dlin.jpg"> [Diana Lin](member/dlin), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Nathan Louie, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, coop student (UBC)<br>
@@ -29,6 +28,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
@@ -40,6 +40,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, student volunteer (UBC)<br>
 
 ### Alumni
+Diana Lin, graduate student (UBC) <br>
 Chen Yang, graduate student (UBC) / PDF <br>
 Puneet Sidhu, coop student (UBC)<br>
 Rui Wang, GSAT rotation student (UBC)<br>
