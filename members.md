@@ -31,7 +31,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC)<br>
 
 ### High Performance Computing
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Jonathan Wong, research programmer <br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, research programmer <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, research programmer <br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
