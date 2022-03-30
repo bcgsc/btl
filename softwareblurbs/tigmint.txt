@@ -3,5 +3,5 @@ Tigmint
 https://github.com/bcgsc/tigmint
 brew install brewsci/bio/tigmint
 conda install -c bioconda tigmint
-docker run bcgsc/tigmint
+docker run quay.io/biocontainers/tigmint
 Misassembly correction utility with linked reads
