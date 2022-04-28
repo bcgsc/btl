@@ -4,4 +4,4 @@ https://github.com/bcgsc/arcs
 brew install brewsci/bio/arcs
 conda install -c bioconda arcs
 docker run quay.io/biocontainers/arcs
-Genome scaffolder with linked reads
+Genome scaffolder with long or linked reads

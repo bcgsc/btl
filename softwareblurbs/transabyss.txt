@@ -4,4 +4,4 @@ https://github.com/bcgsc/transabyss
 brew install brewsci/science/trans-abyss
 conda install transabyss
 docker run quay.io/biocontainers/transabyss
-De novo transcriptome assembler 
+De novo transcriptome assembler with short reads 
