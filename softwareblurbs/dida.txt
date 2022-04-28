@@ -4,4 +4,4 @@ https://github.com/bcgsc/dida
 brew install brewsci/bio/dida
 
 
-Sequence alignment pipeline to distribute indexing/alignment stages on a compute farm
+Sequence alignment pipeline to distribute indexing/alignments on compute farms
