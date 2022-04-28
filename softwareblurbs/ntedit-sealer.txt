@@ -1,5 +1,5 @@
 ntedit-sealer.png
-ntEdit+Sealer polishing protocol
+Genome sequence polishing protocol
 https://github.com/bcgsc/ntedit_sealer_protocol
 
 
