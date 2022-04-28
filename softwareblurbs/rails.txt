@@ -4,4 +4,4 @@ https://github.com/bcgsc/RAILS
 brew install brewsci/bio/rails
 
 
-Gap-filling (cobbler) and scaffolding (RAILS) by long DNA sequence alignment
+Gap-filling (cobbler) and scaffolding (RAILS) with long reads
