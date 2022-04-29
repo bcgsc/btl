@@ -16,13 +16,12 @@ title: Members
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Nathan Louie, coop student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, coop student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Nila Erturk, student volunteer (UofT)<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
-<img class="avatar" src="assets/avatars/kgagalova.jpg"> [Kristina Gagalova](member/kgagalova), graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/jli.jpeg"> [Janet Li](member/jli), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
@@ -40,6 +39,8 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, student volunteer (UBC)<br>
 
 ### Alumni
+Nathan Louie, coop student (UBC) <br>
+Kristina Gagalova, graduate student (UBC) <br>
 Diana Lin, graduate student (UBC) <br>
 Chen Yang, graduate student (UBC) / PDF <br>
 Puneet Sidhu, coop student (UBC)<br>
