@@ -1,0 +1,7 @@
+rampagelogo.png
+rAMPage
+https://github.com/bcgsc/rampage
+
+
+
+Rapid AMP Annotation and Gene Estimation
