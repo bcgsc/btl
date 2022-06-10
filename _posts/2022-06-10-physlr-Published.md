@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Manuscript describing Physlr, a tool to generate next-generation physical maps of geneomes, just published"
+title: "Manuscript describing Physlr, a tool to generate next-generation physical maps of genomes, published today"
 category: news  
 ---  
 
