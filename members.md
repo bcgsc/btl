@@ -17,7 +17,7 @@ title: Members
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, coop student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Nila Erturk, student volunteer (UofT)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Nila Erturk, summer intern (UofT)<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
