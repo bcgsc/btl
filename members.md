@@ -23,7 +23,6 @@ title: Members
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/kmnip.png"> Ka Ming Nip, graduate student (UBC)  <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/jli.jpeg"> [Janet Li](member/jli), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
@@ -37,8 +36,10 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Parham Kazemi, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/asarvar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, student volunteer (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Moustafa Shokrof, graduate student<br>
 
 ### Alumni
+Janet Li, graduate student (UBC)<br>
 Nathan Louie, coop student (UBC) <br>
 Kristina Gagalova, graduate student (UBC) <br>
 Diana Lin, graduate student (UBC) <br>
