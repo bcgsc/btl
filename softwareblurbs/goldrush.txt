@@ -1,0 +1,7 @@
+goldrushlogo.png
+GoldRush
+https://github.com/bcgsc/goldrush
+
+
+
+Linear time complexity de novo long read genome assembler 
