@@ -9,7 +9,6 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Damini Chand, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Mansi Sharma, project manager<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Lori Kwok, administrative coordinator<br>
 
 ### Antimicrobial Research
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate <br>
@@ -30,7 +29,6 @@ title: Members
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, research programmer <br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Vladimir Nikolić, research programmer <br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Parham Kazemi, graduate student (UBC)<br>
@@ -39,6 +37,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Moustafa Shokrof, graduate student<br>
 
 ### Alumni
+Vladimir Nikolic, graduate student (UBC) / research programmer<br>
 Janet Li, graduate student (UBC)<br>
 Nathan Louie, coop student (UBC) <br>
 Kristina Gagalova, graduate student (UBC) <br>
