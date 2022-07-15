@@ -2,6 +2,6 @@ goldrushlogo.png
 GoldRush
 https://github.com/bcgsc/goldrush
 
-
+conda install -c bioconda goldrush
 
 Linear time complexity de novo long read genome assembler 
