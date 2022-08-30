@@ -33,10 +33,10 @@ title: Members
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Parham Kazemi, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/asarvar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, student volunteer (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Moustafa Shokrof, graduate student<br>
 
 ### Alumni
+Emily Zhang, student volunteer (UBC)<br>
 Vladimir Nikolic, graduate student (UBC) / research programmer<br>
 Janet Li, graduate student (UBC)<br>
 Nathan Louie, coop student (UBC) <br>
