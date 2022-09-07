@@ -15,8 +15,7 @@ title: Members
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, coop student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Nila Erturk, summer intern (UofT)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, Directed Studies/Honour's student (UBC)<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
@@ -28,7 +27,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC)<br>
 
 ### High Performance Computing
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, research programmer <br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Parham Kazemi, graduate student (UBC)<br>
@@ -36,6 +35,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Moustafa Shokrof, graduate student<br>
 
 ### Alumni
+Nila Erturk, summer intern (UofT)<br>
 Emily Zhang, student volunteer (UBC)<br>
 Vladimir Nikolic, graduate student (UBC) / research programmer<br>
 Janet Li, graduate student (UBC)<br>
