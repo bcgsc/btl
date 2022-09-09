@@ -30,7 +30,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/talhaGoktas.JPG"> Talha Murathan Goktas, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Parham Kazemi, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/asarvar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Moustafa Shokrof, graduate student<br>
 
