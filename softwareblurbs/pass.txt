@@ -1,7 +1,7 @@
 pass-logo.png
-pass
+PASS
 https://github.com/bcgsc/pass
 
 
 
-Protein Assembler with Short [peptide] Sequences (PASS)
+Protein Assembler with Short [peptide] Sequences
