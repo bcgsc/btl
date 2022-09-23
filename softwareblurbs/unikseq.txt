@@ -1,0 +1,7 @@
+unikseq-logo.png
+unikseq
+https://github.com/bcgsc/unikseq
+
+
+
+Unique region identification in DNA, using kmers
