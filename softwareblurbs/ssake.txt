@@ -2,6 +2,6 @@ ssake-logo.png
 SSAKE
 https://github.com/bcgsc/SSAKE
 
-https://anaconda.org/bioconda/ssake
+conda install -c bioconda ssake
 
 De novo Genome Assembler with Short Sequence Reads

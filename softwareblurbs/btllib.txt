@@ -2,6 +2,6 @@ transparent.png
 BTLlib
 https://github.com/bcgsc/btllib
 
-https://anaconda.org/bioconda/btllib
+conda install -c bioconda btllib
 
 Genomic sequence processing common code C++ library, with Python API
