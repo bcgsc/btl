@@ -4,4 +4,4 @@ https://github.com/bcgsc/SSAKE
 
 https://anaconda.org/bioconda/ssake
 
-Short Sequence de novo genome Assembler
+De novo Genome Assembler with Short Sequence Reads
