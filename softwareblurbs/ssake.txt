@@ -1,0 +1,7 @@
+ssake-logo.png
+SSAKE
+https://github.com/bcgsc/SSAKE
+
+https://anaconda.org/bioconda/ssake
+
+Short Sequence de novo genome Assembler

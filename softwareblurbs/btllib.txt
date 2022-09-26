@@ -1,0 +1,7 @@
+transparent.png
+BTLlib
+https://github.com/bcgsc/btllib
+
+https://anaconda.org/bioconda/btllib
+
+Genomic sequence processing common code C++ library, with Python API
