@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Study on relating antimicrobial activity and predicted structure, just published"  
+title: "Our study relating the antimicrobial activity and predicted structure of AMPs is published"  
 category: news  
 ---  
 
