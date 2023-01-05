@@ -15,6 +15,7 @@ title: Members
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, Directed Studies/Honour's student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, coop student (UBC)<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
