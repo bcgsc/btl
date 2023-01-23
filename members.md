@@ -25,6 +25,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC)<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC)<br>
