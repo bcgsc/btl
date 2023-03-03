@@ -4,4 +4,4 @@ https://github.com/bcgsc/unikseq
 
 
 
-Unique region identification in DNA sequences, using kmers
+Unique region identification in DNA sequences, using k-mers
