@@ -1,0 +1,7 @@
+
+Konnector
+https://github.com/bcgsc/abyss
+brew install abyss
+conda install -c bioconda abyss
+docker run bcgsc/abyss
+Connecting paired-end reads using a bloom filter de Bruijn graph

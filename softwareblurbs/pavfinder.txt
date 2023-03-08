@@ -2,6 +2,6 @@ transparent.png
 PAVFinder
 https://github.com/bcgsc/pavfinder
 
-
-
+https://anaconda.org/bioconda/pavfinder
+docker run quay.io/biocontainers/pavfinder
 Python package to identify structural variants from de novo assemblies

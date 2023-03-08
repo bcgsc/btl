@@ -3,5 +3,5 @@ GoldRush
 https://github.com/bcgsc/goldrush
 
 conda install -c bioconda goldrush
-
+docker run quay.io/biocontainers/goldrush
 Linear time complexity de novo long read genome assembler 

@@ -1,0 +1,7 @@
+sealerlogo.png
+Sealer
+https://github.com/bcgsc/abyss
+brew install abyss
+conda install -c bioconda abyss
+docker run bcgsc/abyss
+scalable gap-closing application for finishing draft genomes
