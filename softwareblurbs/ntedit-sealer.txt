@@ -1,7 +1,7 @@
 ntedit-sealer.png
 Genome sequence polishing protocol
 https://github.com/bcgsc/ntedit_sealer_protocol
-
-
+brew install brewsci/bio/nthits ntedit abyss
+conda install -c bioconda nthits ntedit abyss
 
 Targeted error resolution, automated genome finishing
