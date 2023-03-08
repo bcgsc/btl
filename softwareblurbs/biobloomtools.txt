@@ -2,6 +2,6 @@ transparent.png
 BioBloom Tools
 https://github.com/bcgsc/biobloom
 brew install brewsci/bio/biobloomtools
-https://anaconda.org/bioconda/biobloomtools
+conda install -c bioconda biobloomtools
 docker run quay.io/biocontainers/biobloomtools
 Memory efficient sequence read mapping with Bloom filters

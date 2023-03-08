@@ -2,6 +2,6 @@ physlrlogo.png
 Physlr
 https://github.com/bcgsc/physlr
 
-https://anaconda.org/bioconda/physlr
+conda install -c bioconda physlr
 docker run quay.io/biocontainers/physlr
 Chromosome-scale de novo scaffolding using physical map of linked reads

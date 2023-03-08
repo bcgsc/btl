@@ -2,6 +2,6 @@ transparent.png
 Straglr
 https://github.com/bcgsc/straglr
 
-https://anaconda.org/bioconda/straglr
+conda install -c bioconda straglr
 docker run quay.io/biocontainers/straglr
 Short-tandem repeat genotyping using long reads
