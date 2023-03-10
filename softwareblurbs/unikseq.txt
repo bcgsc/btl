@@ -2,6 +2,6 @@ unikseq-logo.png
 unikseq
 https://github.com/bcgsc/unikseq
 
-
+conda install -c bioconda unikseq
 
 Unique region identification in DNA sequences, using k-mers
