@@ -1,4 +1,4 @@
-transparent.png
+nthits-logo.png
 ntHits
 https://github.com/bcgsc/ntHits
 brew install brewsci/bio/nthits
