@@ -11,10 +11,10 @@ title: Members
 
 ### Antimicrobial Research
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate <br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Lia Richter, student researcher<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Amelia Richter, student researcher<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op student (UBC)<br>
 
 ### Computational Biology
@@ -32,7 +32,7 @@ title: Members
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/asarvar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Moustafa Shokrof, visiting graduate student (UC Davis)<br>
-<img class="avatar" src="assets/avatars/noavatar.JPG">Emily Zhang, co-op student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC)<br>
 
 ### Alumni
 Talha Murathan Goktas, graduate student (UBC) 2023<br>
