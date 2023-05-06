@@ -36,7 +36,7 @@ title: Members
 
 ### Alumni
 Talha Murathan Goktas, graduate student (UBC) 2021-23<br>
-Ka Ming Nip, graduate student (UBC) 2013-23<br>
+Ka Ming Nip, co-op student (UBC) 2010, computational biologist 2011-14, graduate student (UBC) 2014-23<br>
 Nila Erturk, summer intern (UofT) 2022<br>
 Emily Zhang, student volunteer (UBC) 2022<br>
 Vladimir Nikolic, graduate student (UBC) / research programmer 2019-22<br>
@@ -84,7 +84,7 @@ Sarah Yeo, honor's project student / intern / directed studies student (UBC) 201
 Djallel Bouneffouf, postdoctoral fellow 2014-17<br>
 Ewan Gibb, staff scientist 2015-16<br>
 Jessica Pilsworth, graduate student (UBC) 2013-16<br>
-Abdur Rahman M.A. Basher, graduate student 2013-15<br>
+Abdur Rahman M.A. Basher, graduate student (UBC) 2013-15<br>
 Victoria Stuart, computational biologist 2014-15<br>
 Bahar Behsaz, computational biologist 2013-15<br>
 Jorge Lazo, co-op student (UBC) 2015<br>
@@ -92,7 +92,7 @@ Yi-Ming Sun, co-op student (UVic) 2014-15<br>
 Nathan Nastili, co-op student (SFU) 2014<br>
 Alex Purdy, co-op student (UVic) 2014<br>
 Karthika Raghavan, postdoctoral fellow 2014-15<br>
-Tony Raymond, co-op student (2009), computational biologist 2011-14<br>
+Tony Raymond, co-op student (UBC) 2009, computational biologist 2011-14<br>
 Albert Lagman, co-op student (UBC) 2015<br>
 Daniel Paulino, co-op student (SFU) 2014<br>
 Mimi Ko, co-op student (UBC) 2013-14<br>
