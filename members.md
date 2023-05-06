@@ -35,64 +35,64 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC)<br>
 
 ### Alumni
-Talha Murathan Goktas, graduate student (UBC) 2023<br>
-Ka Ming Nip, graduate student (UBC) 2023<br>
+Talha Murathan Goktas, graduate student (UBC) 2021-23<br>
+Ka Ming Nip, graduate student (UBC) 2013-23<br>
 Nila Erturk, summer intern (UofT) 2022<br>
 Emily Zhang, student volunteer (UBC) 2022<br>
-Vladimir Nikolic, graduate student (UBC) / research programmer 2022<br>
-Janet Li, graduate student (UBC) 2022<br>
-Nathan Louie, co-op student (UBC) 2022<br>
-Kristina Gagalova, graduate student (UBC) 2022<br>
-Diana Lin, graduate student (UBC) 2022<br>
-Chen Yang, graduate student (UBC) / PDF 2022<br>
+Vladimir Nikolic, graduate student (UBC) / research programmer 2019-22<br>
+Janet Li, graduate student (UBC) 2019-22<br>
+Nathan Louie, co-op student (UBC) 2021-22<br>
+Kristina Gagalova, graduate student (UBC) 2017-2022<br>
+Diana Lin, graduate student (UBC) 2018-2022<br>
+Chen Yang, graduate student (UBC) / PDF 2014-22<br>
 Puneet Sidhu, co-op student (UBC) 2021<br>
 Rui Wang, GSAT rotation student (UBC) 2021<br>
-Kristina Wright, graduate student (UBC) 2021<br>
+Kristina Wright, graduate student (UBC) 2019-2021<br>
 Sina Jafarzadeh, (UBC directed study student) 2021<br>
-Sambina Islam Aninta, coop student (UBC)<br>
-Jacky Yiu, co-op student (SFU)<br>
-Yaman Malkoc, co-op student (UBC)<br>
-Yee Fay Lim, graduate student (UBC)<br>
-Kyle Jenkins, graduate student (UBC GSAT - rotation)<br>
-Maria Stephenson, co-op student (UBC) <br>
-Justin Chu, graduate student (UBC) / PDF <br>
-Figali Taho, graduate student (UBC) <br>
-Iris Caglayan, summer intern <br>
-Alex Marr, GSAT rotation student (UBC) <br>
-Golnar Sheikhshab, graduate student (SFU) <br>
-Talha Murathan Goktas, intern (Bilkent University, Turkey)<br>
-Hamid Mohamadi, graduate student (UBC) / Research associate<br>
-Gokce Dilek, co-op student (UBC)<br>
-Yaman Malkoc, co-op student (UBC)<br>
-Jane Lee, volunteer (UBC)<br>
-Shaun Jackman, graduate student (UBC) / PDF <br>
-Jessica Zhang, co-op student (UBC)<br>
-Eric Chen, honor's project student / directed studies student (UBC)<br>
-Zhuyi Xue, computational biologist<br>
-Sauparna Palchowdhury, research programmer<br>
-Lieke Janssen, intern (HAN University of Applied Sciences, The Netherlands)<br>
-S. Austin Hammond, computational biologist<br>
-Ben Vandervalk, computational biologist<br>
-Jeffrey Tse, co-op student (UBC)<br>
-Daniel MacMillan, computational biologist<br>
-Emre Erhan, honours project student (UBC)<br>
-Jessica Ma, co-op student (UBC)<br>
-Johnathan Wong, co-op student (UBC)<br>
-Ewan Gibb, staff scientist  <br>
-Hamza Khan, graduate student (UBC)  <br>
-Erdi Kucuk, graduate student (UBC)  <br>
-Sarah Yeo, honor's project student / intern / directed studies student (UBC)  <br>
-Djallel Bouneffouf, postdoctoral fellow  <br>
-Abdur Rahman M.A. Basher, graduate student<br>
-Victoria Stuart, computational biologist<br>
-Jessica Pilsworth, graduate student (UBC)  <br>
-Bahar Behsaz, computational biologist  <br>
-Jorge Lazo, co-op student (UBC)<br>
-Yi-Ming Sun, co-op student (UVic)  <br>
-Nathan Nastilli, co-op student (SFU)  <br>
-Alex Purdy, co-op student (UVic)  <br>
-Karthika Raghavan, postdoctoral fellow  <br>
-Tony Raymond, computational biologist  <br>
-Albert Lagman, co-op student (UBC)  <br>
-Daniel Paulino, co-op student (SFU)  <br>
-Mimi Ko, co-op student (UBC)  <br>
+Sambina Islam Aninta, coop student (UBC) 2020-21<br>
+Jacky Yiu, co-op student (SFU) 2020-21<br>
+Yee Fay Lim, graduate student (UBC) 2017-21<br>
+Kyle Jenkins, graduate student (UBC GSAT - rotation) 2020<br>
+Maria Stephenson, co-op student (UBC) 2020<br>
+Justin Chu, graduate student (UBC) / PDF 2014-20<br>
+Figali Taho, graduate student (UBC) 2018-20<br>
+Iris Caglayan, summer intern 2020<br>
+Golnar Sheikhshab, graduate student (SFU) 2014-20<br>
+Alex Marr, GSAT rotation student (UBC) 2019<br>
+Talha Murathan Goktas, intern (Bilkent University, Turkey) 2019<br>
+Hamid Mohamadi, graduate student (UBC) / Research associate 2012-19<br>
+Gokce Dilek, co-op student (UBC) 2019<br>
+Yaman Malkoc, co-op student (UBC) 2019<br>
+Jane Lee, volunteer (UBC) 2019<br>
+Shaun Jackman, bioinformatician / graduate student (UBC) / PDF 2017-19<br>
+Jessica Zhang, co-op student (UBC) 2017-19<br>
+Eric Chen, honor's project student / directed studies student (UBC) 2018-19<br>
+Zhuyi Xue, computational biologist 2014-19<br>
+Sauparna Palchowdhury, research programmer 2019<br>
+Lieke Janssen, intern (HAN University of Applied Sciences, The Netherlands) 2018-19<br>
+S. Austin Hammond, computational biologist 2015-19<br>
+Ben Vandervalk, computational biologist 2013-18<br>
+Jeffrey Tse, co-op student (UBC) 2018<br>
+Daniel MacMillan, computational biologist 2015-18<br>
+Emre Erhan, honours project student (UBC) 2017-18<br>
+Jessica Ma, co-op student (UBC) 2018<br>
+Johnathan Wong, co-op student (UBC) 2016-17<br>
+Hamza Khan, graduate student (UBC) 2015-17<br>
+Kyle Lesack, graduate student (UBC) 2014-17<br>
+Erdi Kucuk, graduate student (UBC) 2013-17<br>
+Sarah Yeo, honor's project student / intern / directed studies student (UBC) 2016-17<br>
+Djallel Bouneffouf, postdoctoral fellow 2014-17<br>
+Ewan Gibb, staff scientist 2015-16<br>
+Jessica Pilsworth, graduate student (UBC) 2013-16<br>
+Abdur Rahman M.A. Basher, graduate student 2013-15<br>
+Victoria Stuart, computational biologist 2014-15<br>
+Bahar Behsaz, computational biologist 2013-15<br>
+Jorge Lazo, co-op student (UBC) 2015<br>
+Yi-Ming Sun, co-op student (UVic) 2014-15<br>
+Nathan Nastili, co-op student (SFU) 2014<br>
+Alex Purdy, co-op student (UVic) 2014<br>
+Karthika Raghavan, postdoctoral fellow 2014-15<br>
+Tony Raymond, co-op student (2009), computational biologist 2011-14<br>
+Albert Lagman, co-op student (UBC) 2015<br>
+Daniel Paulino, co-op student (SFU) 2014<br>
+Mimi Ko, co-op student (UBC) 2013-14<br>
