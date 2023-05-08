@@ -89,10 +89,10 @@ Victoria Stuart, computational biologist 2014-15<br>
 Bahar Behsaz, computational biologist 2013-15<br>
 Jorge Lazo, co-op student (UBC) 2015<br>
 Yi-Ming Sun, co-op student (UVic) 2014-15<br>
+Albert Lagman, co-op student (UBC) 2015<br>
+Karthika Raghavan, postdoctoral fellow 2014-15<br>
 Nathan Nastili, co-op student (SFU) 2014<br>
 Alex Purdy, co-op student (UVic) 2014<br>
-Karthika Raghavan, postdoctoral fellow 2014-15<br>
 Tony Raymond, co-op student (UBC) 2009, computational biologist 2011-14<br>
-Albert Lagman, co-op student (UBC) 2015<br>
 Daniel Paulino, co-op student (SFU) 2014<br>
 Mimi Ko, co-op student (UBC) 2013-14<br>
