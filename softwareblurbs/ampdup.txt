@@ -1,0 +1,7 @@
+ampduplogo.png
+AMPd-up
+https://github.com/bcgsc/ampd-up
+
+
+
+De novo AMP sequence generation with RNNs (coming soon)
