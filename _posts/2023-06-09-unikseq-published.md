@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Manuscript describing unikseq and its eDNA applications, published"  
+title: "Manuscript describing unikseq and its eDNA application, published"  
 category: news  
 ---  
 
