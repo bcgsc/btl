@@ -1,0 +1,7 @@
+peekseq-logo.png
+peekseq
+https://github.com/bcgsc/peekseq
+
+
+
+De novo protein-coding potential predictor
