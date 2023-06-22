@@ -31,10 +31,10 @@ title: Members
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/asarvar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Moustafa Shokrof, visiting graduate student (UC Davis)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC)<br>
 
 ### Alumni
+Moustafa Shokrof, visiting graduate student (UC Davis) 2022-23<br>
 Talha Murathan Goktas, graduate student (UBC) 2021-23<br>
 Ka Ming Nip, co-op student (UBC) 2010, computational biologist 2011-14, graduate student (UBC) 2014-23<br>
 Nila Erturk, summer intern (UofT) 2022<br>
