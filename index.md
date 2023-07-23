@@ -16,7 +16,7 @@ feature_link: http://mkweb.bcgsc.ca/fun/hdtr/
 <div style="width:50%;height:100%;float:left;padding-right:5%;padding-left:5%;">
 <h2>Welcome!</h2>
 <p>The Bioinformatics Technology Lab at the BC Cancer <a href="http://www.bcgsc.ca/">Michael Smith Genome Sciences Centre</a> in Vancouver, Canada is a computational biology research group. <a href="http://www.birollab.ca/software">We develop novel algorithms, data structures and genome analysis software</a> and offer complete and scalable solutions for (1) antimicrobial peptide (AMP) predictions, (2) <i>de novo</i> whole genome sequence (WGS) assembly and (3) transcriptome (RNA) assembly and analysis (figure below, selected technologies shown). Our bioinformatics technologies, <a href="https://github.com/bcgsc">available on GitHub</a>, find applications in cancer research and are the foundation of our genome research program.</p>
-<img src="http://www.birollab.ca/wga.png">
+<a href="http://www.birollab.ca/wga.png" target=blank><img src="http://www.birollab.ca/wga.png"></a>
 </div>
 
 <div style="width:50%;height:100%;float:left;padding-right:5%;padding-left:5%;">
