@@ -10,28 +10,30 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager<br>
 
 ### Antimicrobial Research
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate <br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Lia Richter, student researcher<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate 2020-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Lia Richter, student researcher 2022-<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC) 2021-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Berke Ucar, graduate student (UBC) 2023-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student GSAT rotation (UBC) 2023-<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC) 2020-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC)<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC) 2022-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
 ### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/asarvar.jpg">Armaghan Sarvar, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC)<br>
+<img class="avatar" src="assets/avatars/asarvar.jpg">Armaghan Sarvar, graduate student (UBC) 2021-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2022-<br>
 
 ### Alumni
 Moustafa Shokrof, visiting graduate student (UC Davis) 2022-23<br>
