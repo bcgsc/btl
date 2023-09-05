@@ -4,4 +4,4 @@ https://github.com/bcgsc/ampd-up
 
 
 
-De novo AMP sequence generation with RNNs (coming soon)
+De novo AMP sequence generation with RNNs
