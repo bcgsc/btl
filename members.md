@@ -17,7 +17,6 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC) 2021-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Berke Ucar, graduate student (UBC) 2023-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student GSAT rotation (UBC) 2023-<br>
 
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
@@ -36,6 +35,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2022-<br>
 
 ### Alumni
+Emre Demirsoy, graduate student GSAT rotation (UBC) 2023-23<br>
 Moustafa Shokrof, visiting graduate student (UC Davis) 2022-23<br>
 Talha Murathan Goktas, graduate student (UBC) 2021-23<br>
 Ka Ming Nip, co-op student (UBC) 2010, computational biologist 2011-14, graduate student (UBC) 2014-23<br>
