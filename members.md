@@ -22,8 +22,6 @@ title: Members
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Cecilia Yang, graduate student (UBC) 2020-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Kyle Jenkins, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC) 2022-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
@@ -35,6 +33,8 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2022-<br>
 
 ### Alumni
+Kyle Jenkins, graduate student (UBC) 2020-23<br>
+Cecilia Yang, graduate student (UBC) 2020-23<br>
 Emre Demirsoy, graduate student GSAT rotation (UBC) 2023-23<br>
 Moustafa Shokrof, visiting graduate student (UC Davis) 2022-23<br>
 Talha Murathan Goktas, graduate student (UBC) 2021-23<br>
