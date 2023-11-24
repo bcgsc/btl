@@ -6,8 +6,8 @@ title: Members
 <img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, principal investigator  <br>
 <img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](https://warrenlr.github.io/), group leader  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Enoli De Silva, project manager<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Enoli De Silva, project manager <br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager <br>
 
 ### Antimicrobial Research
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate 2020-<br>
@@ -28,14 +28,14 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC) 2022-<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC) 2018-<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2022-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023-<br>
 
 ### Alumni
 Theodora Lo, co-op student (UBC) 2019-2020, graduate student (UBC) 2020-2023<br>
 Armaghan Sarvar, graduate student (UBC) 2021-23<br>
 Kyle Jenkins, graduate student (UBC) 2020-23<br>
 Cecilia Yang, graduate student (UBC) 2020-23<br>
-Emre Demirsoy, graduate student GSAT rotation (UBC) 2023-23<br>
+Emre Demirsoy, graduate student GSAT rotation (UBC) 2023<br>
 Moustafa Shokrof, visiting graduate student (UC Davis) 2022-23<br>
 Talha Murathan Goktas, graduate student (UBC) 2021-23<br>
 Ka Ming Nip, co-op student (UBC) 2010, computational biologist 2011-14, graduate student (UBC) 2014-23<br>
