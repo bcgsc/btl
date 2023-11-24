@@ -3,8 +3,8 @@ layout: page
 title: Members
 ---
 
-<img class="avatar" src="assets/avatars/ibirol.jpeg"> Inanç Birol, principal investigator  <br>
-<img class="avatar" src="assets/avatars/rwarren.png"> [René Warren](https://warrenlr.github.io/), group leader  <br>
+<img class="avatar" src="assets/avatars/ibirol.jpeg"> [Inanç Birol](https://www.bcgsc.ca/people/inanc-birol), principal investigator  <br>
+<img class="avatar" src="assets/avatars/rwarren.png"> René Warren, group leader  <br>
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Enoli De Silva, project manager <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager <br>
