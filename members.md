@@ -21,7 +21,6 @@ title: Members
 ### Computational Biology
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Theodora Lo, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC) 2022-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
@@ -29,10 +28,11 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC)<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC)<br>
-<img class="avatar" src="assets/avatars/asarvar.jpg">Armaghan Sarvar, graduate student (UBC) 2021-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2022-<br>
 
 ### Alumni
+Theodora Lo, co-op student (UBC) 2019-2020, graduate student (UBC) 2020-2023<br>
+Armaghan Sarvar, graduate student (UBC) 2021-23<br>
 Kyle Jenkins, graduate student (UBC) 2020-23<br>
 Cecilia Yang, graduate student (UBC) 2020-23<br>
 Emre Demirsoy, graduate student GSAT rotation (UBC) 2023-23<br>
