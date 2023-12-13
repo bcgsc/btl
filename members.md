@@ -38,7 +38,6 @@ Moustafa Shokrof, visiting graduate student (UC Davis) 2022-23<br>
 Talha Murathan Goktas, graduate student (UBC) 2021-23<br>
 Ka Ming Nip, co-op student (UBC) 2010, computational biologist 2011-14, graduate student (UBC) 2014-23<br>
 Nila Erturk, summer intern (UofT) 2022<br>
-Emily Zhang, student volunteer (UBC) 2022<br>
 Vladimir Nikolic, graduate student (UBC) / research programmer 2019-22<br>
 Janet Li, graduate student (UBC) 2019-22<br>
 Nathan Louie, co-op student (UBC) 2021-22<br>
@@ -64,7 +63,7 @@ Hamid Mohamadi, graduate student (UBC) / Research associate 2012-19<br>
 Gokce Dilek, co-op student (UBC) 2019<br>
 Yaman Malkoc, co-op student (UBC) 2019<br>
 Jane Lee, volunteer (UBC) 2019<br>
-Shaun Jackman, bioinformatician / graduate student (UBC) / PDF 2017-19<br>
+Shaun Jackman, bioinformatician 2007-12 / graduate student (UBC) 2012-19<br>
 Jessica Zhang, co-op student (UBC) 2017-19<br>
 Eric Chen, honor's project student / directed studies student (UBC) 2018-19<br>
 Zhuyi Xue, computational biologist 2014-19<br>
