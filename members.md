@@ -17,25 +17,23 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC) 2021-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student (UBC) 2023-<br>
 
-### Computational Biology
+### Computational Biology / High Performance Computing
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC) 2017-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Irem Yucel, graduate student (UBC) 2022-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
-
-### High Performance Computing
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC) 2022-<br>
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC) 2018-<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023, directed-studies 2024<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
 ### Alumni
+Irem Yucel, graduate student (UBC) 2022-2023<br>
 Theodora Lo, co-op student (UBC) 2019-2020, graduate student (UBC) 2020-2023<br>
 Armaghan Sarvar, graduate student (UBC) 2021-23<br>
 Kyle Jenkins, graduate student (UBC) 2020-23<br>
 Cecilia Yang, graduate student (UBC) 2020-23<br>
-Emre Demirsoy, graduate student GSAT rotation (UBC) 2023<br>
 Moustafa Shokrof, visiting graduate student (UC Davis) 2022-23<br>
 Talha Murathan Goktas, graduate student (UBC) 2021-23<br>
 Ka Ming Nip, co-op student (UBC) 2010, computational biologist 2011-14, graduate student (UBC) 2014-23<br>
