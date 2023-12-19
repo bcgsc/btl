@@ -2,6 +2,6 @@ peekseq-logo.png
 peekseq
 https://github.com/bcgsc/peekseq
 
-
-
+conda install -c bioconda peekseq
+docker run quay.io/biocontainers/peekseq
 De novo protein-coding potential predictor
