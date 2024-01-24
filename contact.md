@@ -3,7 +3,7 @@ layout: page
 title: Contact Us
 ---
 
-Please [inquire](mailto:ibirol@bcgsc.ca) for internship, CO-OP placement, graduate training and post-doc opportunities. For career opportunities, visit [http://www.phsa.ca/careers](http://www.phsa.ca/careers) and [http://www.bcgsc.ca/career/](http://www.bcgsc.ca/career/).
+Please [inquire](mailto:ibirol@bcgsc.ca) for internship, CO-OP placement, graduate training and post-doc opportunities. For career opportunities, visit [http://www.phsa.ca/careers](http://www.phsa.ca/careers) and [http://www.bcgsc.ca/careers/](http://www.bcgsc.ca/careers/).
 
 **Inanc Birol**  
 **Bioinformatics Technology Lab**  
