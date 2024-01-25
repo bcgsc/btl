@@ -8,7 +8,7 @@ title: Members
 <img class="avatar" src="assets/avatars/lcoombe.jpg"> Lauren Coombe, assistant bioinformatics coordinator  <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager <br>
 
-### Antimicrobial Research
+### Antimicrobial Research Lab
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate 2020-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Lia Richter, student researcher 2022-<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC) 2018-<br>
@@ -18,7 +18,7 @@ title: Members
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student (UBC) 2023-<br>
 
-### Computational Biology / High Performance Computing
+### Bioinformatics Technology Lab 
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/shafezqorani.png"> Saber Hafezqorani, graduate student (UBC) 2017-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC) 2022-<br>
