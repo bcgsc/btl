@@ -2,11 +2,11 @@
 title: Home
 layout: default
 feature_text: |
-  # Birol Lab   
+  #
   Led by Dr. Inanc Birol at [BC Cancer's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca/) 
 feature_image: "assets/background.jpg"
-feature_credit: Photo by Martin Krzywinski
-feature_link: http://mkweb.bcgsc.ca/fun/hdtr/
+feature_credit: Photo by René L Warren
+feature_link: https://warrenlr.github.io/
 ---
 
 {% include site-header.html %}
