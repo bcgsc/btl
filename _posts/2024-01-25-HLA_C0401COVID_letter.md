@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Now Available: Report on HLA-C*04:01 and COVID-19 Severity"
+title: "Just Released: Evidence of HLA-C*04:01 Link to COVID-19 Severity" 
 category: news  
 ---  
 
