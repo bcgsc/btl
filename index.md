@@ -2,7 +2,7 @@
 title: Home
 layout: default
 feature_text: |
-  #
+  
   Led by Dr. Inanc Birol at [BC Cancer's Michael Smith Genome Sciences Centre](http://www.bcgsc.ca/) 
 feature_image: "assets/background.jpg"
 feature_credit: Photo by René L Warren
