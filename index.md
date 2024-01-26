@@ -7,7 +7,7 @@ feature_text: |
 
 
 feature_image: "assets/background.jpg"
-feature_credit: Photo by René L Warren
+feature_credit: Photo: René L Warren
 feature_link: https://warrenlr.github.io/
 ---
 
