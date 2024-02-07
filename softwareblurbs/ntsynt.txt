@@ -1,0 +1,7 @@
+ntsynt-logo.png
+ntSynt
+https://github.com/bcgsc/ntSynt
+
+
+
+Multi-genome synteny detection using minimizer graph mapping
