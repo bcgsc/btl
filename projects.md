@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research 
 ---
 
 We are the Birol Lab, a group invested in genome research. We operate at the interface of biology and computer science, along a spectrum that ranges from the development of fundamental computing tools, innovative bioinformatics technologies and genomics data analysis frameworks to serve the common goal of pushing further the bounds of science, helping derive biological insights with far-reaching applications in the genetics, genomics, research and clinical realms. Below is an overview of our key activities.
@@ -12,7 +12,7 @@ Bioinformatics is a big data science. With the continual improvements in high-th
 
 #### **Genome and Transcriptome Assembly and Analysis**
 
-The many revolutionary improvements to sequencing technologies have made data generation accessible to labs big and small. Yet, deciphering the precise nucleotide sequence that makes up the genome and transcriptome of a species – de novo assembly – remains an informatics challenge, especially when the genome is large and complex. Beginning with [ABySS(https://doi.org/10.1101/gr.089532.108)]/[ABySS2](https://doi.org/10.1101/gr.214346.116), the first short-read assembler to scale to human-sized genomes, and more recently [GoldRush](https://doi.org/10.1038/s41467-023-38716-x), a linear time complexity genome assembler for long sequencing reads, the Birol Lab has an established track record in developing scalable and high-quality assembly tools. We develop [open-source solutions](https://github.com/bcgsc) for all steps of the assembly pipeline, including the initial assembly of reads, correction, scaffolding, polishing, and gap-filling. 
+The many revolutionary improvements to sequencing technologies have made data generation accessible to labs big and small. Yet, deciphering the precise nucleotide sequence that makes up the genome and transcriptome of a species – de novo assembly – remains an informatics challenge, especially when the genome is large and complex. Beginning with [ABySS](https://doi.org/10.1101/gr.089532.108)/[ABySS2](https://doi.org/10.1101/gr.214346.116), the first short-read assembler to scale to human-sized genomes, and more recently [GoldRush](https://doi.org/10.1038/s41467-023-38716-x), a linear time complexity genome assembler for long sequencing reads, the Birol Lab has an established track record in developing scalable and high-quality assembly tools. We develop [open-source solutions](https://github.com/bcgsc) for all steps of the assembly pipeline, including the initial assembly of reads, correction, scaffolding, polishing, and gap-filling. 
 
 
 #### **Comparative Genomics**
@@ -37,4 +37,4 @@ Substantial advancements in healthcare can be realized through the development o
 
 #### **Forest Genomics & Beyond**
 
-Conifers in general and spruce trees in particular are Canada’s most significant forest resource. Spruces produce high quality wood and fibre that is widely used in the industry, and as dominant species of Canada’s forests, they provide essential local and global ecosystem services. As part of the [spruce-up](https://spruce-up.ca/) project and in collaboration with multiple organizations across Canada that includes [CanSeq150](https://www.cgen.ca/canseq150-overview), the [Canada BioGenome](https://earthbiogenome.ca/index.mhtml) and [Earth BioGenome](https://www.earthbiogenome.org/) projects, we are building genomic resources and technologies to help protect our forests and preserve their biodiversity for future generations.
+Conifers in general and spruce trees in particular are Canada’s most significant forest resource. Spruces produce high quality wood and fibre that is widely used in the industry, and as dominant species of Canada’s forests, they provide essential local and global ecosystem services. As part of the [spruce-up](https://spruce-up.ca/) project and in collaboration with multiple organizations across Canada that includes [CGEn](https://www.cgen.ca/), [CanSeq150](https://www.cgen.ca/canseq150-overview), the [Canada BioGenome](https://earthbiogenome.ca/index.mhtml) and [Earth BioGenome](https://www.earthbiogenome.org/) projects, we are building genomic resources and technologies to help protect our forests and preserve their biodiversity for future generations.
