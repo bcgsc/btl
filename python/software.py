@@ -61,7 +61,7 @@ def write_html(softwareblurbs_path):
                 i += 1
 
         if i % 2 == 1:
-            software.write("</tr>")
+            software.write("<td></td></tr>")
 
         software.seek(0, os.SEEK_END)
         software.seek(software.tell()-7, os.SEEK_SET)
