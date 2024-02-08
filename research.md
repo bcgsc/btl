@@ -3,7 +3,7 @@ layout: page
 title: Research 
 ---
 
-**We are the Birol Lab, a group invested in genome research. We operate at the interface of biology and computer science, along a spectrum that ranges from the development of fundamental computing tools, innovative bioinformatics technologies and genomics data analysis frameworks to serve the common goal of pushing further the bounds of science, helping derive biological insights with far-reaching applications in the genetics, genomics, research and clinical realms. Below is an overview of our key activities.**
+We are the Birol Lab, a group invested in genome research. We operate at the interface of biology and computer science, along a spectrum that ranges from the development of fundamental computing tools, innovative bioinformatics technologies and genomics data analysis frameworks to serve the common goal of pushing further the bounds of science, helping derive biological insights with far-reaching applications in the genetics, genomics, research and clinical realms. Below is an overview of our key activities.
 
 #### **Fundamental Bioinformatics: Algorithms and Data Structures**
 
