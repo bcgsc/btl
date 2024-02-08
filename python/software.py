@@ -60,17 +60,18 @@ def write_html(softwareblurbs_path):
                 software.write("\n\n")
                 i += 1
 
+        if i % 2 == 1:
+            software.write("</tr>")
+
         software.seek(0, os.SEEK_END)
         software.seek(software.tell()-7, os.SEEK_SET)
 
-        if i % 2 == 0:
-            software.write("</tr>")
 
 
 def main():
     "Generate the birollab.ca software html"
     if len(sys.argv[1:]) != 1:
-        print("Usage:", sys.argv[0], "<path to softwareblurbs directory>")
+        print("Usage:", sys.argv[0], "<Full path to softwareblurbs directory>")
         sys.exit()
 
     softwareblurbs_path = sys.argv[1]
