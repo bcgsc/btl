@@ -35,8 +35,6 @@ The [iTrackDNA project](https://itrackdna.ca/) utilizes advanced DNA tracking te
 Substantial advancements in healthcare can be realized through the development of genomics technologies to detect variations, sequence repeats and mutations in DNA and RNA in a manner that allows: i) effective preventative care, and/or ii) efficient diagnosis and treatment. One technology that enables this vision is high throughput DNA and RNA sequencing. This requires thorough and streamlined downstream data analysis and interpretation. To address this challenge, we are building and validating bioinformatics pipelines for clinical genomics. In collaborative projects, we are deploying these pipelines for clinical research, including [COVID-19](https://genomecanada.ca/challenge-areas/cancogen/), cancer research and for diagnosing rare genetic diseases.
 
 
-#### **Spruce genomics**
+#### **Forest Genomics & Beyond**
 
-Spruce trees are Canada’s most significant forest resource. Spruces produce high quality wood and fibre that is widely used in the industry, and as dominant species of Canada’s forests, they provide essential local and global ecosystem services. As part of the [spruce-up](https://spruce-up.ca/) project, we are collaborating with multiple organizations across Canada to build genomic resources for the species.
-
-
+Conifers in general and spruce trees in particular are Canada’s most significant forest resource. Spruces produce high quality wood and fibre that is widely used in the industry, and as dominant species of Canada’s forests, they provide essential local and global ecosystem services. As part of the [spruce-up](https://spruce-up.ca/) project, we are collaborating with multiple organizations across Canada, including [CanSeq150](https://www.cgen.ca/canseq150-overview), the [Canada BioGenome](https://earthbiogenome.ca/index.mhtml) and [Earth BioGenome](https://www.earthbiogenome.org/) projects to build genomic resources and technologies to help protect our forests.
