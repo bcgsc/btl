@@ -2,6 +2,6 @@ ntsynt-logo.png
 ntSynt
 https://github.com/bcgsc/ntSynt
 
-
+conda install -c bioconda ntsynt
 
 Multi-genome synteny detection using minimizer graph mapping
