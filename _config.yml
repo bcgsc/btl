@@ -1,5 +1,5 @@
-title: Bioinformatics Technology Lab
-description: Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre. Primarily interested in de novo genome assembly. More description. 
+title: Birol Lab
+description: Birol Lab at Canada's Michael Smith Genome Sciences Centre
 logo: "/assets/logo.png"
 col_url: "../../../../"
 
@@ -20,8 +20,8 @@ navigation_header:
   Home: /
   Members: /members
   Publications: /publications
-  Projects: /projects
-  Software: /software
+  Research: /research
+  Resources: /resources
   News: /news
   Contact: /contact
   
