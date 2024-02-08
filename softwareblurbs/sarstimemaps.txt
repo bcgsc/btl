@@ -1,7 +1,7 @@
 timemaps-logo.png
-SARS Variants Timemaps
+SARS-CoV-2 Variants Timemaps
 https://bcgsc.github.io/SARS2/
 
 
 
-Interactive scalable vector graphics maps of nucleotide variations in SARS-CoV-2 genomes accumulating over time and space
+Interactive SVG maps of DNA variations in SARS genomes over time and space
