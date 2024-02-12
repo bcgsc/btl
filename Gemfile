@@ -4,3 +4,5 @@ gem 'jekyll-remote-theme'
 gem 'jekyll-relative-links'
 
 gem "webrick", "~> 1.8"
+
+gem "sassc", "~> 2.4"
