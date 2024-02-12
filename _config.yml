@@ -30,6 +30,7 @@ navigation_footer:
 
 # Build settings
 markdown: kramdown
+verbose: true
 exclude:
   - Gemfile
   - Gemfile.lock
