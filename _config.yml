@@ -14,7 +14,7 @@ plugins:
 - jemoji
 - jekyll-relative-links
 
-remote_theme: daviddarnes/alembic@master
+remote_theme: daviddarnes/alembic@main
 
 navigation_header:
   Home: /
