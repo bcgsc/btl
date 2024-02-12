@@ -2,6 +2,6 @@ pass-logo.png
 PASS
 https://github.com/bcgsc/pass
 
-
+conda install -c bioconda pass
 
 Protein Assembler with Short [peptide] Sequences
