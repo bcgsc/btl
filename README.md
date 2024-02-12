@@ -2,4 +2,4 @@ Website for Inanc Birol's Bioinformatics Technology Lab at Canada's Michael Smit
 
 See the full website at http://www.birollab.ca
 
-For information about updating the website, see https://www.bcgsc.ca/wiki/display/BTL/birollab.ca+website+guide
+For more information about updating the website, see https://www.bcgsc.ca/wiki/display/BTL/birollab.ca+website+guide
