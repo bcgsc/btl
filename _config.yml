@@ -13,6 +13,7 @@ plugins:
 - jekyll-feed
 - jemoji
 - jekyll-relative-links
+- jekyll-remote-theme
 
 remote_theme: daviddarnes/alembic@main
 
