@@ -3,5 +3,5 @@ PASS
 https://github.com/bcgsc/pass
 
 conda install -c bioconda pass
-
+docker run quay.io/biocontainers/pass
 Protein Assembler with Short [peptide] Sequences
