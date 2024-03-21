@@ -12,7 +12,6 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate 2020-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Lia Richter, student researcher 2022-<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC) 2018-<br>
-<img class="avatar" src="assets/avatars/cli.jpg"> Chenkai Li, graduate student (UBC) 2017-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Hossein Ebrahimikondori, graduate student (UBC) 2021-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
@@ -28,6 +27,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
 ### Alumni
+Chenkai Li, graduate student (UBC) 2017-2023<br>
 Irem Yucel, graduate student (UBC) 2022-2023<br>
 Theodora Lo, co-op student (UBC) 2019-2020, graduate student (UBC) 2020-2023<br>
 Armaghan Sarvar, graduate student (UBC) 2021-23<br>
