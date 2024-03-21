@@ -1,0 +1,7 @@
+hlaminer-logo.png
+HLAminer
+https://github.com/bcgsc/HLAminer
+
+
+
+HLA predictions from DNA/RNA sequencing data
