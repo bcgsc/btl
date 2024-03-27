@@ -1,0 +1,7 @@
+ntroot-logo.png
+ntRoot
+https://github.com/bcgsc/ntroot
+
+
+
+Scalable human ancestry inference from genomic data
