@@ -2,6 +2,6 @@ ntroot-logo.png
 ntRoot
 https://github.com/bcgsc/ntroot
 
-conda install bioconda::ntroot
+conda install -c bioconda ntroot
 docker run quay.io/biocontainers/ntroot
 Scalable human ancestry inference from genomic data
