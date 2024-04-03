@@ -1,7 +1,7 @@
 xmatchviewlogo.png
 xmatchview
-https://github.com/warrenlr/xmatchview
+https://github.com/bcgsc/xmatchview
 brew install brewsci/bio/xmatchview
 conda install -c bioconda xmatchview
-docker run quay.io/bcgsc_btl/xmatchview
+docker run quay.io/biocontainers/xmatchview
 Genome sequence alignment/synteny visualization
