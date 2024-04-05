@@ -2,6 +2,6 @@ transparent.png
 mtGrasp
 https://github.com/bcgsc/mtgrasp
 
-
+conda install -c bioconda mtgrasp
 
 Mitochondrial genome assembly and standardization pipeline
