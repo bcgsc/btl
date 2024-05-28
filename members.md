@@ -23,7 +23,9 @@ title: Members
 <img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC) 2018-<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023, directed-studies / graduate student 2024-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Taghrid Aloraini, graduate student (UBC) 2023-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Mercan Deniz, student volunteer 2024<br>
+
 
 ### Alumni
 Hossein Ebrahimikondori, graduate student (UBC) 2021-2024<br>
