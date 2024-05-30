@@ -2,6 +2,7 @@ title: Birol Lab
 description: Birol Lab at Canada's Michael Smith Genome Sciences Centre
 logo: "/assets/logo.png"
 col_url: "../../../../"
+repository: bcgsc/btl
 
 plugins:
 - jekyll-sitemap
