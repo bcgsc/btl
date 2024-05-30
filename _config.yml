@@ -34,6 +34,7 @@ verbose: true
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/
   
 sass:
     style: compressed # Style compression
