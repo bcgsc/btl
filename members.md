@@ -10,7 +10,6 @@ title: Members
 
 ### Antimicrobial Research Lab
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate 2020-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Lia Richter, co-op student (UBC) 2022, student researcher 2023-<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC) 2018-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-24, graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
@@ -28,6 +27,7 @@ title: Members
 
 
 ### Alumni
+Lia Richter, co-op student (UBC) 2022, student researcher 2023-24<br>
 Hossein Ebrahimikondori, graduate student (UBC) 2021-2024<br>
 Chenkai Li, graduate student (UBC) 2017-2023<br>
 Irem Yucel, graduate student (UBC) 2022-2023<br>
