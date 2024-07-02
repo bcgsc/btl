@@ -4,4 +4,4 @@ https://github.com/bcgsc/ChopStitch
 
 
 
-De novo exon prediction and splicegraph construction
+De novo exon prediction and splice graph construction
