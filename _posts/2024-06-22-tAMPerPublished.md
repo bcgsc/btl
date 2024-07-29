@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Advancing Peptide Toxicity Prediction with tAMPer"
+title: "Advancing Peptide Toxicity Prediction with the Structure-Aware Deep Learning Model, tAMPer"
 category: news  
 ---  
 

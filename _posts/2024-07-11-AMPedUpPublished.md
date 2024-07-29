@@ -1,6 +1,6 @@
 ---  
 layout: post  
-title: "Introducing AMPd-Up - Enhancing De Novo Antimicrobial Peptide Design"
+title: "Introducing AMPd-Up: Enhancing De Novo Antimicrobial Peptide Design with a Recurrent Neural Network"
 category: news  
 ---  
 
