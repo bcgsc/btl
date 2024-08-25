@@ -51,7 +51,7 @@ Puneet Sidhu, co-op student (UBC) 2021<br>
 Rui Wang, GSAT rotation student (UBC) 2021<br>
 Kristina Wright, MSc graduate (UBC) 2019-2021<br>
 Sina Jafarzadeh, (UBC directed study student) 2021<br>
-Sambina Islam Aninta, coop student (UBC) 2020-21<br>
+Sambina Islam Aninta, co-op student (UBC) 2020-21<br>
 Jacky Yiu, co-op student (SFU) 2020-21<br>
 Yee Fay Lim, graduate student (UBC) 2017-21<br>
 Maria Stephenson, co-op student (UBC) 2020<br>
