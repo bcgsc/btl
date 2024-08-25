@@ -14,18 +14,19 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-24, graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student (UBC) 2023-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Alex Vasquez, visiting researcher (UK) 2024<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Isabelle Zawadzki, visiting researcher (UK) 2024<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Ivana Sanchez, graduate student (UBC) 2024-<br>
 
 ### Bioinformatics Technology Lab 
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC) 2022-<br>
-<img class="avatar" src="assets/avatars/aafshinfard.jpg"> [Amirhossein Afshinfard](member/aafshinfard), graduate student (UBC) 2018-<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023, directed-studies / graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
 ### Alumni
+Alex Vasquez, visiting researcher (UK) 2024<br>
+Amirhossein Afshinfard, PhD student (UBC) 2018-24<br>
 Mercan Deniz, student volunteer 2024<br>
 Saber Hafezqorani, PhD graduate (UBC) 2017-24<br>
 Lia Richter, co-op student (UBC) 2022, student researcher 2023-24<br>
