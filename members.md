@@ -14,7 +14,6 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-24, graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student (UBC) 2023-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Isabelle Zawadzki, visiting researcher (UK) 2024<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ivana Sanchez, graduate student (UBC) 2024-<br>
 
 ### Bioinformatics Technology Lab 
@@ -25,6 +24,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
 ### Alumni
+Isabelle Zawadzki, visiting researcher (UK) 2024<br>
 Alex Vasquez, visiting researcher (UK) 2024<br>
 Amirhossein Afshinfard, PhD student (UBC) 2018-24<br>
 Mercan Deniz, student volunteer 2024<br>
