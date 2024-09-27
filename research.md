@@ -3,7 +3,7 @@ layout: page
 title: Research 
 ---
 
-We are the Birol Lab, a group invested in genome research. We operate at the interface of biology and computer science, along a spectrum that ranges from the development of fundamental computing tools, innovative bioinformatics technologies and genomics data analysis frameworks to serve the common goal of pushing further the bounds of science, helping derive biological insights with far-reaching applications in the genetics, genomics, research and clinical realms. Below is an overview of our key activities.
+We are the Birol Labs, a group invested in genome research. We operate at the interface of biology and computer science, along a spectrum that ranges from the development of fundamental computing tools, innovative bioinformatics technologies and genomics data analysis frameworks to serve the common goal of pushing further the bounds of science, helping derive biological insights with far-reaching applications in the genetics, genomics, research and clinical realms. Below is an overview of our key activities.
 
 #### **Fundamental Bioinformatics: Algorithms and Data Structures**
 
@@ -20,7 +20,7 @@ The many revolutionary improvements to sequencing technologies have made data ge
 As sequencing technologies and assembly algorithms mature, the diversity of available complete, chromosome-scale genome assemblies is exploding. With this rapidly growing data, there are great opportunities for leveraging these resources to gain critical evolutionary insights within and between species. To fully realize the potential of these resources, scalable comparative genomics tools are essential. We are developing efficient and multi-faceted comparative genomics solutions for analyzing genomes across the tree of life.
 
 
-#### **Antimicrobial Research**
+#### **Antimicrobial Research & Technology**
 
 Bacteria can rapidly evolve to develop resistance to antibiotics, presenting a growing and very dangerous problem. In a “post-antibiotic era”, bacterial diseases would once again be untreatable, and many standard treatments, including surgical operations, could become unusable. To boost the search for new treatment options, in the collaborative [PeptAid project](https://genomecanada.ca/project/peptaid-antimicrobial-peptides-replace-antibiotics-farm-veterinary-practice/), we are focusing on short proteins called antimicrobial peptides (AMPs), which are produced naturally by various animal and plant species. These host defence proteins can protect against infection, or reduce the harm caused by an existing infection.
 
