@@ -2,6 +2,6 @@ ampduplogo.png
 AMPd-up
 https://github.com/bcgsc/ampd-up
 
-
-
+conda install -c bioconda ampd-up
+docker run quay.io/biocontainers/ampd-up
 De novo AMP sequence generation with RNNs
