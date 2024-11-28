@@ -1,0 +1,7 @@
+transparent.png
+ntStat
+https://github.com/bcgsc/ntStat
+
+conda install -c bioconda ntstat
+docker run quay.io/biocontainers/ntstat
+A toolkit for statistical analysis of k-mer frequency and depth
