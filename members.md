@@ -9,7 +9,6 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager <br>
 
 ### Antimicrobial Technology Lab
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate 2020-<br>
 <img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC) 2018-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-24, graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
@@ -24,6 +23,7 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg">Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
 ### Alumni
+Anat Yanai, research associate 2020-24<br>
 Isabelle Zawadzki, visiting researcher (UK) 2024<br>
 Alex Vasquez, visiting researcher (UK) 2024<br>
 Amirhossein Afshinfard, PhD student (UBC) 2018-24<br>
