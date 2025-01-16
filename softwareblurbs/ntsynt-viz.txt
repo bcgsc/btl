@@ -1,0 +1,7 @@
+ntsyntviz-logo.png
+ntSynt-viz
+https://github.com/bcgsc/ntSynt-viz
+
+
+
+Multi-genome synteny visualization framework
