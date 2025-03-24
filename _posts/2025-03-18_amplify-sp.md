@@ -1,7 +1,7 @@
 ---  
 layout: post  
 title: "Mining UniProtKB/Swiss-Prot for Antimicrobial Peptides with AMPlify"
-category: publication
+category: news 
 ---  
 
 We are excited to share our [latest publication in Protein Science](https://doi.org/10.1002/pro.70083), featuring AMPlify, a machine learning-based tool developed at Birol Lab to identify antimicrobial peptides (AMPs).
