@@ -14,12 +14,14 @@ title: Members
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ivana Sanchez, graduate student (UBC) 2024-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Iris Caglayan, directed studies student (UBC) 2025-<br>
+
 
 ### Bioinformatics Technology Lab 
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC) 2022-<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023, directed-studies / graduate student 2024-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023, directed studies / graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Taghrid Aloraini, graduate student (UBC) 2023-<br>
 
 ### Alumni
@@ -50,7 +52,7 @@ Chen Yang, PhD graduate (UBC) / PDF 2014-22<br>
 Puneet Sidhu, co-op student (UBC) 2021<br>
 Rui Wang, GSAT rotation student (UBC) 2021<br>
 Kristina Wright, MSc graduate (UBC) 2019-2021<br>
-Sina Jafarzadeh, (UBC directed study student) 2021<br>
+Sina Jafarzadeh, (UBC directed studies student) 2021<br>
 Sambina Islam Aninta, co-op student (UBC) 2020-21<br>
 Jacky Yiu, co-op student (SFU) 2020-21<br>
 Yee Fay Lim, graduate student (UBC) 2017-21<br>
