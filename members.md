@@ -13,16 +13,15 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-24, graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student (UBC) 2023-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Ivana Sanchez, graduate student (UBC) 2024-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023, directed studies / graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Iris Caglayan, directed studies student (UBC) 2025-<br>
-
 
 ### Bioinformatics Technology Lab 
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC) 2022-<br>
 <img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023, directed studies / graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg">Taghrid Aloraini, graduate student (UBC) 2023-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Ivana Sanchez, graduate student (UBC) 2024-<br>
 
 ### Alumni
 Anat Yanai, research associate 2020-24<br>
