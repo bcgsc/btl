@@ -9,26 +9,27 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Monica Kotkoff, project manager <br>
 
 ### Antimicrobial Technology Lab
-<img class="avatar" src="assets/avatars/dsutherland.jpg"> Darcy Sutherland, graduate student (UBC) 2018-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Anat Yanai, research associate 2020-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ali Salehi, co-op / directed studies student (UBC) 2023-24, graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/bucar.jpg"> [Berke Ucar](https://berkeucar.github.io), graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student (UBC) 2023-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Emily Zhang, co-op student (UBC) 2023, directed studies / graduate student 2024-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Emily Zhang, co-op student (UBC) 2023, directed studies / graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Iris Caglayan, directed studies student (UBC) 2025-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Mercan Deniz, student volunteer 2024, 2025-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Maya Alev, student volunteer 2025-<br>
 
 ### Bioinformatics Technology Lab 
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Johnathan Wong, graduate student (UBC) 2022-<br>
-<img class="avatar" src="assets/avatars/pkazemi.jpg">[Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg">Taghrid Aloraini, graduate student (UBC) 2023-<br>
+<img class="avatar" src="assets/avatars/pkazemi.jpg"> [Parham Kazemi](https://parham-k.github.io), graduate student (UBC) 2021-<br>
+<img class="avatar" src="assets/avatars/noavatar.jpg"> Taghrid Aloraini, graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ivana Sanchez, graduate student (UBC) 2024-<br>
 
 ### Alumni
-Anat Yanai, research associate 2020-24<br>
+Darcy Sutherland, PhD graduate (UBC) 2018-25<br>
 Isabelle Zawadzki, visiting researcher (UK) 2024<br>
 Alex Vasquez, visiting researcher (UK) 2024<br>
 Amirhossein Afshinfard, PhD student (UBC) 2018-24<br>
-Mercan Deniz, student volunteer 2024<br>
 Saber Hafezqorani, PhD graduate (UBC) 2017-24<br>
 Lia Richter, co-op student (UBC) 2022, student researcher 2023-24<br>
 Hossein Ebrahimikondori, MSc graduate (UBC) 2021-2024<br>
