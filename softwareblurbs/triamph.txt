@@ -1,0 +1,7 @@
+transparent.png
+triAMPh
+https://github.com/bcgsc/triAMPh
+
+
+
+TaRget Identification of AntiMicrobial Peptides with Heterogeneous graph attention networks
