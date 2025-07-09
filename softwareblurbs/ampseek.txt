@@ -1,6 +1,6 @@
 transparent.png
-AMPseek
-https://github.com/bcgsc/AMPseek
+AMPSeek
+https://github.com/bcgsc/AMPSeek
 
 
 
