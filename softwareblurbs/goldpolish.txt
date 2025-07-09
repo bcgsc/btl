@@ -1,0 +1,7 @@
+goldpolish-logo.png
+GoldPolish
+https://github.com/bcgsc/goldpolish
+
+
+
+Genome sequence polisher with long sequencing reads
