@@ -1,4 +1,4 @@
-transparent.png
+ampseek-logo.png
 AMPSeek
 https://github.com/bcgsc/AMPSeek
 
