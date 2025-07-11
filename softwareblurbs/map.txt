@@ -1,0 +1,7 @@
+map-logo.png
+MAP
+https://github.com/bcgsc/MAP
+
+
+
+Microdilution Assay Processor
