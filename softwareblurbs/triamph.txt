@@ -1,4 +1,4 @@
-transparent.png
+triamph-logo.png
 triAMPh
 https://github.com/bcgsc/triAMPh
 
