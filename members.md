@@ -15,8 +15,6 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Emre Demirsoy, graduate student (UBC) 2023-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Emily Zhang, co-op student (UBC) 2023, directed studies / graduate student 2024-<br>
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Iris Caglayan, directed studies student (UBC) 2025-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Mercan Deniz, student volunteer 2024, 2025-<br>
-<img class="avatar" src="assets/avatars/noavatar.jpg"> Maya Alev, student volunteer 2025-<br>
 
 ### Bioinformatics Technology Lab 
 <img class="avatar" src="assets/avatars/rchiu.jpg"> Readman Chiu, production coordinator <br>
@@ -26,6 +24,8 @@ title: Members
 <img class="avatar" src="assets/avatars/noavatar.jpg"> Ivana Sanchez, graduate student (UBC) 2024-<br>
 
 ### Alumni
+Mercan Deniz, student volunteer 2024, 2025<br>
+Maya Alev, student volunteer 2025<br>
 Darcy Sutherland, PhD graduate (UBC) 2018-25<br>
 Isabelle Zawadzki, visiting researcher (UK) 2024<br>
 Alex Vasquez, visiting researcher (UK) 2024<br>
