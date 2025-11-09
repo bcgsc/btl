@@ -1,10 +1,10 @@
 ---  
 layout: post  
-title: "ntRoot published in Bioinformatics Advances"  
+title: "Ancestry prediction (ntRoot) manuscript published"  
 category: news  
 ---  
 
-We are delighted to announce that our paper, [ntRoot: computational inference of human ancestry at scale from genomic data](https://doi.org/10.1093/bioadv/vbaf287), is now published in *Bioinformatics Advances*.  
+We are delighted to announce that our scientific manuscript, [ntRoot: computational inference of human ancestry at scale from genomic data](https://doi.org/10.1093/bioadv/vbaf287), is now published in *Bioinformatics Advances*.  
 
 **ntRoot** is a computationally lightweight and scalable method for inferring human ancestry directly from sequencing data—whether complete genomes, draft assemblies, or raw reads. By leveraging an alignment-free, reference-guided SNV detection framework and succinct Bloom filters, ntRoot achieves high accuracy and efficiency in predicting global and local ancestry.  
 
