@@ -29,7 +29,7 @@ Maya Alev, student volunteer 2025<br>
 Darcy Sutherland, PhD graduate (UBC) 2018-25<br>
 Isabelle Zawadzki, visiting researcher (UK) 2024<br>
 Alex Vasquez, visiting researcher (UK) 2024<br>
-Amirhossein Afshinfard, PhD student (UBC) 2018-24<br>
+Amirhossein Afshinfard, PhD graduate (UBC) 2018-24<br>
 Saber Hafezqorani, PhD graduate (UBC) 2017-24<br>
 Lia Richter, co-op student (UBC) 2022, student researcher 2023-24<br>
 Hossein Ebrahimikondori, MSc graduate (UBC) 2021-2024<br>
