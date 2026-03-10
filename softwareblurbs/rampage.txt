@@ -1,6 +1,6 @@
 rampagelogo.png
 rAMPage
-https://github.com/bcgsc/rampage
+https://github.com/birollab/rampage
 
 
 

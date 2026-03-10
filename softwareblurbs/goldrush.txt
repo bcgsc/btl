@@ -1,6 +1,6 @@
 goldrushlogo.png
 GoldRush
-https://github.com/bcgsc/goldrush
+https://github.com/birollab/goldrush
 
 conda install -c bioconda goldrush
 docker run quay.io/biocontainers/goldrush

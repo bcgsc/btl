@@ -1,6 +1,6 @@
 transparent.png
 GapPredict
-https://github.com/bcgsc/GapPredict
+https://github.com/birollab/GapPredict
 
 
 

@@ -1,6 +1,6 @@
 nanosimlogo.png
 NanoSim
-https://github.com/bcgsc/NanoSim
+https://github.com/birollab/NanoSim
 
 conda install -c bioconda nanosim
 docker run quay.io/biocontainers/nanosim

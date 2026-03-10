@@ -1,6 +1,6 @@
 tamperlogo.png
 tAMPer
-https://github.com/bcgsc/tAMPer
+https://github.com/birollab/tAMPer
 
 
 

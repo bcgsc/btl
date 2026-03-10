@@ -1,6 +1,6 @@
 transparent.png
 BioBloom Tools
-https://github.com/bcgsc/biobloom
+https://github.com/birollab/biobloom
 brew install brewsci/bio/biobloomtools
 conda install -c bioconda biobloomtools
 docker run quay.io/biocontainers/biobloomtools

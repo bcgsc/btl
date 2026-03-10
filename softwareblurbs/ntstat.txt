@@ -1,6 +1,6 @@
 transparent.png
 ntStat
-https://github.com/bcgsc/ntStat
+https://github.com/birollab/ntStat
 
 conda install bioconda::ntstat
 docker run quay.io/biocontainers/ntstat

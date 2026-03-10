@@ -1,6 +1,6 @@
 goldpolish-logo.png
 GoldPolish
-https://github.com/bcgsc/goldpolish
+https://github.com/birollab/goldpolish
 
 
 

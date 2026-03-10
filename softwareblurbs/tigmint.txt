@@ -1,6 +1,6 @@
 tigmintlogo.png
 Tigmint
-https://github.com/bcgsc/tigmint
+https://github.com/birollab/tigmint
 brew install brewsci/bio/tigmint
 conda install -c bioconda tigmint
 docker run quay.io/biocontainers/tigmint

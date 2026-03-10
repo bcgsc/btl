@@ -1,6 +1,6 @@
 peekseq-logo.png
 peekseq
-https://github.com/bcgsc/peekseq
+https://github.com/birollab/peekseq
 
 conda install -c bioconda peekseq
 docker run quay.io/biocontainers/peekseq

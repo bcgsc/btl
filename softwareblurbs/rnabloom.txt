@@ -1,6 +1,6 @@
 rnabloomlogo.png
 RNA-Bloom
-https://github.com/bcgsc/RNA-Bloom
+https://github.com/birollab/RNA-Bloom
 
 conda install -c bioconda rnabloom
 docker run quay.io/biocontainers/rnabloom

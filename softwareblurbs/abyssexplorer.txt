@@ -1,6 +1,6 @@
 transparent.png
 ABySS-explorer
-https://github.com/bcgsc/abyss-explorer
+https://github.com/birollab/abyss-explorer
 brew install brewsci/bio/abyss-explorer
 
 

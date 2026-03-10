@@ -1,6 +1,6 @@
 rnascooplogo.png
 RNA-Scoop
-https://github.com/bcgsc/RNA-Scoop
+https://github.com/birollab/RNA-Scoop
 
 
 

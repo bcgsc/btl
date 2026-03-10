@@ -1,6 +1,6 @@
 hlaminer-logo.png
 HLAminer
-https://github.com/bcgsc/HLAminer
+https://github.com/birollab/HLAminer
 
 
 

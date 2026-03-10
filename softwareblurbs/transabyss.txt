@@ -1,6 +1,6 @@
 transparent.png
 Trans-ABySS
-https://github.com/bcgsc/transabyss
+https://github.com/birollab/transabyss
 brew install brewsci/science/trans-abyss
 conda install transabyss
 docker run quay.io/biocontainers/transabyss

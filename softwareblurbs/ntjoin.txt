@@ -1,6 +1,6 @@
 ntJoinlogo.png
 ntJoin
-https://github.com/bcgsc/ntJoin
+https://github.com/birollab/ntJoin
 brew install brewsci/bio/ntjoin
 conda install -c bioconda ntjoin
 docker run quay.io/biocontainers/ntjoin

@@ -1,6 +1,6 @@
 unikseq-logo.png
 unikseq
-https://github.com/bcgsc/unikseq
+https://github.com/birollab/unikseq
 
 conda install -c bioconda unikseq
 docker run quay.io/biocontainers/unikseq

@@ -1,6 +1,6 @@
 ntsyntviz-logo.png
 ntSynt-viz
-https://github.com/bcgsc/ntSynt-viz
+https://github.com/birollab/ntSynt-viz
 
 conda install -c bioconda ntsynt-viz
 

@@ -1,6 +1,6 @@
 ntCardlogo.png
 ntCard
-https://github.com/bcgsc/ntCard
+https://github.com/birollab/ntCard
 brew install brewsci/bio/ntcard
 conda install -c bioconda ntcard
 docker run quay.io/biocontainers/ntcard

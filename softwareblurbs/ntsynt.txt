@@ -1,6 +1,6 @@
 ntsynt-logo.png
 ntSynt
-https://github.com/bcgsc/ntSynt
+https://github.com/birollab/ntSynt
 
 conda install -c bioconda ntsynt
 docker run quay.io/biocontainers/ntsynt

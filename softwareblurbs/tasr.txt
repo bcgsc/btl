@@ -1,6 +1,6 @@
 tasr-logo.png
 TASR
-https://github.com/bcgsc/TASR
+https://github.com/birollab/TASR
 
 
 

@@ -1,6 +1,6 @@
 ntlinklogo.png
 ntLink
-https://github.com/bcgsc/ntLink
+https://github.com/birollab/ntLink
 brew install brewsci/bio/ntlink
 conda install -c bioconda ntlink
 docker run quay.io/biocontainers/ntlink

@@ -1,6 +1,6 @@
 transparent.png
 ChopStitch
-https://github.com/bcgsc/ChopStitch
+https://github.com/birollab/ChopStitch
 
 
 

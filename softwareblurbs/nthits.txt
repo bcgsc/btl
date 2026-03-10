@@ -1,6 +1,6 @@
 nthits-logo.png
 ntHits
-https://github.com/bcgsc/ntHits
+https://github.com/birollab/ntHits
 brew install brewsci/bio/nthits
 conda install -c bioconda nthits
 docker run quay.io/biocontainers/nthits

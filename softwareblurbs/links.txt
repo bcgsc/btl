@@ -1,6 +1,6 @@
 linkslogo.png
 LINKS
-https://github.com/bcgsc/LINKS
+https://github.com/birollab/LINKS
 brew install brewsci/bio/links-scaffolder
 conda install -c bioconda links
 docker run quay.io/biocontainers/links

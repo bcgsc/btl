@@ -1,6 +1,6 @@
 map-logo.png
 MAP
-https://github.com/bcgsc/MAP
+https://github.com/birollab/MAP
 
 
 

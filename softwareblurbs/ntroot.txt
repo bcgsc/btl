@@ -1,6 +1,6 @@
 ntroot-logo.png
 ntRoot
-https://github.com/bcgsc/ntroot
+https://github.com/birollab/ntroot
 
 conda install -c bioconda ntroot
 docker run quay.io/biocontainers/ntroot

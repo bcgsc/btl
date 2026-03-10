@@ -1,6 +1,6 @@
 didalogo.jpeg
 DIDA
-https://github.com/bcgsc/dida
+https://github.com/birollab/dida
 brew install brewsci/bio/dida
 
 

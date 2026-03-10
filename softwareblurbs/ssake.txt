@@ -1,6 +1,6 @@
 ssake-logo.png
 SSAKE
-https://github.com/bcgsc/SSAKE
+https://github.com/birollab/SSAKE
 
 conda install -c bioconda ssake
 docker run quay.io/biocontainers/ssake

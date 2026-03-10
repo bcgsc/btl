@@ -1,6 +1,6 @@
 transparent.png
 Kollector
-https://github.com/bcgsc/kollector
+https://github.com/birollab/kollector
 brew install brewsci/science/kollector
 
 

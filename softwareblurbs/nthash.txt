@@ -1,6 +1,6 @@
 ntHashlogo.png
 ntHash
-https://github.com/bcgsc/ntHash
+https://github.com/birollab/ntHash
 
 
 

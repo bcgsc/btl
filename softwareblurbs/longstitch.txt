@@ -1,6 +1,6 @@
 longstitchlogo.png
 LongStitch
-https://github.com/bcgsc/longstitch
+https://github.com/birollab/longstitch
 
 conda install -c bioconda longstitch
 docker run quay.io/biocontainers/longstitch

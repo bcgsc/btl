@@ -1,6 +1,6 @@
 xmatchviewlogo.png
 xmatchview
-https://github.com/bcgsc/xmatchview
+https://github.com/birollab/xmatchview
 brew install brewsci/bio/xmatchview
 conda install -c bioconda xmatchview
 docker run quay.io/biocontainers/xmatchview

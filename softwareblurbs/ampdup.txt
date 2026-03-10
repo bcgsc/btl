@@ -1,6 +1,6 @@
 ampduplogo.png
 AMPd-up
-https://github.com/bcgsc/ampd-up
+https://github.com/birollab/ampd-up
 
 conda install -c bioconda ampd-up
 docker run quay.io/biocontainers/ampd-up

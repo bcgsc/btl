@@ -1,6 +1,6 @@
 railslogo.png
 Cobbler/RAILS
-https://github.com/bcgsc/RAILS
+https://github.com/birollab/RAILS
 brew install brewsci/bio/rails
 
 

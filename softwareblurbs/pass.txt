@@ -1,6 +1,6 @@
 pass-logo.png
 PASS
-https://github.com/bcgsc/pass
+https://github.com/birollab/pass
 
 conda install -c bioconda pass
 docker run quay.io/biocontainers/pass
