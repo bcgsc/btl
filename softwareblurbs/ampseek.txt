@@ -1,6 +1,6 @@
 ampseek-logo.png
 AMPSeek
-https://github.com/bcgsc/AMPSeek
+https://github.com/birollab/AMPSeek
 
 
 

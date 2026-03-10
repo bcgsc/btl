@@ -1,6 +1,6 @@
 triamph-logo.png
 triAMPh
-https://github.com/bcgsc/triAMPh
+https://github.com/birollab/triAMPh
 
 
 
