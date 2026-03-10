@@ -1,6 +1,6 @@
 transparent.png
 PAVFinder
-https://github.com/bcgsc/pavfinder
+https://github.com/birollab/pavfinder
 
 conda install -c bioconda pavfinder
 docker run quay.io/biocontainers/pavfinder

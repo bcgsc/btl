@@ -1,6 +1,6 @@
 transparent.png
 Straglr
-https://github.com/bcgsc/straglr
+https://github.com/birollab/straglr
 
 conda install -c bioconda straglr
 docker run quay.io/biocontainers/straglr

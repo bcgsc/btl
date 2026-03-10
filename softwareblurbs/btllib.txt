@@ -1,6 +1,6 @@
 btllib.png
 btllib
-https://github.com/bcgsc/btllib
+https://github.com/birollab/btllib
 
 conda install -c bioconda btllib
 docker run quay.io/biocontainers/btllib
