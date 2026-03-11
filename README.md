@@ -1,4 +1,4 @@
-Website for Inanc Birol's Bioinformatics Technology Lab at Canada's Michael Smith Genome Sciences Centre
+Website for Inanc Birol's Bioinformatics Technology Lab at BC Cancer Research Institute
 
 See the full website at http://www.birollab.ca
 
