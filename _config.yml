@@ -1,8 +1,8 @@
-title: Birol Labs
-description: Birol Labs at Canada's Michael Smith Genome Sciences Centre and BC Centre for Disease Control
+title: Birol Lab
+description: Birol Lab at BC Cancer Research Institute 
 logo: "/assets/logo.png"
 col_url: "../../../../"
-repository: bcgsc/btl
+repository: birollab/btl
 
 plugins:
 - jekyll-sitemap
