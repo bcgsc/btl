@@ -1,0 +1,7 @@
+transparent.png
+aaKomp
+https://github.com/birollab/aaKomp
+
+
+
+Fast, alignment-free genome completeness estimator
