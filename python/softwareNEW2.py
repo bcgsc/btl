@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Generate and update the software-content.html file for birollab.ca
-3-column layout with category headings and improved alignment + highlighted headers.
+3-column layout with category headings, proper wrapping, and alignment.
 '''
 import glob
 import os
@@ -9,13 +9,13 @@ import sys
 from collections import defaultdict
 
 # HTML elements
-TD_START = '<td style="vertical-align:top; white-space:nowrap;">'
+TD_START = '<td style="vertical-align:top; word-break:break-word; overflow-wrap:anywhere;">'
 START = '<img class="software-logo" src="assets/logos/'
-P1 = '"><span class="software-title">'
+P1 = '"><span class="software-title" style="white-space:nowrap;">'
 P2 = ' <a href="'
 P3 = '"><img class="git" src="assets/githubicon.svg"></a></span>'
 
-DIV_START = '<div style="text-align:center;"><div class="downloadinfo">'
+DIV_START = '<div style="text-align:center;"><div class="downloadinfo" style="word-break:break-word;">'
 LINUXBREW_DIV = '<br>{% include linuxbrew-icon.html%}'
 CONDA_DIV = '<br>{% include bioconda-icon.html%}'
 DOCKER_DIV = '<br>{% include docker-icon.html%}'
@@ -28,7 +28,6 @@ def downloads(lin, bio, dock):
     """Format string with installation options, preserving alignment"""
     return_string = DIV_START
 
-    # Always render 3 lines to maintain alignment
     if lin:
         return_string += (LINUXBREW_DIV + lin)
     else:
@@ -51,7 +50,7 @@ def write_html(softwareblurbs_path):
     """Write the software-content.html file with 3 columns and highlighted category headings"""
     categories = defaultdict(list)
 
-    # Read all tools
+    # Read tools
     for my_file in sorted(glob.glob("*.txt")):
         with open(my_file, 'r') as fin:
             lines = [line.strip() for line in fin.readlines()]
@@ -65,12 +64,16 @@ def write_html(softwareblurbs_path):
 
     # Write HTML
     with open(os.path.join(softwareblurbs_path, "../_includes/software-content.html"), "w+") as software:
+
+        # Ensure table behaves within page width
+        software.write('<table style="width:100%; table-layout:fixed;">\n')
+
         for category in sorted(categories.keys()):
-            # Highlighted category header row
+            # Highlighted header row (no nowrap!)
             software.write(
                 '<tr>'
                 '<td colspan="3" style="background-color:#87C1F9; '
-                'white-space:nowrap; padding:10px; font-weight:bold;">'
+                'padding:10px; font-weight:bold;">'
                 f'{category}'
                 '</td>'
                 '</tr>\n'
@@ -101,10 +104,12 @@ def write_html(softwareblurbs_path):
             if i % 3 != 0:
                 remaining = 3 - (i % 3)
                 for _ in range(remaining):
-                    software.write('<td style="white-space:nowrap;"></td>')
+                    software.write('<td></td>')
                 software.write("</tr>\n")
 
             software.write("\n")
+
+        software.write('</table>\n')
 
 
 def main():
