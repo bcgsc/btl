@@ -4,5 +4,5 @@ https://github.com/birollab/tAMPer
 
 
 
-Toxicity prediction w/3D structure-aware deep learning
+Peptide toxicity prediction
 Antimicrobial Peptide (AMP) Discovery
