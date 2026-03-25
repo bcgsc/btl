@@ -5,3 +5,4 @@ https://github.com/birollab/aaKomp
 conda install -c bioconda aakomp
 docker run quay.io/biocontainers/aakomp
 Fast, alignment-free genome completeness estimator
+Genome Analysis

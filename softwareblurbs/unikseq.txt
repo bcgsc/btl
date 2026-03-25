@@ -5,3 +5,4 @@ https://github.com/birollab/unikseq
 conda install -c bioconda unikseq
 docker run quay.io/biocontainers/unikseq
 Unique region identification in DNA sequences, using k-mers
+Genome Analysis

@@ -5,3 +5,4 @@ https://github.com/birollab/peekseq
 conda install -c bioconda peekseq
 docker run quay.io/biocontainers/peekseq
 De novo protein-coding potential predictor
+Genome Analysis

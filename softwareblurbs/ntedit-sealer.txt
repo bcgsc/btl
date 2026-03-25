@@ -5,3 +5,4 @@ brew install brewsci/bio/nthits ntedit abyss
 conda install -c bioconda nthits ntedit abyss
 
 Targeted error resolution, automated genome finishing
+Genome Assembly

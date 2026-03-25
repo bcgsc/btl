@@ -5,3 +5,4 @@ https://github.com/birollab/SSAKE
 conda install -c bioconda ssake
 docker run quay.io/biocontainers/ssake
 De novo Genome Assembler with Short Sequence Reads
+Genome Assembly

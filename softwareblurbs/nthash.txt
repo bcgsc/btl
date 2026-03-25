@@ -5,3 +5,4 @@ https://github.com/birollab/ntHash
 
 
 Recursive hashing algorithm tuned for processing DNA/RNA sequences
+Utilities

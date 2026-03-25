@@ -5,3 +5,4 @@ https://github.com/birollab/NanoSim
 conda install -c bioconda nanosim
 docker run quay.io/biocontainers/nanosim
 Nanopore read sequence simulator, guided by technology-specific features
+Utilities

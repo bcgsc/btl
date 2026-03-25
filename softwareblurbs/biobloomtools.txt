@@ -5,3 +5,4 @@ brew install brewsci/bio/biobloomtools
 conda install -c bioconda biobloomtools
 docker run quay.io/biocontainers/biobloomtools
 Memory efficient sequence read mapping with Bloom filters
+Utilities

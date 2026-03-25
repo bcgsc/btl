@@ -5,3 +5,4 @@ https://github.com/birollab/AMPSeek
 
 
 Anti-microbial property, protein structure and toxicity detection from peptide sequences
+AMP Discovery
