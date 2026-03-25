@@ -4,5 +4,5 @@ https://github.com/birollab/btllib
 
 conda install -c bioconda btllib
 docker run quay.io/biocontainers/btllib
-Genomic sequence processing common code C++ library, with Python API
+Sequence processing C++ library, with Python API
 Utilities

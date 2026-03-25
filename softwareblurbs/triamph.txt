@@ -4,5 +4,5 @@ https://github.com/birollab/triAMPh
 
 
 
-TaRget Identification of AntiMicrobial Peptides with Heterogeneous graph attention networks
-AMP Discovery
+Heterogeneous graph attention networks in AMP predictions
+Antimicrobial Peptide (AMP) Discovery

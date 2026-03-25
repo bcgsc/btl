@@ -5,4 +5,4 @@ https://github.com/birollab/rampage
 
 
 Rapid AMP Annotation and Gene Estimation
-AMP Discovery
+Antimicrobial Peptide (AMP) Discovery

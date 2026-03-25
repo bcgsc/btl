@@ -1,0 +1,8 @@
+transparent.png
+aaHash
+https://github.com/birollab/btllib
+
+
+
+Hashing algorithm for amino acid sequences
+Utilities

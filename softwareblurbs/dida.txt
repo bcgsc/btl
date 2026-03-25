@@ -4,5 +4,5 @@ https://github.com/birollab/dida
 brew install brewsci/bio/dida
 
 
-Sequence alignment pipeline to distribute indexing/alignments on compute farms
+Sequence alignment pipeline to distribute indexing/alignments
 Genome Analysis

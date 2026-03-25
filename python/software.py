@@ -1,75 +1,120 @@
 #!/usr/bin/env python
 '''
 Generate and update the software-content.html file for birollab.ca
+3-column layout with improved styling, lighter headers, tighter spacing.
 '''
 import glob
 import os
 import sys
+from collections import defaultdict
 
-# Defining different html elements
-START = '<td><img class="software-logo" src="assets/logos/'
-P1 = '"><span class="software-title">'
+# HTML elements
+TD_START = '<td style="vertical-align:top; padding:6px; word-break:break-word; overflow-wrap:anywhere;">'
+START = '<img class="software-logo" src="assets/logos/'
+P1 = '"><span class="software-title" style="white-space:nowrap;">'
 P2 = ' <a href="'
 P3 = '"><img class="git" src="assets/githubicon.svg"></a></span>'
 
-DIV_START = '<div style="text-align:center;"><div class="downloadinfo">'
+# Smaller, compact install block
+DIV_START = '<div style="text-align:center; margin-top:4px;"><div class="downloadinfo" style="font-size:12px; font-family:monospace; white-space:nowrap;">'
 LINUXBREW_DIV = '<br>{% include linuxbrew-icon.html%}'
 CONDA_DIV = '<br>{% include bioconda-icon.html%}'
 DOCKER_DIV = '<br>{% include docker-icon.html%}'
 DIV_END = '</div></div>'
 
-P4 = '<p style="padding-top:0">'
+P4 = '<p style="padding-top:4px; margin:0;">'
 END = '</p></td>'
 
 def downloads(lin, bio, dock):
-    "Format string with installation options"
-    return_string = ""
-    if not lin and not bio and not dock:
-        return return_string
-    return_string += DIV_START
+    """Format string with installation options, preserving alignment"""
+    return_string = DIV_START
+
     if lin:
         return_string += (LINUXBREW_DIV + lin)
+    else:
+        return_string += "<br>&nbsp;"
+
     if bio:
         return_string += (CONDA_DIV + bio)
+    else:
+        return_string += "<br>&nbsp;"
+
     if dock:
         return_string += (DOCKER_DIV + dock)
+    else:
+        return_string += "<br>&nbsp;"
+
     return return_string + DIV_END
 
 
 def write_html(softwareblurbs_path):
-    "Write the software-content.html file"
-    i = 0
+    """Write the software-content.html file with improved layout"""
+    categories = defaultdict(list)
 
-    with open(softwareblurbs_path + "/../_includes/software-content.html", "w+") as software:
-        for my_file in sorted(glob.glob("*.txt")):
-            with open(my_file, 'r') as fin:
-                lines = [line.strip() for line in fin.readlines()]
+    # Read tools
+    for my_file in sorted(glob.glob("*.txt")):
+        with open(my_file, 'r') as fin:
+            lines = [line.strip() for line in fin.readlines()]
 
-                logofile, name, github, linuxbrew, bioconda, docker, desc = lines[:7]
+            if len(lines) < 8:
+                print(f"Skipping {my_file}, not enough lines")
+                continue
 
-                if i % 2 == 0:
-                    software.write("<tr>")
+            logofile, name, github, linuxbrew, bioconda, docker, desc, category = lines[:8]
+            categories[category].append((logofile, name, github, linuxbrew, bioconda, docker, desc))
 
-                html = START + logofile + P1 + name + P2 + github + P3 +\
-                    downloads(linuxbrew, bioconda, docker) + P4 + desc + END
+    # Write HTML
+    with open(os.path.join(softwareblurbs_path, "../_includes/software-content.html"), "w+") as software:
+
+        # Tight table layout (removes spacing between cells)
+        software.write('<table style="width:100%; table-layout:fixed; border-collapse:collapse;">\n')
+
+        for category in sorted(categories.keys()):
+            # Lighter header, larger font, black text
+            software.write(
+                '<tr>'
+                '<td colspan="3" style="background-color:#DCEEFF; '
+                'padding:10px; font-weight:bold; font-size:20px; color:black;">'
+                f'{category}'
+                '</td>'
+                '</tr>\n'
+            )
+
+            i = 0
+            for tool in categories[category]:
+                logofile, name, github, linuxbrew, bioconda, docker, desc = tool
+
+                if i % 3 == 0:
+                    software.write("<tr>\n")
+
+                html = (
+                    TD_START +
+                    START + logofile + P1 + name + P2 + github + P3 +
+                    downloads(linuxbrew, bioconda, docker) +
+                    P4 + desc + END
+                )
+
                 software.write(html)
 
-                if i % 2 == 1:
-                    software.write("</tr>")
+                if i % 3 == 2:
+                    software.write("</tr>\n")
 
-                software.write("\n\n")
                 i += 1
 
-        if i % 2 == 1:
-            software.write("<td></td></tr>")
+            # Pad final row
+            if i % 3 != 0:
+                remaining = 3 - (i % 3)
+                for _ in range(remaining):
+                    software.write('<td></td>')
+                software.write("</tr>\n")
 
-        software.seek(0, os.SEEK_END)
-        software.seek(software.tell()-7, os.SEEK_SET)
+            software.write("\n")
 
+        software.write('</table>\n')
 
 
 def main():
-    "Generate the birollab.ca software html"
+    """Generate the birollab.ca software html"""
     if len(sys.argv[1:]) != 1:
         print("Usage:", sys.argv[0], "<Full path to softwareblurbs directory>")
         sys.exit()

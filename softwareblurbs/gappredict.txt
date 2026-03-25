@@ -4,5 +4,5 @@ https://github.com/birollab/GapPredict
 
 
 
-LSTM character-level language model for genome assembly gap filling
+LSTM character-level language model for genome gap filling
 Genome Assembly
