@@ -4,5 +4,5 @@ https://github.com/birollab/ntStat
 
 conda install bioconda::ntstat
 docker run quay.io/biocontainers/ntstat
-Toolkit for statistical analysis of k-mer frequency and depth
+Statistical analysis of k-mers
 Utilities
