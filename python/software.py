@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Generate and update the software-content.html file for birollab.ca
-3-column layout with improved styling, lighter headers, tighter spacing.
+3-column layout with aligned install blocks and improved styling.
 '''
 import glob
 import os
@@ -15,40 +15,39 @@ P1 = '"><span class="software-title" style="white-space:nowrap;">'
 P2 = ' <a href="'
 P3 = '"><img class="git" src="assets/githubicon.svg"></a></span>'
 
-# Smaller, compact install block
-DIV_START = '<div style="text-align:center; margin-top:4px;"><div class="downloadinfo" style="font-size:12px; font-family:monospace; white-space:nowrap;">'
-LINUXBREW_DIV = '<br>{% include linuxbrew-icon.html%}'
-CONDA_DIV = '<br>{% include bioconda-icon.html%}'
-DOCKER_DIV = '<br>{% include docker-icon.html%}'
-DIV_END = '</div></div>'
+# Install block styling (key fix here)
+DIV_START = '<div style="text-align:center; margin-top:4px;">'
+LINE_STYLE = 'style="font-size:12px; font-family:monospace; height:18px; line-height:18px; white-space:nowrap;"'
+
+LINUXBREW_ICON = '{% include linuxbrew-icon.html%}'
+CONDA_ICON = '{% include bioconda-icon.html%}'
+DOCKER_ICON = '{% include docker-icon.html%}'
+
+DIV_END = '</div>'
 
 P4 = '<p style="padding-top:4px; margin:0;">'
 END = '</p></td>'
 
+def line(icon, text):
+    """Return a fixed-height line"""
+    if text:
+        return f'<div {LINE_STYLE}>{icon} {text}</div>'
+    else:
+        return f'<div {LINE_STYLE}>&nbsp;</div>'
+
 def downloads(lin, bio, dock):
-    """Format string with installation options, preserving alignment"""
-    return_string = DIV_START
-
-    if lin:
-        return_string += (LINUXBREW_DIV + lin)
-    else:
-        return_string += "<br>&nbsp;"
-
-    if bio:
-        return_string += (CONDA_DIV + bio)
-    else:
-        return_string += "<br>&nbsp;"
-
-    if dock:
-        return_string += (DOCKER_DIV + dock)
-    else:
-        return_string += "<br>&nbsp;"
-
-    return return_string + DIV_END
+    """Aligned 3-line install block"""
+    return (
+        DIV_START +
+        line(LINUXBREW_ICON, lin) +
+        line(CONDA_ICON, bio) +
+        line(DOCKER_ICON, dock) +
+        DIV_END
+    )
 
 
 def write_html(softwareblurbs_path):
-    """Write the software-content.html file with improved layout"""
+    """Write the software-content.html file with aligned layout"""
     categories = defaultdict(list)
 
     # Read tools
@@ -66,11 +65,10 @@ def write_html(softwareblurbs_path):
     # Write HTML
     with open(os.path.join(softwareblurbs_path, "../_includes/software-content.html"), "w+") as software:
 
-        # Tight table layout (removes spacing between cells)
         software.write('<table style="width:100%; table-layout:fixed; border-collapse:collapse;">\n')
 
         for category in sorted(categories.keys()):
-            # Lighter header, larger font, black text
+            # Header
             software.write(
                 '<tr>'
                 '<td colspan="3" style="background-color:#DCEEFF; '
@@ -101,7 +99,7 @@ def write_html(softwareblurbs_path):
 
                 i += 1
 
-            # Pad final row
+            # Pad last row
             if i % 3 != 0:
                 remaining = 3 - (i % 3)
                 for _ in range(remaining):

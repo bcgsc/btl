@@ -4,5 +4,5 @@ https://github.com/birollab/ntSynt
 
 conda install -c bioconda ntsynt
 docker run quay.io/biocontainers/ntsynt
-Multi-genome synteny detection using minimizer graph mapping
+Multi-genome synteny detection w/minimizers
 Comparative Genomics

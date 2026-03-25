@@ -4,5 +4,5 @@ https://github.com/birollab/ChopStitch
 
 
 
-De novo exon prediction and splice graph construction
+De novo exon prediction and splice graph
 Genome Analysis

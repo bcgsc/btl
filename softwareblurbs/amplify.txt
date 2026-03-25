@@ -4,5 +4,5 @@ https://github.com/birollab/AMPlify
 
 conda install -c bioconda amplify
 docker run quay.io/biocontainers/amplify
-Attentive deep learning model for antimicrobial peptide prediction
+Deep learning model for AMP prediction
 Antimicrobial Peptide (AMP) Discovery
