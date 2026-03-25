@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 '''
 Generate and update the software-content.html file for birollab.ca
-3-column layout with aligned install blocks, clickable cards, and subtle row striping.
+3-column layout with aligned install blocks and improved styling.
 '''
 import glob
 import os
@@ -9,13 +9,13 @@ import sys
 from collections import defaultdict
 
 # HTML elements
-TD_BASE = 'style="vertical-align:top; padding:6px; word-break:break-word; overflow-wrap:anywhere;"'
+TD_START = '<td style="vertical-align:top; padding:6px; word-break:break-word; overflow-wrap:anywhere;">'
 START = '<img class="software-logo" src="assets/logos/'
 P1 = '"><span class="software-title" style="white-space:nowrap;">'
 P2 = ' <a href="'
 P3 = '"><img class="git" src="assets/githubicon.svg"></a></span>'
 
-# Install block (fixed height rows)
+# Install block styling (key fix here)
 DIV_START = '<div style="text-align:center; margin-top:4px;">'
 LINE_STYLE = 'style="font-size:12px; font-family:monospace; height:18px; line-height:18px; white-space:nowrap;"'
 
@@ -25,17 +25,19 @@ DOCKER_ICON = '{% include docker-icon.html%}'
 
 DIV_END = '</div>'
 
-# Description styling (bold, clean)
-P4 = '<p style="padding-top:4px; margin:0; font-weight:600;">'
-END = '</p>'
+# ✅ Bold description (only change here)
+P4 = '<p style="padding-top:4px; margin:0; font-weight:bold;">'
+END = '</p></td>'
 
 def line(icon, text):
+    """Return a fixed-height line"""
     if text:
         return f'<div {LINE_STYLE}>{icon} {text}</div>'
     else:
         return f'<div {LINE_STYLE}>&nbsp;</div>'
 
 def downloads(lin, bio, dock):
+    """Aligned 3-line install block"""
     return (
         DIV_START +
         line(LINUXBREW_ICON, lin) +
@@ -44,7 +46,9 @@ def downloads(lin, bio, dock):
         DIV_END
     )
 
+
 def write_html(softwareblurbs_path):
+    """Write the software-content.html file with aligned layout"""
     categories = defaultdict(list)
 
     # Read tools
@@ -59,6 +63,7 @@ def write_html(softwareblurbs_path):
             logofile, name, github, linuxbrew, bioconda, docker, desc, category = lines[:8]
             categories[category].append((logofile, name, github, linuxbrew, bioconda, docker, desc))
 
+    # Write HTML
     with open(os.path.join(softwareblurbs_path, "../_includes/software-content.html"), "w+") as software:
 
         software.write('<table style="width:100%; table-layout:fixed; border-collapse:collapse;">\n')
@@ -75,32 +80,27 @@ def write_html(softwareblurbs_path):
             )
 
             i = 0
-            row_index = 0
-
             for tool in categories[category]:
                 logofile, name, github, linuxbrew, bioconda, docker, desc = tool
 
-                # Alternate row shading (very light)
-                row_style = ' style="background-color:#F7FBFF;"' if row_index % 2 == 1 else ''
-
                 if i % 3 == 0:
-                    software.write(f"<tr{row_style}>\n")
+                    software.write("<tr>\n")
 
-                # Entire cell clickable
+                # ✅ Wrap entire cell content in link (no styling changes)
                 html = (
-                    f'<td {TD_BASE}>'
-                    f'<a href="{github}" style="text-decoration:none; color:inherit;">'
-                    + START + logofile + P1 + name + '</span>' +
+                    TD_START +
+                    f'<a href="{github}" style="text-decoration:none; color:inherit;">' +
+                    START + logofile + P1 + name + P2 + github + P3 +
                     downloads(linuxbrew, bioconda, docker) +
-                    P4 + desc + END +
-                    '</a></td>'
+                    P4 + desc +
+                    '</a>' +  # close link before END td
+                    END
                 )
 
                 software.write(html)
 
                 if i % 3 == 2:
                     software.write("</tr>\n")
-                    row_index += 1
 
                 i += 1
 
@@ -110,7 +110,6 @@ def write_html(softwareblurbs_path):
                 for _ in range(remaining):
                     software.write('<td></td>')
                 software.write("</tr>\n")
-                row_index += 1
 
             software.write("\n")
 
@@ -118,6 +117,7 @@ def write_html(softwareblurbs_path):
 
 
 def main():
+    """Generate the birollab.ca software html"""
     if len(sys.argv[1:]) != 1:
         print("Usage:", sys.argv[0], "<Full path to softwareblurbs directory>")
         sys.exit()
