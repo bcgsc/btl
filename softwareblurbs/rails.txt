@@ -4,5 +4,5 @@ https://github.com/birollab/RAILS
 brew install brewsci/bio/rails
 
 
-Gap-filling (cobbler) and scaffolding (RAILS) with long reads
+Gap-filling + scaffolding w/long reads
 Genome Assembly

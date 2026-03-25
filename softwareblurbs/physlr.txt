@@ -4,5 +4,5 @@ https://github.com/birollab/physlr
 
 conda install -c bioconda physlr
 docker run quay.io/biocontainers/physlr
-Chromosome-scale scaffolding by linked read physical map
+Scaffolding w/linked read physical map
 Genome Assembly

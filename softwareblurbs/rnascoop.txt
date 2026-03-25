@@ -4,5 +4,5 @@ https://github.com/birollab/RNA-Scoop
 
 
 
-Isoform visualization tool for single-cell transcriptomes
+Single-cell transcriptomes isoform visualization
 Transcriptome Assembly

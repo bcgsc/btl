@@ -4,5 +4,5 @@ https://github.com/birollab/ntedit_sealer_protocol
 brew install brewsci/bio/nthits ntedit abyss
 conda install -c bioconda nthits ntedit abyss
 
-Targeted error resolution, automated genome finishing
+Targeted polishing + automated genome finishing
 Genome Assembly

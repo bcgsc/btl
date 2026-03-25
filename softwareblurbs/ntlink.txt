@@ -4,5 +4,5 @@ https://github.com/birollab/ntLink
 brew install brewsci/bio/ntlink
 conda install -c bioconda ntlink
 docker run quay.io/biocontainers/ntlink
-Genome assembly scaffolding using long reads and minimizers
+Long read genome assembly scaffolding w/minimizers
 Genome Assembly

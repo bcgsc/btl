@@ -4,5 +4,5 @@ https://github.com/birollab/mtgrasp
 
 conda install -c bioconda mtgrasp
 docker run quay.io/biocontainers/mtgrasp
-Mitochondrial genome assembly and standardization pipeline
+Mitochondrial genome assembly + standardization
 Genome Assembly

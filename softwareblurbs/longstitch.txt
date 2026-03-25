@@ -4,5 +4,5 @@ https://github.com/birollab/longstitch
 
 conda install -c bioconda longstitch
 docker run quay.io/biocontainers/longstitch
-Genome assembly correction+scaffolding with long reads
+Assembly correction+scaffolding w/long reads
 Genome Assembly

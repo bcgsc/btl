@@ -4,5 +4,5 @@ https://github.com/birollab/AIEdit
 
 
 
-Machine learning-based alignment-free genome polisher
+Machine learning-based genome polisher
 Genome Assembly

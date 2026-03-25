@@ -4,5 +4,5 @@ https://github.com/birollab/pavfinder
 
 conda install -c bioconda pavfinder
 docker run quay.io/biocontainers/pavfinder
-Structural variants identification in genome assemblies
+Structural variants identification
 Genome Analysis

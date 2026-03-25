@@ -4,5 +4,5 @@ https://github.com/birollab/abyss
 brew install abyss
 conda install -c bioconda abyss
 docker run quay.io/biocontainers/abyss
-scalable gap-closing application for finishing draft genomes
+Gap-closing for finishing draft genomes
 Genome Assembly
