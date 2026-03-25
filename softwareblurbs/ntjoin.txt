@@ -4,5 +4,5 @@ https://github.com/birollab/ntJoin
 brew install brewsci/bio/ntjoin
 conda install -c bioconda ntjoin
 docker run quay.io/biocontainers/ntjoin
-Assembly-guided scaffolding using minimizer graphs
+Assembly-guided scaffolding w/minimizer graphs
 Genome Assembly

@@ -4,5 +4,5 @@ https://github.com/birollab/abyss
 brew install abyss
 conda install -c bioconda abyss
 docker run quay.io/biocontainers/abyss
-Scalable de novo genome assembler with short reads 
+Scalable short reads de novo genome assembler
 Genome Assembly
