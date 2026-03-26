@@ -1,5 +1,5 @@
 transparent.png
-BioBloom Tools
+BioBloomTools
 https://github.com/birollab/biobloom
 brew install brewsci/bio/biobloomtools
 conda install -c bioconda biobloomtools
