@@ -5,4 +5,4 @@ https://github.com/birollab/ChopStitch
 
 
 De novo exon prediction and splice graph
-Legacy
+Vintage

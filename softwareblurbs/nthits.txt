@@ -5,4 +5,4 @@ brew install brewsci/bio/nthits
 conda install -c bioconda nthits
 docker run quay.io/biocontainers/nthits
 Repeat k-mer identification in DNA sequencing data
-Legacy
+Vintage
