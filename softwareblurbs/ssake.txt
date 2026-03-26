@@ -5,4 +5,4 @@ https://github.com/birollab/SSAKE
 conda install -c bioconda ssake
 docker run quay.io/biocontainers/ssake
 Short read genome assembler
-Genome Assembly
+Legacy

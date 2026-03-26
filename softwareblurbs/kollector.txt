@@ -5,4 +5,4 @@ brew install brewsci/science/kollector
 
 
 Targeted de novo gene assembly pipeline
-Genome Assembly
+Legacy

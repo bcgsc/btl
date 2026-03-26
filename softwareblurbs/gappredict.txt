@@ -5,4 +5,4 @@ https://github.com/birollab/GapPredict
 
 
 LSTM model for genome gap filling
-Genome Assembly
+Legacy

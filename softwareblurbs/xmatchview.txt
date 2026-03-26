@@ -5,4 +5,4 @@ brew install brewsci/bio/xmatchview
 conda install -c bioconda xmatchview
 docker run quay.io/biocontainers/xmatchview
 Genome sequence alignment/synteny visualization
-Comparative Genomics
+Legacy

@@ -5,4 +5,4 @@ brew install brewsci/bio/dida
 
 
 Distribution of sequence indexing/alignments
-Genome Analysis
+Legacy
