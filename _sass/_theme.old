@@ -60,8 +60,8 @@ body {
 }
 
 img.software-logo {
-    max-width: 120px;
-    height: auto;
+  height:70px;
+  width:auto;
 }
 
 img.social-media {

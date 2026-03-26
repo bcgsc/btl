@@ -18,15 +18,34 @@ title: Resources
 
 /* Mobile */
 @media screen and (max-width: 600px) {
-    .software table td {
-        display: block;
-        width: 100%;
-    }
 
-    .software table tr {
-        display: block;
-        margin-bottom: 10px;
-    }
+   /* Default desktop */
+   .software table {
+       width: 100%;
+       border-collapse: collapse;
+   }
+
+   /* Mobile fix */
+   @media screen and (max-width: 700px) {
+
+       .software table,
+       .software tbody,
+       .software tr,
+       .software td {
+           display: block;
+           width: 100%;
+       }
+
+       .software tr {
+           margin-bottom: 20px;
+       }
+
+       .software td {
+           text-align: center;
+           padding: 10px 0;
+       }
+   }
+
 }
 </style>
 
