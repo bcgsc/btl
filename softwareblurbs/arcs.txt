@@ -1,5 +1,5 @@
 arcslogo.png
-ARCS / ARKS
+ARCS/ARKS
 https://github.com/birollab/arcs
 brew install brewsci/bio/arcs
 conda install -c bioconda arcs
