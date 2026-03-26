@@ -1,8 +1,8 @@
 transparent.png
-ABySSexplorer
+ABySS-explorer
 https://github.com/birollab/abyss-explorer
 brew install brewsci/bio/abyss-explorer
 
 
 Visual exploration of genome sequence assemblies
-Legacy
+< Legacy >
