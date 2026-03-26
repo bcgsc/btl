@@ -76,6 +76,22 @@ body {
   }
 }
 
+.col.software td code,
+.col.software td pre,
+.col.software td {
+  overflow-wrap: anywhere;   // modern, best option
+  word-break: break-word;    // fallback
+}
+
+.col.software code {
+  white-space: normal;   // allow wrapping
+}
+
+.col.software code {
+  font-size: 0.75rem;
+  line-height: 1.3;
+}
+
 img.social-media {
     height: 1.3em;
     display: inline;
