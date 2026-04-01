@@ -1,8 +1,8 @@
-transparent.png
+btllib.png
 aaHash
 https://github.com/birollab/btllib
 
-
-
+conda install -c bioconda btllib
+docker run quay.io/biocontainers/btllib
 Hashing algorithm for amino acid sequences
 Utilities
