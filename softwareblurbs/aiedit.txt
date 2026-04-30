@@ -1,8 +1,8 @@
-transparent.png
+AIEdit-logo.png
 AIEdit
-https://github.com/birollab/AIEdit
+https://github.com/BirolLab/AIEdit
 
-
-
-Machine learning-based genome polisher
+conda install bioconda::aiedit
+docker run quay.io/biocontainers/aiedit
+ML-based alignment-free genome assembly polisher
 Genome Assembly
